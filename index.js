@@ -44,7 +44,7 @@ function messageResponse(inputMessage) {
         responseText = event.message.text;
   }
   return responseText;
-}
+};
 
 
 // generic function sending messages
