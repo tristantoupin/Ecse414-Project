@@ -36,12 +36,12 @@ app.post('/webhook', function (req, res) {
 
 function messageResponse(inputMessage) {
   var responseText = event.message.text;
-  switch(responseText.toLowerCase()) {
+  switch(responseText) {
     case "hello":
-        responseText = "tyl"
+        responseText = "tyl";
         break;
     default:
-        responseText = event.message.text
+        responseText = event.message.text;
   }
   return responseText;
 }
