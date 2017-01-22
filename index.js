@@ -32,6 +32,9 @@ app.post('/webhook', function (req, res) {
               case "hello":
                   responseText = "tyl"
                   break;
+              case "time":
+                  responseText = getTime()
+                  break;
               default:
                   responseText = event.message.text
             }
