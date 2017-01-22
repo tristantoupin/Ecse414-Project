@@ -27,25 +27,19 @@ app.post('/webhook', function (req, res) {
     for (i = 0; i < events.length; i++) {
         var event = events[i];
         if (event.message && event.message.text) {
-            sendMessage(event.sender.id, {text: messageResponse(event.message.text)});
+            var responseText = "";
+            switch(event.message.text) {
+              case "hello":
+                  responseText = "tyl"
+                  break;
+              default:
+                  responseText = event.message.text
+            }
+            sendMessage(event.sender.id, {text: responseText});
         }
     }
     res.sendStatus(200);
 });
-
-
-function messageResponse(inputMessage) {
-  var responseText = event.message.text;
-  switch(responseText) {
-    case "hello":
-        responseText = "tyl";
-        break;
-    default:
-        responseText = event.message.text;
-  }
-  return responseText;
-}
-
 
 // generic function sending messages
 function sendMessage(recipientId, message) {
