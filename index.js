@@ -33,7 +33,8 @@ app.post('/webhook', function (req, res) {
                   responseText = "tyl"
                   break;
               case "time":
-                  responseText = getTime()
+                  var d = new Date();
+                  responseText = d.toString();
                   break;
               default:
                   responseText = event.message.text
