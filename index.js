@@ -27,9 +27,15 @@ app.post('/webhook', function (req, res) {
     for (i = 0; i < events.length; i++) {
         var event = events[i];
         if (event.message && event.message.text) {
-            sendMessage(event.sender.id, {text: "Echo: " + event.message.text});
-        } else if (event.photos) {
-            sendMessage(event.sender.id, {text: "Don't fucking send me photos bitch"});
+            var responseText = "";
+            switch(event.message.text) {
+              case "hello":
+                  responseText = "tyl"
+                  break;
+              default:
+                  responseText = event.message.text
+            }
+            sendMessage(event.sender.id, {text: responseText});
         }
     }
     res.sendStatus(200);
