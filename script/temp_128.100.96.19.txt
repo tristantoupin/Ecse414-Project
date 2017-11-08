@@ -1,0 +1,34 @@
+Start time:  Wed 8 Nov 2017 12:33:41 EST
+ 1  gateway (142.157.26.2)  7.170 ms  6.489 ms  6.726 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  7.883 ms  6.929 ms  7.028 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  3.737 ms  5.730 ms  10.724 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  13.977 ms  5.665 ms  18.082 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  25.313 ms  13.367 ms  10.575 ms
+ 6  canet-rq.risq.net (132.202.80.10)  5.660 ms  10.653 ms  11.092 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  8.618 ms  19.886 ms  12.770 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  71.677 ms  58.262 ms  55.153 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  22.238 ms  23.497 ms  21.480 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  78.664 ms  89.697 ms  47.006 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  67.929 ms  82.482 ms  68.204 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  12.679 ms *  20.624 ms
+End time:  Wed 8 Nov 2017 12:33:41 EST
+
+
+
+Start time:  Wed 8 Nov 2017 13:06:57 EST
+ 1  gateway (142.157.26.2)  16.255 ms  62.393 ms  18.568 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  21.679 ms  17.343 ms  23.651 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  7.084 ms  10.751 ms  17.531 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  51.588 ms  86.546 ms  57.315 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  97.817 ms  120.275 ms  72.558 ms
+ 6  canet-rq.risq.net (132.202.80.10)  22.319 ms  34.857 ms  67.530 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  41.991 ms  17.945 ms  15.135 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  102.133 ms  75.008 ms  104.514 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  119.656 ms  30.181 ms  30.687 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  30.109 ms  34.494 ms  21.355 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  53.659 ms  63.654 ms  115.504 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  190.107 ms *  46.786 ms
+End time:  Wed 8 Nov 2017 13:06:57 EST
+
+
+

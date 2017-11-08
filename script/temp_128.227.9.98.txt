@@ -1,0 +1,46 @@
+Start time:  Wed 8 Nov 2017 12:33:33 EST
+ 1  gateway (142.157.26.2)  4.720 ms  4.719 ms  7.759 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.658 ms  5.386 ms  8.833 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  6.078 ms  4.443 ms  2.680 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  6.835 ms  6.083 ms  10.331 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  8.566 ms  7.205 ms  15.169 ms
+ 6  canet-rq.risq.net (132.202.80.10)  42.742 ms  31.743 ms  22.210 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  5.861 ms  4.965 ms  7.372 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  83.861 ms  93.661 ms  78.659 ms
+ 9  ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  67.252 ms  85.175 ms  70.164 ms
+10  et-7-3-0.4072.rtsw.atla.net.internet2.edu (198.71.45.6)  74.803 ms  87.473 ms  65.844 ms
+11  et-3-0-0.4079.sdn-sw.jack.net.internet2.edu (162.252.70.43)  49.119 ms  42.811 ms  44.884 ms
+12  jax-flrcore-asr9010-1-hu0700-1070.net.flrnet.org (108.59.25.20)  44.475 ms  43.639 ms  66.189 ms
+13  tlh-flrcore-asr9010-1-hu0701-1.net.flrnet.org (108.59.31.158)  51.072 ms  48.207 ms  48.823 ms
+14  con-ufl-gnv-renet-v1908.net.flrnet.org (108.59.26.243)  78.945 ms  51.363 ms  54.312 ms
+15  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  50.118 ms  62.345 ms  110.048 ms
+16  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  47.696 ms  51.845 ms  83.300 ms
+17  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  53.333 ms  51.180 ms  75.605 ms
+18  ufl.edu (128.227.9.98)  52.600 ms  48.266 ms  50.002 ms
+End time:  Wed 8 Nov 2017 12:33:33 EST
+
+
+
+Start time:  Wed 8 Nov 2017 13:06:48 EST
+ 1  gateway (142.157.26.2)  42.679 ms  7.176 ms  50.725 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  9.024 ms  30.390 ms  18.428 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  4.114 ms  9.095 ms  6.217 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  47.537 ms  51.240 ms  73.672 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  228.243 ms  284.145 ms  275.355 ms
+ 6  canet-rq.risq.net (132.202.80.10)  64.042 ms  74.196 ms  73.442 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  230.417 ms  36.946 ms  166.123 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  101.525 ms  86.384 ms  92.796 ms
+ 9  ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  41.763 ms  41.195 ms  45.682 ms
+10  et-7-3-0.4072.rtsw.atla.net.internet2.edu (198.71.45.6)  302.024 ms  94.946 ms  94.003 ms
+11  et-3-0-0.4079.sdn-sw.jack.net.internet2.edu (162.252.70.43)  73.790 ms  60.281 ms  293.296 ms
+12  jax-flrcore-asr9010-1-hu0700-1070.net.flrnet.org (108.59.25.20)  99.302 ms  128.607 ms  103.815 ms
+13  tlh-flrcore-asr9010-1-hu0701-1.net.flrnet.org (108.59.31.158)  56.526 ms  51.736 ms  51.533 ms
+14  con-ufl-gnv-renet-v1908.net.flrnet.org (108.59.26.243)  78.052 ms  78.949 ms  72.527 ms
+15  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  235.887 ms  95.871 ms  510.178 ms
+16  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  308.966 ms  303.839 ms  121.131 ms
+17  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  109.625 ms  69.063 ms  56.894 ms
+18  ufl.edu (128.227.9.98)  60.727 ms  117.466 ms  187.770 ms
+End time:  Wed 8 Nov 2017 13:06:48 EST
+
+
+

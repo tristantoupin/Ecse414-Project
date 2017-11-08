@@ -1,0 +1,36 @@
+Start time:  Wed 8 Nov 2017 12:31:48 EST
+ 1  gateway (142.157.26.2)  16.082 ms  37.120 ms  19.801 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  79.535 ms  45.876 ms  8.582 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  8.961 ms  10.809 ms  23.000 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  52.900 ms  25.422 ms  9.125 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  211.541 ms  189.919 ms  235.468 ms
+ 6  canet-rq.risq.net (132.202.80.10)  57.505 ms  14.367 ms  23.829 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  17.654 ms  13.026 ms  4.035 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  16.212 ms  119.358 ms  49.986 ms
+ 9  198.32.252.133 (198.32.252.133)  57.685 ms  66.796 ms  59.103 ms
+10  198.32.252.222 (198.32.252.222)  306.519 ms  165.970 ms  258.747 ms
+11  sp-usp.bkb.rnp.br (200.143.255.114)  176.349 ms  165.383 ms  270.979 ms
+12  border2.uspnet.usp.br (143.107.151.42)  201.781 ms  207.345 ms  307.377 ms
+13  143.107.249.34 (143.107.249.34)  216.208 ms  220.543 ms  252.194 ms
+End time:  Wed 8 Nov 2017 12:31:48 EST
+
+
+
+Start time:  Wed 8 Nov 2017 13:04:35 EST
+ 1  gateway (142.157.26.2)  41.522 ms  14.929 ms  31.196 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  13.232 ms  53.502 ms  12.758 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  26.754 ms  44.153 ms  14.193 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  280.719 ms  27.357 ms  31.710 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  61.612 ms  28.038 ms  49.746 ms
+ 6  canet-rq.risq.net (132.202.80.10)  94.946 ms  88.008 ms  52.363 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  80.943 ms  198.223 ms  208.200 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  206.697 ms  77.278 ms  202.467 ms
+ 9  198.32.252.133 (198.32.252.133)  106.475 ms  95.508 ms  80.111 ms
+10  198.32.252.222 (198.32.252.222)  230.681 ms  215.712 ms  197.184 ms
+11  sp-usp.bkb.rnp.br (200.143.255.114)  166.557 ms  245.720 ms  293.883 ms
+12  border2.uspnet.usp.br (143.107.151.42)  197.483 ms  318.430 ms  184.832 ms
+13  143.107.249.34 (143.107.249.34)  232.645 ms  202.322 ms  207.773 ms
+End time:  Wed 8 Nov 2017 13:04:35 EST
+
+
+

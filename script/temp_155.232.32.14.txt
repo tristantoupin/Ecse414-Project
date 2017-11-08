@@ -1,0 +1,34 @@
+Start time:  Wed 8 Nov 2017 12:25:59 EST
+ 1  gateway (142.157.26.2)  24.018 ms  17.519 ms  2.996 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  25.750 ms  3.755 ms  9.700 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  7.975 ms  6.229 ms  4.809 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  14.970 ms  30.307 ms  42.390 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  24.474 ms  29.533 ms  21.043 ms
+ 6  canet-rq.risq.net (132.202.80.10)  30.029 ms  19.157 ms  38.745 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  14.051 ms  38.225 ms  31.323 ms
+ 8  unknown.uni.net.za (196.32.209.225)  101.174 ms  112.809 ms  129.959 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  94.928 ms  105.844 ms  103.487 ms
+10  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  353.216 ms  408.947 ms  394.327 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  313.857 ms  297.776 ms  305.865 ms
+12  155.232.32.14 (155.232.32.14)  304.623 ms *  402.919 ms
+End time:  Wed 8 Nov 2017 12:25:59 EST
+
+
+
+Start time:  Wed 8 Nov 2017 12:58:36 EST
+ 1  gateway (142.157.26.2)  9.076 ms  5.781 ms  8.458 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  43.693 ms  13.985 ms  9.995 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  10.061 ms  12.627 ms  5.591 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  10.477 ms  77.169 ms  34.497 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  181.751 ms  79.408 ms  69.074 ms
+ 6  canet-rq.risq.net (132.202.80.10)  45.285 ms  57.493 ms  57.186 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  43.938 ms  11.231 ms  74.338 ms
+ 8  unknown.uni.net.za (196.32.209.225)  226.239 ms  200.413 ms  113.686 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  95.113 ms  102.718 ms  130.039 ms
+10  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  590.204 ms  480.359 ms  503.314 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  264.151 ms  376.111 ms  237.538 ms
+12  155.232.32.14 (155.232.32.14)  238.023 ms *  352.901 ms
+End time:  Wed 8 Nov 2017 12:58:36 EST
+
+
+

@@ -1,0 +1,41 @@
+Start time:  Wed 8 Nov 2017 12:25:48 EST
+ 1  gateway (142.157.26.2)  12.231 ms  22.998 ms  16.215 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  30.906 ms  25.247 ms  10.434 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  23.884 ms  22.727 ms  21.010 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  21.426 ms  23.369 ms  25.084 ms
+ 5  100ge14-1.core1.nyc6.he.net (72.52.92.101)  24.484 ms  20.457 ms  22.087 ms
+ 6  peer1.nyc6.flagtel.com (198.32.160.88)  29.013 ms  32.935 ms  27.929 ms
+ 7  xe-8-0-2.0.cjr02.prs001.flagtel.com (85.95.25.158)  93.274 ms
+    xe-2-0-3.0.pjr03.ldn001.flagtel.com (85.95.25.82)  119.971 ms
+    xe-2-3-0.0.pjr03.ldn001.flagtel.com (85.95.26.42)  95.755 ms
+ 8  xe-2-2-1.0-pjr04.mmb004.flagtel.com (85.95.26.153)  311.602 ms
+    xe-0-1-0.0.pjr03.mmb004.flagtel.com (85.95.27.121)  294.054 ms  280.690 ms
+ 9  * * 62.216.147.126 (62.216.147.126)  4245.961 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * 124.124.195.101 (124.124.195.101)  382.701 ms
+End time:  Wed 8 Nov 2017 12:25:48 EST
+
+
+
+Start time:  Wed 8 Nov 2017 12:58:22 EST
+ 1  gateway (142.157.26.2)  5.398 ms  4.945 ms  8.462 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  7.019 ms  6.911 ms  9.367 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  24.274 ms  18.332 ms  21.427 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  21.873 ms  20.788 ms  20.993 ms
+ 5  100ge14-1.core1.nyc6.he.net (72.52.92.101)  23.845 ms  29.055 ms  22.812 ms
+ 6  peer1.nyc6.flagtel.com (198.32.160.88)  28.457 ms  30.388 ms  26.782 ms
+ 7  xe-2-1-0.0.cjr02.prs001.flagtel.com (85.95.25.101)  95.674 ms
+    xe-8-0-2.0.cjr02.prs001.flagtel.com (85.95.25.158)  94.367 ms  117.142 ms
+ 8  xe-0-1-0.0.pjr03.mmb004.flagtel.com (85.95.27.121)  293.311 ms  304.703 ms
+    xe-2-0-0.0.pjr04.mmb004.flagtel.com (85.95.25.185)  313.339 ms
+ 9  * 62.216.147.126 (62.216.147.126)  3087.530 ms *
+10  * * *
+11  * * *
+12  * * 124.124.195.101 (124.124.195.101)  456.208 ms
+End time:  Wed 8 Nov 2017 12:58:22 EST
+
+
+
