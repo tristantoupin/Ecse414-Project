@@ -32,3 +32,33 @@ End time:  Wed 8 Nov 2017 13:54:50 EST
 
 
 
+Start time:  Wed 8 Nov 2017 16:02:13 EST
+ 1  gateway (142.157.26.2)  10.896 ms  3.244 ms  3.891 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  3.538 ms  3.586 ms  4.515 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  20.078 ms  23.424 ms  73.976 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  17.380 ms  17.955 ms  17.255 ms
+ 5  100ge4-2.core1.nyc4.he.net (184.105.213.217)  18.182 ms  21.762 ms *
+ 6  100ge14-1.core1.tor1.he.net (184.105.80.10)  29.069 ms  27.702 ms  26.545 ms
+ 7  100ge6-1.core1.ywg1.he.net (184.105.64.102)  49.818 ms  47.298 ms *
+ 8  100ge10-1.core1.yyc1.he.net (184.105.222.98)  62.087 ms  72.195 ms  61.302 ms
+ 9  100ge10-2.core1.yvr1.he.net (184.105.64.113)  81.645 ms  74.594 ms  74.054 ms
+10  100ge10-2.core1.sea1.he.net (184.105.64.109)  214.883 ms  73.897 ms  74.597 ms
+11  100ge8-1.core1.tyo1.he.net (184.105.213.118)  251.230 ms  223.608 ms  263.233 ms
+12  100ge6-1.core1.hkg1.he.net (184.105.64.129)  321.867 ms  277.274 ms  302.581 ms
+13  viettel1-lacp-10g.hkix.net (123.255.90.237)  308.149 ms
+    7552.hkg.equinix.com (119.27.63.5)  306.094 ms *
+14  localhost (27.68.240.165)  374.346 ms  292.628 ms  309.342 ms
+15  localhost (27.68.228.9)  271.880 ms  259.264 ms  289.196 ms
+16  localhost (27.68.229.237)  301.720 ms
+    localhost (27.68.228.194)  386.917 ms
+    localhost (27.68.228.202)  375.488 ms
+17  localhost (27.68.228.201)  302.489 ms *
+    localhost (27.68.228.193)  306.651 ms
+18  203.113.156.146 (203.113.156.146)  291.727 ms  309.457 ms
+    localhost (27.68.229.234)  306.448 ms
+19  localhost (27.68.229.233)  264.798 ms
+    112.137.142.4 (112.137.142.4)  312.528 ms  312.068 ms
+End time:  Wed 8 Nov 2017 16:02:13 EST
+
+
+

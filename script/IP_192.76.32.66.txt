@@ -19,3 +19,24 @@ End time:  Wed 8 Nov 2017 14:04:19 EST
 
 
 
+Start time:  Wed 8 Nov 2017 16:12:01 EST
+ 1  gateway (142.157.26.2)  9.983 ms  7.816 ms  8.768 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  10.368 ms  12.856 ms  8.114 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  7.707 ms  6.918 ms  5.354 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  6.571 ms  6.985 ms  8.140 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  5.840 ms  6.750 ms  8.358 ms
+ 6  canet-rq.risq.net (132.202.80.10)  6.741 ms  8.506 ms  7.758 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  4.285 ms  5.272 ms  4.975 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  87.800 ms  87.515 ms  85.093 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  104.509 ms  96.361 ms  97.381 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  93.818 ms  94.754 ms  96.823 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  92.298 ms  93.223 ms  98.026 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  103.629 ms  95.746 ms  96.390 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  94.740 ms  96.052 ms  104.580 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  95.963 ms  96.821 ms  100.364 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  94.900 ms  108.732 ms *
+16  oxford-university.ja.net (193.63.109.90)  99.160 ms !X  97.243 ms !X  98.701 ms !X
+End time:  Wed 8 Nov 2017 16:12:01 EST
+
+
+
