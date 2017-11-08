@@ -16,3 +16,12 @@ End time:  Wed 8 Nov 2017 16:12:52 EST
 
 
 
+Start time:  Wed 8 Nov 2017 18:20:39 EST
+ 1  gateway (142.157.26.2)  3.744 ms  2.281 ms  1.916 ms
+ 2  burnside-core-vlan218.gw.mcgill.ca (132.216.216.25)  2.501 ms  1.733 ms  1.659 ms
+ 3  datacentre2-vlan215.gw.mcgill.ca (132.216.216.162)  1.929 ms  8.217 ms  2.160 ms
+ 4  burneycentre.mcgill.ca (132.216.177.160)  1.882 ms  2.129 ms  2.242 ms
+End time:  Wed 8 Nov 2017 18:20:39 EST
+
+
+

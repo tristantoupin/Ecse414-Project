@@ -50,3 +50,29 @@ End time:  Wed 8 Nov 2017 16:12:17 EST
 
 
 
+Start time:  Wed 8 Nov 2017 18:20:16 EST
+ 1  gateway (142.157.26.2)  3.988 ms  1.912 ms  2.654 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.808 ms  3.568 ms  2.631 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.749 ms  1.811 ms  1.883 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.788 ms  2.680 ms  15.527 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.115 ms  2.050 ms  2.001 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.975 ms  2.912 ms  2.465 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  3.089 ms  2.376 ms  3.346 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.747 ms  8.642 ms  8.784 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.652 ms  30.625 ms  29.925 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  44.168 ms  45.029 ms  44.312 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  55.267 ms  55.349 ms  55.719 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  57.628 ms  64.620 ms  64.362 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  64.662 ms  61.052 ms  59.421 ms
+14  cudi-1-is-jmb-776.lsanca.pacificwave.net (207.231.241.142)  85.755 ms  85.758 ms  84.363 ms
+15  201.130.80.141 (201.130.80.141)  85.111 ms  2110.746 ms  85.416 ms
+16  * 201.130.80.133 (201.130.80.133)  238.852 ms  201.391 ms
+17  201.130.80.129 (201.130.80.129)  204.801 ms  219.773 ms  288.987 ms
+18  201.130.80.153 (201.130.80.153)  165.518 ms  239.036 ms  202.915 ms
+19  132.247.252.65 (132.247.252.65)  206.356 ms  205.414 ms  204.729 ms
+20  132.247.237.189 (132.247.237.189)  203.603 ms  203.505 ms  204.093 ms
+21  132.247.70.37 (132.247.70.37)  205.439 ms !Z  203.819 ms !Z  204.248 ms !Z
+End time:  Wed 8 Nov 2017 18:20:16 EST
+
+
+

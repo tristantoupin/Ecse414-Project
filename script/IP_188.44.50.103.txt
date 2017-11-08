@@ -51,3 +51,34 @@ End time:  Wed 8 Nov 2017 16:10:51 EST
 
 
 
+Start time:  Wed 8 Nov 2017 18:19:06 EST
+ 1  gateway (142.157.26.2)  3.413 ms  1.724 ms  2.245 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.138 ms  2.866 ms  2.990 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.175 ms  2.762 ms  2.692 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.839 ms  2.615 ms  2.365 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.234 ms  1.969 ms  2.040 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.391 ms  3.142 ms  2.357 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.448 ms  3.316 ms  4.750 ms
+ 8  us-man.nordu.net (109.105.98.13)  160.669 ms  200.767 ms  180.878 ms
+ 9  nl-sar.nordu.net (109.105.97.138)  116.286 ms *  119.559 ms
+10  de-hmb.nordu.net (109.105.97.50)  211.309 ms
+    uk-hex.nordu.net (109.105.97.140)  201.669 ms  200.310 ms
+11  dk-uni.nordu.net (109.105.97.126)  122.356 ms
+    dk-ore.nordu.net (109.105.97.56)  181.034 ms
+    dk-uni.nordu.net (109.105.97.126)  200.174 ms
+12  se-tug.nordu.net (109.105.97.9)  204.991 ms
+    se-fre.nordu.net (109.105.97.131)  201.057 ms
+    se-tug.nordu.net (109.105.97.9)  168.584 ms
+13  fi-csc.nordu.net (109.105.97.90)  131.474 ms  203.764 ms  205.214 ms
+14  ndn-gw2.runnet.ru (109.105.102.58)  203.806 ms  200.203 ms  203.186 ms
+15  spb-bm18-1-gw.runnet.ru (185.141.124.140)  205.804 ms  201.993 ms  203.141 ms
+16  msk-m9-1-gw.runnet.ru (185.141.124.144)  206.089 ms  208.092 ms  194.658 ms
+17  msu.msk.runnet.ru (194.190.254.118)  204.627 ms  204.552 ms  205.382 ms
+18  93.180.0.172 (93.180.0.172)  204.077 ms  200.057 ms  205.849 ms
+19  188.44.33.10 (188.44.33.10)  203.728 ms  197.468 ms  149.480 ms
+20  188.44.33.42 (188.44.33.42)  157.575 ms  198.267 ms  205.570 ms
+21  188.44.50.103 (188.44.50.103)  143.445 ms !Z  143.438 ms !Z  217.330 ms !Z
+End time:  Wed 8 Nov 2017 18:19:06 EST
+
+
+

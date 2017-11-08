@@ -32,3 +32,22 @@ End time:  Wed 8 Nov 2017 16:09:27 EST
 
 
 
+Start time:  Wed 8 Nov 2017 18:18:32 EST
+ 1  gateway (142.157.26.2)  4.786 ms  2.455 ms  2.605 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  2.232 ms  1.546 ms  1.982 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  58.379 ms  15.393 ms  17.670 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  16.706 ms  17.825 ms  15.973 ms
+ 5  100ge4-2.core1.nyc4.he.net (184.105.213.217)  14.955 ms  16.264 ms  21.992 ms
+ 6  100ge7-2.core1.lon2.he.net (72.52.92.165)  202.838 ms  119.237 ms  112.488 ms
+ 7  100ge7-1.core1.fra1.he.net (184.105.80.38)  99.371 ms  96.978 ms  96.688 ms
+ 8  rostelecom-as-as12389.100gigabitethernet12-2.core1.fra1.he.net (216.66.89.226)  98.493 ms  98.111 ms  93.609 ms
+ 9  ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  183.726 ms
+    ae3.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.51)  173.366 ms
+    ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  176.101 ms
+10  217.65.80.163 (217.65.80.163)  190.914 ms  184.957 ms  261.325 ms
+11  host-95-170-130-186.avantel.ru (95.170.130.186)  203.222 ms  201.061 ms  205.322 ms
+12  host25.50.237.84.nsu.ru (84.237.50.25)  203.300 ms  202.705 ms  205.104 ms
+End time:  Wed 8 Nov 2017 18:18:32 EST
+
+
+
