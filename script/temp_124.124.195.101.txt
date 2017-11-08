@@ -39,3 +39,9 @@ End time:  Wed 8 Nov 2017 12:58:22 EST
 
 
 
+Start time:  Wed 8 Nov 2017 13:12:22 EST
+ 1  gateway (142.157.26.2)  20.866 ms  37.830 ms  17.980 ms
+End time:  Wed 8 Nov 2017 13:12:22 EST
+
+
+
