@@ -83,3 +83,14 @@ End time:  Wed 8 Nov 2017 22:27:45 EST
 
 
 
+Start time:  Thu 9 Nov 2017 01:26:25 EST
+ 1  controlpanel.home (192.168.1.1)  8.967 ms  4.820 ms  7.154 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  21.068 ms  19.164 ms  19.427 ms
+ 3  96.127.249.5 (96.127.249.5)  19.163 ms  18.953 ms  25.375 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  30.192 ms  31.234 ms  27.903 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  25.771 ms  26.889 ms  27.175 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  26.620 ms *  32.010 ms
+End time:  Thu 9 Nov 2017 01:26:25 EST
+
+
+

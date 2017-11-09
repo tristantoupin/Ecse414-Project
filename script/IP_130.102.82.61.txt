@@ -153,3 +153,33 @@ End time:  Wed 8 Nov 2017 22:14:24 EST
 
 
 
+Start time:  Thu 9 Nov 2017 01:10:24 EST
+ 1  controlpanel.home (192.168.1.1)  2.071 ms  2.029 ms  5.178 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.829 ms  20.970 ms  19.261 ms
+ 3  96.127.249.5 (96.127.249.5)  21.838 ms  19.253 ms  20.097 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  18.730 ms  20.153 ms  19.153 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  35.823 ms  27.197 ms  25.385 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  84.819 ms  85.371 ms  91.436 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  86.103 ms  87.273 ms  86.970 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  92.803 ms  85.842 ms  85.734 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  85.101 ms  85.662 ms  86.028 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  85.873 ms  85.938 ms  85.782 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  229.175 ms  330.847 ms  307.260 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  306.948 ms  282.188 ms  332.342 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  307.241 ms  304.613 ms  306.181 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  307.482 ms  307.456 ms  306.737 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+End time:  Thu 9 Nov 2017 01:10:24 EST
+
+
+

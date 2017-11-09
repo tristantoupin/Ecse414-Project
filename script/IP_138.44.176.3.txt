@@ -138,3 +138,27 @@ End time:  Wed 8 Nov 2017 22:14:40 EST
 
 
 
+Start time:  Thu 9 Nov 2017 01:10:41 EST
+ 1  controlpanel.home (192.168.1.1)  3.937 ms  2.000 ms  2.000 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.942 ms  20.372 ms  18.770 ms
+ 3  96.127.249.5 (96.127.249.5)  18.640 ms  19.249 ms  19.166 ms
+ 4  he.peer.qix.ca (198.179.18.5)  20.537 ms  19.015 ms  21.825 ms
+ 5  100ge14-2.core1.tor1.he.net (184.105.64.57)  26.392 ms  27.994 ms  27.024 ms
+ 6  100ge9-2.core2.chi1.he.net (184.105.80.5)  35.724 ms  35.824 ms  36.431 ms
+ 7  100ge14-2.core1.msp1.he.net (184.105.223.178)  48.608 ms  45.392 ms  51.306 ms
+ 8  100ge10-1.core1.sea1.he.net (184.105.223.193)  75.322 ms  78.618 ms  77.290 ms
+ 9  100ge8-1.core1.tyo1.he.net (184.105.213.118)  263.546 ms  180.583 ms  189.192 ms
+10  100ge13-1.core1.sin1.he.net (184.105.64.253)  303.447 ms  240.920 ms  245.009 ms
+11  pacnet-as10026.10gigabitethernet4-1.core1.sin1.he.net (74.82.46.190)  250.471 ms  293.742 ms  304.926 ms
+12  be3.wr2.sin0.10026.telstraglobal.net (61.14.157.164)  253.753 ms
+    te0-2-0-0.wr1.sin0.10026.telstraglobal.net (61.14.157.129)  349.255 ms
+    be3.wr1.sin0.10026.telstraglobal.net (61.14.157.166)  297.966 ms
+13  gi12-0-0.gw5.sin1.10026.telstraglobal.net (61.14.158.43)  307.021 ms
+    gi1-0-0.gw5.sin1.10026.telstraglobal.net (61.14.157.110)  250.197 ms  309.178 ms
+14  aar-0002.gw3.sin1.10026.telstraglobal.net (202.147.33.174)  407.683 ms  404.383 ms  411.971 ms
+15  so-2-0-0.pe1.knsg.wa.aarnet.net.au (113.197.15.202)  306.924 ms  305.394 ms  306.297 ms
+16  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  307.407 ms  305.837 ms *
+End time:  Thu 9 Nov 2017 01:10:41 EST
+
+
+

@@ -99,3 +99,28 @@ End time:  Wed 8 Nov 2017 22:27:01 EST
 
 
 
+Start time:  Thu 9 Nov 2017 01:25:16 EST
+ 1  controlpanel.home (192.168.1.1)  3.155 ms  1.648 ms  2.003 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.889 ms  19.128 ms  19.118 ms
+ 3  96.127.249.5 (96.127.249.5)  18.976 ms  19.064 ms  20.043 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.101 ms  22.963 ms  28.633 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  25.519 ms  19.162 ms  20.294 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  88.143 ms  95.706 ms  88.483 ms
+ 7  be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  95.856 ms  96.813 ms  95.557 ms
+ 8  be12497.ccr41.par01.atlas.cogentco.com (154.54.56.130)  113.848 ms  102.459 ms  102.810 ms
+ 9  be3092.ccr21.mrs01.atlas.cogentco.com (130.117.49.154)  113.332 ms  114.034 ms  123.399 ms
+10  geant.demarc.cogentco.com (149.6.155.234)  113.230 ms  113.060 ms  112.839 ms
+11  193.51.177.16 (193.51.177.16)  220.477 ms
+    193.51.177.223 (193.51.177.223)  199.795 ms
+    193.51.177.16 (193.51.177.16)  200.709 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * 194.199.156.25 (194.199.156.25)  132.899 ms  200.986 ms
+End time:  Thu 9 Nov 2017 01:25:16 EST
+
+
+
