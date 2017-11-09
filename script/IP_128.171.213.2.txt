@@ -134,3 +134,26 @@ End time:  Thu 9 Nov 2017 01:21:44 EST
 
 
 
+Start time:  Thu 9 Nov 2017 13:02:14 EST
+ 1  gateway (142.157.26.2)  4.388 ms  2.074 ms  4.125 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.782 ms  2.162 ms  2.875 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.085 ms  2.730 ms  2.621 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  4.552 ms  6.942 ms  4.116 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  4.654 ms  47.236 ms  6.437 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.673 ms  2.593 ms  4.279 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  11.502 ms  3.312 ms  2.953 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  44.176 ms  15.788 ms  16.122 ms
+ 9  ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  21.439 ms  23.051 ms  20.478 ms
+10  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  21.676 ms  22.146 ms  21.415 ms
+11  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  79.075 ms  28.435 ms  29.045 ms
+12  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  36.835 ms  37.830 ms  38.214 ms
+13  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  44.636 ms  46.200 ms  44.636 ms
+14  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  68.781 ms  68.366 ms  67.982 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  78.672 ms  81.168 ms  79.748 ms
+16  xe-0-0-0-3500-ohelo-re0.uhnet.net (205.166.205.10)  236.808 ms  204.653 ms  205.923 ms
+17  xe-1-1-0-63-coconut-re0.uhnet.net (205.166.205.37)  170.108 ms  207.308 ms  204.307 ms
+18  vl-669-xe-1-0-10-10gigcolol3.uhnet.net (128.171.213.2)  203.932 ms *  146.430 ms
+End time:  Thu 9 Nov 2017 13:02:14 EST
+
+
+
