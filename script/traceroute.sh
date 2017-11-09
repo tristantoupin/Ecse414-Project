@@ -1,9 +1,9 @@
 #!/bin/bash
 
 LINKS=("130.102.82.61" "138.44.176.3" "112.137.142.4" "124.124.195.101" "155.232.32.14" "80.239.135.226" "84.237.50.25" "198.154.248.116" "143.107.249.34" "128.171.213.2" "188.44.50.103" "130.235.52.5" "194.199.156.25" "192.76.32.66" "132.247.70.37" "137.82.123.113" "128.227.9.98" "128.100.96.19" "132.216.177.160")
-MAXHOPS=2
+MAXHOPS=25
 CP_TOBACKUP_INDEX=0
-BACKUP_NUMBER=0
+BACKUP_NUMBER=1
 
 while true
 do
@@ -28,7 +28,7 @@ do
 	`git add .`
 	`git commit -m "backup_$BACKUP_NUMBER"`
 	`git push origin master`
-	((BACKUP_NUMBER++))
+	((BACKUP_NUMBER+=1))
 	sleep 6600 #sleep 1h50mins
 done
 

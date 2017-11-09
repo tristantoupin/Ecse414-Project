@@ -154,3 +154,80 @@ End time:  Thu 9 Nov 2017 15:28:58 EST
 
 
 
+Start time:  Thu 9 Nov 2017 16:11:02 EST
+ 1  controlpanel.home (192.168.1.1)  92.375 ms  135.510 ms  26.394 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  34.476 ms  30.925 ms  33.098 ms
+ 3  96.127.249.5 (96.127.249.5)  32.153 ms  38.973 ms  46.899 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  156.693 ms  290.965 ms  321.499 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  50.005 ms  359.391 ms  244.770 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  276.605 ms  128.456 ms  63.275 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  60.128 ms  261.899 ms  194.582 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  43.389 ms  86.083 ms  41.585 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  66.765 ms  70.746 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  79.551 ms
+10  be2122.ccr21.mia01.atlas.cogentco.com (154.54.24.194)  94.701 ms  74.538 ms  97.484 ms
+11  * be3401.ccr21.mia03.atlas.cogentco.com (154.54.47.30)  124.362 ms
+    be3400.ccr21.mia03.atlas.cogentco.com (154.54.47.18)  76.445 ms
+12  38.88.165.74 (38.88.165.74)  125.097 ms  103.747 ms  115.847 ms
+13  sp-mia1-par-atl.bkb.rnp.br (200.143.252.29)  214.826 ms  206.991 ms  238.212 ms
+14  * * *
+15  border2.uspnet.usp.br (143.107.151.42)  501.049 ms  906.236 ms *
+16  143.107.249.34 (143.107.249.34)  1088.215 ms  458.913 ms  206.393 ms
+End time:  Thu 9 Nov 2017 16:11:02 EST
+
+
+
+Start time:  Thu 9 Nov 2017 16:11:46 EST
+ 1  * * *
+ 2  * lo0.lns2.mtl3.ebox.ca (96.127.249.131)  33.751 ms  23.164 ms
+ 3  96.127.249.5 (96.127.249.5)  22.258 ms  24.110 ms  44.661 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  26.234 ms  38.337 ms  20.338 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  33.354 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  37.458 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  30.309 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  27.892 ms  39.308 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  28.386 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  38.207 ms  48.294 ms  41.447 ms
+ 8  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  45.158 ms
+    be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  46.163 ms  33.874 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  64.125 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  69.683 ms  47.179 ms
+10  be2122.ccr21.mia01.atlas.cogentco.com (154.54.24.194)  76.531 ms  1511.963 ms  648.799 ms
+11  be3401.ccr21.mia03.atlas.cogentco.com (154.54.47.30)  1788.539 ms
+    be3400.ccr21.mia03.atlas.cogentco.com (154.54.47.18)  137.461 ms  74.112 ms
+12  38.88.165.74 (38.88.165.74)  91.716 ms  67.577 ms  62.895 ms
+13  sp-mia1-par-atl.bkb.rnp.br (200.143.252.29)  170.293 ms  168.871 ms  169.057 ms
+14  * * *
+15  border2.uspnet.usp.br (143.107.151.42)  184.264 ms  167.065 ms  176.316 ms
+16  143.107.249.34 (143.107.249.34)  168.959 ms  168.292 ms  168.729 ms
+End time:  Thu 9 Nov 2017 16:11:46 EST
+
+
+
+Start time:  Thu 9 Nov 2017 16:12:06 EST
+ 1  controlpanel.home (192.168.1.1)  5.122 ms  1.949 ms  2.077 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.078 ms  19.311 ms  20.789 ms
+ 3  96.127.249.5 (96.127.249.5)  19.101 ms  19.758 ms  18.485 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  20.375 ms  25.665 ms  48.802 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.434 ms  19.616 ms  20.086 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.967 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  24.184 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  25.597 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  28.188 ms  27.527 ms  27.543 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  34.923 ms  35.345 ms
+    be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  34.658 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  44.956 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  45.589 ms
+    be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  44.950 ms
+10  be2122.ccr21.mia01.atlas.cogentco.com (154.54.24.194)  59.387 ms  59.327 ms  58.740 ms
+11  be3400.ccr21.mia03.atlas.cogentco.com (154.54.47.18)  58.604 ms  58.999 ms
+    be3401.ccr21.mia03.atlas.cogentco.com (154.54.47.30)  72.382 ms
+12  38.88.165.74 (38.88.165.74)  60.072 ms  58.668 ms  80.668 ms
+13  sp-mia1-par-atl.bkb.rnp.br (200.143.252.29)  171.010 ms  185.059 ms  168.718 ms
+14  * * *
+15  border2.uspnet.usp.br (143.107.151.42)  179.428 ms  169.016 ms  184.860 ms
+16  143.107.249.34 (143.107.249.34)  168.043 ms  167.854 ms  169.793 ms
+End time:  Thu 9 Nov 2017 16:12:06 EST
+
+
+
