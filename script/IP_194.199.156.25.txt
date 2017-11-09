@@ -79,3 +79,23 @@ End time:  Wed 8 Nov 2017 20:21:24 EST
 
 
 
+Start time:  Wed 8 Nov 2017 22:27:01 EST
+ 1  gateway (142.157.26.2)  714.945 ms  1.489 ms  1.577 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.435 ms  610.554 ms  4.174 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.362 ms  689.025 ms  2.490 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.421 ms  711.452 ms  2.121 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  244.475 ms  2.343 ms  1.746 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.839 ms  2.019 ms  2.069 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.025 ms  1.940 ms  1.787 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  84.433 ms  84.599 ms  84.480 ms
+ 9  ae2.mx1.gen.ch.geant.net (62.40.98.153)  91.562 ms  91.759 ms  91.510 ms
+10  renater-gw.mx1.gen.ch.geant.net (62.40.124.62)  93.717 ms  94.774 ms  93.959 ms
+11  193.51.177.38 (193.51.177.38)  92.149 ms
+    193.51.177.218 (193.51.177.218)  736.267 ms
+    193.51.177.64 (193.51.177.64)  657.853 ms
+12  * * *
+13  194.199.156.25 (194.199.156.25)  94.608 ms  92.352 ms  92.429 ms
+End time:  Wed 8 Nov 2017 22:27:01 EST
+
+
+
