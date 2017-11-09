@@ -22,18 +22,10 @@ do
 		sleep 2s
 	done
 
-#	if($CP_TOBACKUP_INDEX -eq 6) #every 12h do a backup of files
-#	then
-#		`mkdir ../backup_$BACKUP_NUMBER`
-#		`cp -r ./ ../backup_$BACKUP_NUMBER`
-#		`CP_TOBACKUP_INDEX=0`
-#	fi
-#	`let CP_TOBACKUP_INDEX++`
-
 	`git add .`
 	`git commit -m "backup_$BACKUP_NUMBER"`
 	`git push origin master`
-
+	((BACKUP_NUMBER++))
 	sleep 6600 #sleep 1h50mins
 done
 

@@ -75,3 +75,25 @@ End time:  Wed 8 Nov 2017 18:19:29 EST
 
 
 
+Start time:  Wed 8 Nov 2017 20:20:57 EST
+ 1  gateway (142.157.26.2)  3.568 ms  1.497 ms  1.386 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.381 ms  1.382 ms  2.003 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.483 ms  1.436 ms  1.452 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  1.770 ms  2.175 ms  2.086 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.685 ms  1.654 ms  1.788 ms
+ 6  canet-rq.risq.net (132.202.80.10)  8.167 ms  2.724 ms  2.788 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.332 ms  1.815 ms  1.933 ms
+ 8  * us-man.nordu.net (109.105.98.13)  116.209 ms  116.026 ms
+ 9  nl-sar.nordu.net (109.105.97.138)  185.604 ms  204.556 ms  216.656 ms
+10  de-hmb.nordu.net (109.105.97.50)  125.366 ms  168.954 ms  204.867 ms
+11  dk-ore.nordu.net (109.105.97.56)  117.121 ms  207.945 ms  136.903 ms
+12  * * *
+13  lu2.sunet.se (130.242.6.93)  120.612 ms  118.726 ms  116.362 ms
+14  jr1a-jr2a.net.lu.se (130.235.217.64)  114.362 ms  114.086 ms  116.932 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  117.015 ms  116.667 ms  114.860 ms
+16  f0a-r1a.net.lu.se (130.235.217.126)  118.605 ms  116.594 ms  138.146 ms
+17  lb3v1.net.lu.se (130.235.52.5)  204.768 ms  204.341 ms  204.588 ms
+End time:  Wed 8 Nov 2017 20:20:57 EST
+
+
+

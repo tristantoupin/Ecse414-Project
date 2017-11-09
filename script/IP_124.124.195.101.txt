@@ -61,3 +61,26 @@ End time:  Wed 8 Nov 2017 18:12:56 EST
 
 
 
+Start time:  Wed 8 Nov 2017 20:13:57 EST
+ 1  gateway (142.157.26.2)  4.041 ms  2.482 ms  2.022 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  1.525 ms  1.930 ms  1.898 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  15.601 ms  14.855 ms  15.660 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  18.319 ms  15.129 ms  15.251 ms
+ 5  100ge14-1.core1.nyc6.he.net (72.52.92.101)  15.949 ms  16.433 ms  15.195 ms
+ 6  peer1.nyc6.flagtel.com (198.32.160.88)  15.563 ms  15.667 ms  15.316 ms
+ 7  xe-2-3-0.0.pjr03.ldn001.flagtel.com (85.95.26.42)  84.505 ms
+    xe-2-0-3.0.pjr03.ldn001.flagtel.com (85.95.25.82)  81.988 ms
+    xe-2-1-0.0.cjr02.prs001.flagtel.com (85.95.25.101)  89.445 ms
+ 8  xe-2-2-1.0-pjr04.mmb004.flagtel.com (85.95.26.153)  356.931 ms  268.890 ms
+    xe-0-0-0.0.pjr03.mmb004.flagtel.com (85.95.26.237)  251.537 ms
+ 9  * 62.216.147.170 (62.216.147.170)  1398.197 ms
+    62.216.147.98 (62.216.147.98)  614.619 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 124.124.195.101 (124.124.195.101)  270.052 ms *
+End time:  Wed 8 Nov 2017 20:13:57 EST
+
+
+
