@@ -143,3 +143,24 @@ End time:  Thu 9 Nov 2017 13:03:19 EST
 
 
 
+Start time:  Thu 9 Nov 2017 15:29:31 EST
+ 1  controlpanel.home (192.168.1.1)  2.122 ms  2.311 ms  2.034 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.975 ms  19.425 ms  21.342 ms
+End time:  Thu 9 Nov 2017 15:29:31 EST
+
+
+
+Start time:  Thu 9 Nov 2017 15:29:33 EST
+ 1  controlpanel.home (192.168.1.1)  2.386 ms  1.807 ms  5.315 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.747 ms  19.370 ms  18.627 ms
+End time:  Thu 9 Nov 2017 15:29:33 EST
+
+
+
+Start time:  Thu 9 Nov 2017 15:29:35 EST
+ 1  controlpanel.home (192.168.1.1)  1.699 ms  2.255 ms  1.904 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.112 ms  18.934 ms  23.010 ms
+End time:  Thu 9 Nov 2017 15:29:35 EST
+
+
+
