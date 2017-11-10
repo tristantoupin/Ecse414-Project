@@ -379,3 +379,92 @@ End time:  Thu 9 Nov 2017 19:00:15 EST
 
 
 
+Start time:  Thu 9 Nov 2017 21:52:51 EST
+ 1  controlpanel.home (192.168.1.1)  969.253 ms  508.161 ms  489.135 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  1050.080 ms  1678.156 ms  721.820 ms
+ 3  96.127.249.5 (96.127.249.5)  970.186 ms  253.003 ms  255.842 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  71.096 ms  743.738 ms  254.076 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  874.766 ms  125.152 ms  896.953 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  101.009 ms  996.510 ms  1002.566 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  964.269 ms  204.463 ms  983.793 ms
+ 8  * nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  876.530 ms  201.669 ms
+ 9  uk-hex.nordu.net (109.105.97.140)  847.121 ms
+    us-man.nordu.net (109.105.97.142)  70.242 ms
+    uk-hex.nordu.net (109.105.97.140)  1024.821 ms
+10  dk-uni.nordu.net (109.105.97.126)  1022.269 ms  1023.025 ms
+    nl-sar.nordu.net (109.105.97.138)  1010.243 ms
+11  dk-ore.nordu.net (109.105.97.132)  935.797 ms
+    de-hmb.nordu.net (109.105.97.50)  1022.696 ms  1022.672 ms
+12  mcen1-r1.sunet.se (109.105.102.123)  981.724 ms
+    dk-ore.nordu.net (109.105.97.56)  1031.112 ms *
+13  * mcen1-r1.sunet.se (109.105.102.123)  904.688 ms  1095.355 ms
+14  lu2.sunet.se (130.242.6.93)  1466.633 ms  1897.239 ms  1538.537 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  680.077 ms  316.250 ms  1002.587 ms
+16  r1a-jr1a.net.lu.se (130.235.217.61)  997.182 ms  1007.309 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  823.431 ms
+17  f0a-r1a.net.lu.se (130.235.217.126)  169.028 ms  1001.986 ms
+    lb3v1.net.lu.se (130.235.52.5)  772.038 ms
+End time:  Thu 9 Nov 2017 21:52:51 EST
+
+
+
+Start time:  Thu 9 Nov 2017 21:54:06 EST
+ 1  controlpanel.home (192.168.1.1)  197.629 ms  1032.299 ms  3400.017 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  572.658 ms  118.509 ms  113.062 ms
+ 3  96.127.249.5 (96.127.249.5)  119.771 ms  356.143 ms  292.551 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  856.654 ms  160.586 ms  777.254 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  199.243 ms  380.716 ms  609.528 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  1014.062 ms  452.697 ms  532.483 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  855.051 ms  138.821 ms  1009.886 ms
+ 8  nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  1022.601 ms * *
+ 9  us-man.nordu.net (109.105.97.142)  967.911 ms  1022.606 ms  1019.587 ms
+10  nl-sar.nordu.net (109.105.97.138)  1057.167 ms
+    dk-uni.nordu.net (109.105.97.126)  2620.371 ms *
+11  * dk-ore.nordu.net (109.105.97.132)  353.343 ms  945.004 ms
+12  dk-ore.nordu.net (109.105.97.56)  2039.853 ms * *
+13  mcen1-r1.sunet.se (109.105.102.123)  1030.963 ms  1104.963 ms
+    lu2.sunet.se (130.242.6.93)  887.271 ms
+14  lu2.sunet.se (130.242.6.93)  912.223 ms
+    jr1a-jr2a.net.lu.se (130.235.217.64)  1169.948 ms
+    lu2.sunet.se (130.242.6.93)  860.716 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  999.742 ms
+    jr1a-jr2a.net.lu.se (130.235.217.64)  1062.104 ms  984.950 ms
+16  * r1a-jr1a.net.lu.se (130.235.217.61)  969.097 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  1046.843 ms
+17  lb3v1.net.lu.se (130.235.52.5)  1028.820 ms  947.698 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  990.851 ms
+End time:  Thu 9 Nov 2017 21:54:06 EST
+
+
+
+Start time:  Thu 9 Nov 2017 21:54:59 EST
+ 1  controlpanel.home (192.168.1.1)  884.427 ms  1023.387 ms  1090.781 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  885.559 ms  1086.774 ms  912.842 ms
+ 3  96.127.249.5 (96.127.249.5)  1035.096 ms  1026.180 ms  1016.473 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  1024.907 ms  919.692 ms  964.629 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  1120.019 ms  985.912 ms  922.387 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  1037.178 ms  1016.448 ms  939.819 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  967.291 ms  1055.342 ms  1023.742 ms
+ 8  nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  1025.426 ms  919.418 ms  1019.800 ms
+ 9  us-man.nordu.net (109.105.97.142)  1029.413 ms  1020.921 ms
+    uk-hex.nordu.net (109.105.97.140)  930.634 ms
+10  dk-uni.nordu.net (109.105.97.126)  1025.185 ms  1118.915 ms
+    nl-sar.nordu.net (109.105.97.138)  919.276 ms
+11  dk-ore.nordu.net (109.105.97.132)  926.299 ms
+    de-hmb.nordu.net (109.105.97.50)  1018.880 ms  1024.984 ms
+12  mcen1-r1.sunet.se (109.105.102.123)  1023.021 ms
+    dk-ore.nordu.net (109.105.97.56)  1120.104 ms  802.783 ms
+13  lu2.sunet.se (130.242.6.93)  1040.871 ms  1024.008 ms
+    mcen1-r1.sunet.se (109.105.102.123)  1033.485 ms
+14  jr1a-jr2a.net.lu.se (130.235.217.64)  910.086 ms
+    lu2.sunet.se (130.242.6.93)  1147.880 ms  830.398 ms
+15  jr1a-jr2a.net.lu.se (130.235.217.64)  1093.942 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  948.445 ms  1410.731 ms
+16  r1a-jr1a.net.lu.se (130.235.217.61)  606.466 ms  1024.269 ms  922.158 ms
+17  f0a-r1a.net.lu.se (130.235.217.126)  1022.002 ms
+    lb3v1.net.lu.se (130.235.52.5)  1006.118 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  1046.659 ms
+End time:  Thu 9 Nov 2017 21:54:59 EST
+
+
+
