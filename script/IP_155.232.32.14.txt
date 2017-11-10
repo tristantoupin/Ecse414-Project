@@ -358,3 +358,51 @@ End time:  Thu 9 Nov 2017 21:22:03 EST
 
 
 
+Start time:  Fri 10 Nov 2017 08:56:30 EST
+ 1  gateway (142.157.48.3)  4.384 ms  2.706 ms  4.667 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.973 ms  2.600 ms  2.397 ms
+ 3  mcgill-gw-canet.risq.net (206.167.128.49)  3.048 ms  2.232 ms  2.031 ms
+ 4  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.118 ms  2.444 ms  1.984 ms
+ 5  canet-rq.risq.net (132.202.80.10)  2.039 ms  2.384 ms  2.130 ms
+ 6  mtrl2rtr1.canarie.ca (205.189.32.250)  2.442 ms  2.478 ms  2.192 ms
+ 7  196.32.209.225 (196.32.209.225)  83.069 ms  83.848 ms  83.471 ms
+ 8  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  83.067 ms  83.497 ms  83.601 ms
+ 9  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  241.022 ms  250.362 ms  307.668 ms
+10  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  307.210 ms  317.024 ms  296.754 ms
+11  155.232.32.14 (155.232.32.14)  305.655 ms  307.356 ms *
+End time:  Fri 10 Nov 2017 08:56:30 EST
+
+
+
+Start time:  Fri 10 Nov 2017 08:56:45 EST
+ 1  gateway (142.157.48.3)  15.668 ms  1.717 ms  2.688 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.780 ms  3.972 ms  1.730 ms
+ 3  mcgill-gw-canet.risq.net (206.167.128.49)  2.436 ms  2.290 ms  2.168 ms
+ 4  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.266 ms  2.534 ms  2.036 ms
+ 5  canet-rq.risq.net (132.202.80.10)  2.065 ms  2.145 ms  2.105 ms
+ 6  mtrl2rtr1.canarie.ca (205.189.32.250)  6.565 ms  2.146 ms  2.179 ms
+ 7  196.32.209.225 (196.32.209.225)  83.019 ms  84.482 ms  83.367 ms
+ 8  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  83.126 ms  83.123 ms  83.373 ms
+ 9  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  282.247 ms  305.545 ms  306.739 ms
+10  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  308.547 ms  306.489 ms  305.804 ms
+11  155.232.32.14 (155.232.32.14)  308.487 ms * *
+End time:  Fri 10 Nov 2017 08:56:45 EST
+
+
+
+Start time:  Fri 10 Nov 2017 08:56:59 EST
+ 1  gateway (142.157.48.3)  5.014 ms  2.016 ms  1.629 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.854 ms  1.739 ms  1.541 ms
+ 3  mcgill-gw-canet.risq.net (206.167.128.49)  2.206 ms  2.748 ms  2.911 ms
+ 4  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.000 ms  2.581 ms  2.641 ms
+ 5  canet-rq.risq.net (132.202.80.10)  2.087 ms  2.685 ms  2.116 ms
+ 6  mtrl2rtr1.canarie.ca (205.189.32.250)  5.284 ms  4.632 ms  2.197 ms
+ 7  196.32.209.225 (196.32.209.225)  83.345 ms  83.848 ms  83.029 ms
+ 8  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  83.232 ms  83.061 ms  85.552 ms
+ 9  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  309.381 ms  232.713 ms  276.793 ms
+10  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  307.388 ms  306.379 ms  308.967 ms
+11  155.232.32.14 (155.232.32.14)  306.718 ms * *
+End time:  Fri 10 Nov 2017 08:56:59 EST
+
+
+

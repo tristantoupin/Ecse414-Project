@@ -504,3 +504,107 @@ End time:  Thu 9 Nov 2017 21:13:09 EST
 
 
 
+Start time:  Fri 10 Nov 2017 07:46:39 EST
+ 1  controlpanel.home (192.168.1.1)  3.524 ms  1.774 ms  1.919 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.759 ms  19.383 ms  18.943 ms
+ 3  96.127.249.5 (96.127.249.5)  18.765 ms  19.426 ms  26.650 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  22.056 ms  19.015 ms  19.655 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  25.203 ms  25.146 ms  25.227 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  85.339 ms  85.167 ms  85.190 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  85.552 ms  85.934 ms  85.932 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  86.603 ms  92.871 ms  98.531 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  85.567 ms  86.598 ms  86.112 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  84.780 ms  85.277 ms  84.907 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  290.780 ms  280.257 ms  332.735 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  307.860 ms  305.111 ms  228.317 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  284.955 ms  305.532 ms  275.072 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  243.168 ms  299.831 ms  308.037 ms
+15  *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ * *
+16  * * *
+17  * * *
+18  * * *
+19 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ * * *
+20 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ * * *
+21  * * *
+22 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ * * *
+23  * * *
+24 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ * * *
+25  * * *
+End time:  Fri 10 Nov 2017 07:46:39 EST
+
+
+
+Start time:  Fri 10 Nov 2017 08:49:37 EST
+ 1  controlpanel.home (192.168.1.1)  1.925 ms  2.078 ms  2.004 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.883 ms  18.735 ms  18.401 ms
+ 3  96.127.249.5 (96.127.249.5)  18.971 ms  19.588 ms  20.712 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  19.676 ms  19.054 ms  19.507 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  26.177 ms  25.914 ms  26.033 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  91.321 ms  84.705 ms  85.078 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  85.013 ms  87.000 ms  86.740 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  85.994 ms  97.603 ms  85.657 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  85.614 ms  86.733 ms  100.685 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  84.838 ms  86.553 ms  85.418 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  302.395 ms  229.905 ms  235.074 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  229.765 ms  228.180 ms  227.450 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  286.196 ms  242.539 ms  243.375 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  242.978 ms  243.460 ms  250.969 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *
+24 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *
+25 traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *traceroute: wrote 130.102.82.61 52 chars, ret=-1
+ *
+End time:  Fri 10 Nov 2017 08:49:37 EST
+
+
+
+Start time:  Fri 10 Nov 2017 08:51:01 EST
+ 1  gateway (142.157.48.3)  2.131 ms  2.793 ms  1.692 ms
+ 2  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.299 ms  2.201 ms  2.599 ms
+ 3  mcgill-gw-canet.risq.net (206.167.128.49)  2.197 ms  2.230 ms  2.522 ms
+ 4  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  3.770 ms  3.030 ms  4.162 ms
+ 5  canet-rq.risq.net (132.202.80.10)  1.753 ms  1.899 ms  1.835 ms
+ 6  mtrl2rtr1.canarie.ca (205.189.32.250)  3.125 ms  2.303 ms  1.974 ms
+ 7  toro1rtr1.canarie.ca (205.189.32.192)  8.494 ms  8.710 ms  8.932 ms
+ 8  wnpg1rtr1.canarie.ca (205.189.32.180)  29.670 ms  30.201 ms  29.643 ms
+ 9  clgr2rtr1.canarie.ca (205.189.32.176)  44.011 ms  44.144 ms  44.696 ms
+10  vncv1rtr1.canarie.ca (205.189.32.174)  55.317 ms  55.264 ms  55.243 ms
+11  vctr3rtr1.canarie.ca (205.189.32.198)  56.738 ms  57.358 ms  56.433 ms
+12  sttl1rtr1.canarie.ca (205.189.32.182)  58.634 ms  58.507 ms  58.482 ms
+13  aarnet-1-is-jmb-776.lsanca.pacificwave.net (207.231.241.149)  92.463 ms  96.334 ms  92.108 ms
+14  et-1-2-1.pe1.a.koa.aarnet.net.au (113.197.15.86)  159.395 ms  138.691 ms  138.133 ms
+15  et-1-0-0.pe1.tkpa.akl.aarnet.net.au (113.197.15.84)  216.876 ms  219.343 ms  216.779 ms
+16  et-0-1-0.199.pe1.wnpa.akl.aarnet.net.au (113.197.15.70)  218.648 ms  290.863 ms  219.778 ms
+17  et-2-0-0.pe1.msct.nsw.aarnet.net.au (113.197.15.76)  308.751 ms  217.360 ms  290.663 ms
+18  113.197.15.154 (113.197.15.154)  224.917 ms  305.166 ms  308.358 ms
+19  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  307.001 ms  231.995 ms  277.221 ms
+20  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  232.979 ms  275.670 ms  306.766 ms
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+End time:  Fri 10 Nov 2017 08:51:01 EST
+
+
+
