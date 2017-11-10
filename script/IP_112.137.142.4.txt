@@ -365,3 +365,145 @@ End time:  Thu 9 Nov 2017 15:48:18 EST
 
 
 
+Start time:  Thu 9 Nov 2017 18:31:30 EST
+ 1  controlpanel.home (192.168.1.1)  9.759 ms  4.587 ms  1.937 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  22.162 ms  20.928 ms  47.457 ms
+ 3  96.127.249.5 (96.127.249.5)  19.413 ms  27.460 ms  32.019 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.912 ms  39.336 ms  20.465 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  21.357 ms  34.465 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  20.233 ms
+ 6  be3260.ccr22.yyz02.atlas.cogentco.com (154.54.42.89)  27.659 ms  30.244 ms
+    be3259.ccr21.yyz02.atlas.cogentco.com (154.54.41.205)  27.840 ms
+ 7  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  76.718 ms
+    be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  35.183 ms
+    be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  61.940 ms
+ 8  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  43.538 ms
+    be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  42.166 ms
+    be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  61.349 ms
+ 9  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  77.292 ms
+    be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  62.496 ms  64.052 ms
+10  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  98.264 ms
+    be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  80.564 ms
+    be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  65.110 ms
+11  be3047.ccr21.elp01.atlas.cogentco.com (154.54.1.125)  78.094 ms  79.668 ms  83.800 ms
+12  be2930.ccr22.phx02.atlas.cogentco.com (154.54.42.77)  87.546 ms
+    be2929.ccr21.phx02.atlas.cogentco.com (154.54.42.65)  91.073 ms
+    be2930.ccr22.phx02.atlas.cogentco.com (154.54.42.77)  90.411 ms
+13  be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  105.496 ms
+    be2931.ccr41.lax01.atlas.cogentco.com (154.54.44.86)  98.331 ms
+    be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  97.106 ms
+14  be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  97.032 ms
+    be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  97.102 ms
+    be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  97.561 ms
+15  38.122.147.154 (38.122.147.154)  98.136 ms  99.030 ms  98.977 ms
+16  localhost (27.68.250.17)  292.647 ms  285.372 ms
+    localhost (27.68.250.13)  310.602 ms
+17  localhost (27.68.237.5)  285.222 ms
+    localhost (27.68.237.69)  529.824 ms
+    localhost (27.68.237.5)  407.501 ms
+18  localhost (27.68.255.37)  317.336 ms *  479.496 ms
+19  localhost (27.68.229.234)  405.078 ms  546.424 ms
+    localhost (27.68.229.226)  444.608 ms
+20  localhost (27.68.229.233)  440.337 ms  396.517 ms  883.737 ms
+21  localhost (27.68.229.50)  493.497 ms  296.237 ms  286.914 ms
+22  203.113.156.146 (203.113.156.146)  270.076 ms  426.502 ms  327.495 ms
+23  112.137.142.4 (112.137.142.4)  296.372 ms  277.845 ms  273.485 ms
+End time:  Thu 9 Nov 2017 18:31:30 EST
+
+
+
+Start time:  Thu 9 Nov 2017 18:31:43 EST
+ 1  controlpanel.home (192.168.1.1)  83.683 ms  13.986 ms  2.511 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  21.073 ms  33.528 ms  80.554 ms
+ 3  96.127.249.5 (96.127.249.5)  270.630 ms  18.987 ms  25.355 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.216 ms  23.006 ms  86.452 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  71.335 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  34.260 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  72.520 ms
+ 6  be3260.ccr22.yyz02.atlas.cogentco.com (154.54.42.89)  62.098 ms  54.933 ms
+    be3259.ccr21.yyz02.atlas.cogentco.com (154.54.41.205)  27.201 ms
+ 7  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  51.530 ms  92.120 ms  171.501 ms
+ 8  be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  67.890 ms
+    be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  48.070 ms  43.483 ms
+ 9  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  52.911 ms
+    be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  60.426 ms  57.270 ms
+10  be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  70.569 ms  70.677 ms  64.178 ms
+11  be3046.ccr21.elp01.atlas.cogentco.com (154.54.0.45)  84.111 ms
+    be3047.ccr21.elp01.atlas.cogentco.com (154.54.1.125)  80.043 ms  83.337 ms
+12  be2929.ccr21.phx02.atlas.cogentco.com (154.54.42.65)  87.321 ms
+    be2930.ccr22.phx02.atlas.cogentco.com (154.54.42.77)  91.636 ms
+    be2929.ccr21.phx02.atlas.cogentco.com (154.54.42.65)  117.251 ms
+13  be2931.ccr41.lax01.atlas.cogentco.com (154.54.44.86)  97.985 ms
+    be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  97.055 ms
+    be2931.ccr41.lax01.atlas.cogentco.com (154.54.44.86)  97.768 ms
+14  be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  104.270 ms
+    be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  114.929 ms
+    be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  115.932 ms
+15  38.122.147.154 (38.122.147.154)  97.637 ms  98.368 ms  98.654 ms
+16  localhost (27.68.250.13)  366.465 ms  274.433 ms
+    localhost (27.68.250.17)  337.038 ms
+17  localhost (27.68.237.69)  305.423 ms
+    localhost (27.68.237.5)  284.610 ms
+    localhost (27.68.237.69)  282.008 ms
+18  localhost (27.68.255.41)  281.489 ms
+    localhost (27.68.255.37)  377.778 ms
+    localhost (27.68.255.41)  308.186 ms
+19  localhost (27.68.229.226)  306.799 ms  409.993 ms
+    localhost (27.68.229.234)  303.920 ms
+20  localhost (27.68.229.233)  308.811 ms  305.856 ms  306.845 ms
+21  localhost (27.68.229.50)  308.100 ms  304.236 ms  308.834 ms
+22  203.113.156.146 (203.113.156.146)  308.210 ms  312.419 ms  300.537 ms
+23  112.137.142.4 (112.137.142.4)  274.175 ms  336.373 ms  318.162 ms
+End time:  Thu 9 Nov 2017 18:31:43 EST
+
+
+
+Start time:  Thu 9 Nov 2017 18:31:54 EST
+ 1  controlpanel.home (192.168.1.1)  3.584 ms  2.249 ms  1.943 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.343 ms  19.357 ms  21.481 ms
+ 3  96.127.249.5 (96.127.249.5)  20.367 ms  19.092 ms  20.050 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  22.484 ms  21.495 ms  19.951 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.652 ms  20.116 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.031 ms
+ 6  be3260.ccr22.yyz02.atlas.cogentco.com (154.54.42.89)  27.374 ms  26.888 ms
+    be3259.ccr21.yyz02.atlas.cogentco.com (154.54.41.205)  28.050 ms
+ 7  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  34.435 ms
+    be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  35.299 ms
+    be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  34.745 ms
+ 8  be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  40.279 ms
+    be2718.ccr42.ord01.atlas.cogentco.com (154.54.7.129)  44.773 ms
+    be2717.ccr41.ord01.atlas.cogentco.com (154.54.6.221)  70.869 ms
+ 9  be2831.ccr21.mci01.atlas.cogentco.com (154.54.42.165)  52.946 ms
+    be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  54.113 ms  53.646 ms
+10  be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  63.831 ms
+    be3036.ccr22.den01.atlas.cogentco.com (154.54.31.89)  64.779 ms
+    be3035.ccr21.den01.atlas.cogentco.com (154.54.5.89)  64.574 ms
+11  be3047.ccr21.elp01.atlas.cogentco.com (154.54.1.125)  78.584 ms  78.509 ms  78.315 ms
+12  be2930.ccr22.phx02.atlas.cogentco.com (154.54.42.77)  85.348 ms
+    be2929.ccr21.phx02.atlas.cogentco.com (154.54.42.65)  87.634 ms
+    be2930.ccr22.phx02.atlas.cogentco.com (154.54.42.77)  86.352 ms
+13  be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  96.981 ms
+    be2931.ccr41.lax01.atlas.cogentco.com (154.54.44.86)  99.547 ms
+    be2932.ccr42.lax01.atlas.cogentco.com (154.54.45.162)  100.309 ms
+14  be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  99.866 ms
+    be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  100.420 ms
+    be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  98.230 ms
+15  38.122.147.154 (38.122.147.154)  97.311 ms  98.195 ms  98.050 ms
+16  localhost (27.68.250.17)  298.779 ms  304.790 ms
+    localhost (27.68.250.13)  309.020 ms
+17  localhost (27.68.237.5)  307.455 ms
+    localhost (27.68.237.69)  307.731 ms
+    localhost (27.68.237.5)  305.470 ms
+18  localhost (27.68.255.37)  303.715 ms
+    localhost (27.68.255.45)  307.744 ms
+    localhost (27.68.255.37)  304.788 ms
+19  localhost (27.68.229.234)  307.100 ms  305.947 ms
+    localhost (27.68.229.226)  380.185 ms
+20  localhost (27.68.229.233)  335.830 ms  306.776 ms  306.943 ms
+21  localhost (27.68.229.50)  307.436 ms  273.864 ms  271.581 ms
+22  203.113.156.146 (203.113.156.146)  345.510 ms  338.661 ms  332.203 ms
+23  112.137.142.4 (112.137.142.4)  280.061 ms  327.046 ms  290.211 ms
+End time:  Thu 9 Nov 2017 18:31:54 EST
+
+
+

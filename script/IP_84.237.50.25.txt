@@ -201,3 +201,57 @@ End time:  Thu 9 Nov 2017 16:09:14 EST
 
 
 
+Start time:  Thu 9 Nov 2017 18:51:56 EST
+ 1  controlpanel.home (192.168.1.1)  20.550 ms  2.585 ms  3.516 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.331 ms  22.833 ms  21.232 ms
+ 3  96.127.249.5 (96.127.249.5)  20.577 ms  35.070 ms  27.334 ms
+ 4  he.peer.qix.ca (198.179.18.5)  32.646 ms  26.756 ms  23.407 ms
+ 5  100ge12-1.core1.nyc4.he.net (184.105.64.89)  54.737 ms  43.339 ms  42.176 ms
+ 6  100ge4-1.core1.par2.he.net (184.105.81.78)  191.793 ms  325.699 ms *
+ 7  100ge5-2.core1.fra1.he.net (72.52.92.14)  124.729 ms  149.998 ms  115.631 ms
+ 8  rostelecom-as-as12389.100gigabitethernet12-2.core1.fra1.he.net (216.66.89.226)  109.429 ms  109.267 ms  109.312 ms
+ 9  ae3.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.51)  274.764 ms
+    ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  202.157 ms  197.018 ms
+10  217.65.80.163 (217.65.80.163)  209.573 ms  197.001 ms  233.715 ms
+11  host-95-170-130-186.avantel.ru (95.170.130.186)  193.145 ms  307.612 ms  288.278 ms
+12  host25.50.237.84.nsu.ru (84.237.50.25)  210.514 ms  294.557 ms  308.744 ms
+End time:  Thu 9 Nov 2017 18:51:56 EST
+
+
+
+Start time:  Thu 9 Nov 2017 18:52:03 EST
+ 1  controlpanel.home (192.168.1.1)  26.530 ms  2.598 ms  2.887 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.259 ms  18.808 ms  19.367 ms
+ 3  96.127.249.5 (96.127.249.5)  31.680 ms  20.708 ms  20.039 ms
+ 4  he.peer.qix.ca (198.179.18.5)  26.606 ms  23.126 ms  25.456 ms
+ 5  100ge12-1.core1.nyc4.he.net (184.105.64.89)  35.686 ms  48.353 ms  33.312 ms
+ 6  100ge4-1.core1.par2.he.net (184.105.81.78)  103.428 ms  104.015 ms  159.696 ms
+ 7  100ge5-2.core1.fra1.he.net (72.52.92.14)  219.680 ms  189.422 ms  213.591 ms
+ 8  rostelecom-as-as12389.100gigabitethernet12-2.core1.fra1.he.net (216.66.89.226)  109.390 ms  109.613 ms  113.654 ms
+ 9  ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  280.089 ms
+    ae3.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.51)  188.950 ms
+    ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  225.911 ms
+10  217.65.80.163 (217.65.80.163)  317.557 ms  282.887 ms  200.051 ms
+11  host-95-170-130-186.avantel.ru (95.170.130.186)  236.476 ms  283.989 ms  211.229 ms
+12  host25.50.237.84.nsu.ru (84.237.50.25)  293.725 ms  216.307 ms  399.220 ms
+End time:  Thu 9 Nov 2017 18:52:03 EST
+
+
+
+Start time:  Thu 9 Nov 2017 18:52:10 EST
+ 1  controlpanel.home (192.168.1.1)  18.251 ms  2.100 ms  2.190 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.828 ms  22.897 ms  21.215 ms
+ 3  96.127.249.5 (96.127.249.5)  30.098 ms  57.209 ms  25.798 ms
+ 4  he.peer.qix.ca (198.179.18.5)  26.951 ms  35.074 ms  32.104 ms
+ 5  100ge12-1.core1.nyc4.he.net (184.105.64.89)  46.730 ms  43.008 ms  37.795 ms
+ 6  100ge4-1.core1.par2.he.net (184.105.81.78)  108.716 ms  136.874 ms  110.599 ms
+ 7  100ge5-2.core1.fra1.he.net (72.52.92.14)  277.780 ms  401.191 ms  114.119 ms
+ 8  rostelecom-as-as12389.100gigabitethernet12-2.core1.fra1.he.net (216.66.89.226)  110.552 ms  109.576 ms  111.408 ms
+ 9  ae4.nvsk-ar1.sib.ip.rostelecom.ru (213.228.109.53)  209.454 ms  272.927 ms  303.707 ms
+10  217.65.80.163 (217.65.80.163)  309.969 ms  290.572 ms  221.178 ms
+11  host-95-170-130-186.avantel.ru (95.170.130.186)  299.726 ms  316.640 ms  287.404 ms
+12  host25.50.237.84.nsu.ru (84.237.50.25)  208.211 ms  302.271 ms  319.996 ms
+End time:  Thu 9 Nov 2017 18:52:10 EST
+
+
+
