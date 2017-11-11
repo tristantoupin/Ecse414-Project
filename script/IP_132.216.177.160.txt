@@ -619,3 +619,30 @@ End time:  Sat 11 Nov 2017 12:34:03 EST
 
 
 
+Start time:  Sat 11 Nov 2017 15:53:56 EST
+ 1  gateway (142.157.26.2)  4.482 ms  2.827 ms  1.759 ms
+ 2  james-core-vlan418.gw.mcgill.ca (132.216.216.27)  1.695 ms  1.745 ms  1.666 ms
+ 3  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  1.868 ms  2.068 ms  1.708 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  1.809 ms  1.709 ms  2.075 ms
+End time:  Sat 11 Nov 2017 15:53:56 EST
+
+
+
+Start time:  Sat 11 Nov 2017 15:53:58 EST
+ 1  gateway (142.157.26.2)  3.911 ms  2.081 ms  2.084 ms
+ 2  james-core-vlan418.gw.mcgill.ca (132.216.216.27)  1.849 ms  2.070 ms  1.731 ms
+ 3  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  1.837 ms  1.789 ms  1.780 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  1.725 ms  2.647 ms  1.675 ms
+End time:  Sat 11 Nov 2017 15:53:58 EST
+
+
+
+Start time:  Sat 11 Nov 2017 15:54:05 EST
+ 1  * gateway (142.157.26.2)  4.015 ms  3.219 ms
+ 2  james-core-vlan418.gw.mcgill.ca (132.216.216.27)  1.748 ms  1.731 ms  1.755 ms
+ 3  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  1.913 ms  2.272 ms  3.074 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  2.087 ms  2.125 ms  1.791 ms
+End time:  Sat 11 Nov 2017 15:54:05 EST
+
+
+
