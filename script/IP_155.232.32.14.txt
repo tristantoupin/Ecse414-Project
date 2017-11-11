@@ -835,3 +835,72 @@ End time:  Sat 11 Nov 2017 06:24:59 EST
 
 
 
+Start time:  Sat 11 Nov 2017 09:08:32 EST
+ 1  controlpanel.home (192.168.1.1)  9.045 ms  1.707 ms  1.972 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.792 ms  19.012 ms  18.852 ms
+ 3  96.127.249.5 (96.127.249.5)  18.931 ms  32.109 ms  21.445 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.699 ms  20.936 ms  20.691 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.180 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  18.957 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  24.414 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  88.637 ms  89.179 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  91.514 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  95.339 ms  101.675 ms
+    be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  96.177 ms
+ 8  be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  98.314 ms
+    be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  98.355 ms
+    be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  95.884 ms
+ 9  be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  96.264 ms  96.814 ms  97.189 ms
+10  149.14.80.210 (149.14.80.210)  97.261 ms  98.494 ms  96.144 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  248.561 ms  259.895 ms  297.629 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  294.017 ms  319.159 ms  307.901 ms
+13  155.232.32.14 (155.232.32.14)  235.847 ms *  2185.575 ms
+End time:  Sat 11 Nov 2017 09:08:32 EST
+
+
+
+Start time:  Sat 11 Nov 2017 09:08:44 EST
+ 1  controlpanel.home (192.168.1.1)  2.087 ms  2.772 ms  2.941 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.413 ms  21.058 ms  35.557 ms
+ 3  96.127.249.5 (96.127.249.5)  46.141 ms  18.877 ms  18.949 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.714 ms  19.331 ms  19.512 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  18.802 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.697 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  21.999 ms
+ 6  be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  88.286 ms  89.955 ms
+    be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.129 ms
+ 7  be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  96.008 ms  96.577 ms  95.583 ms
+ 8  be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  95.225 ms
+    be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  95.470 ms
+    be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  100.012 ms
+ 9  be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  96.369 ms  100.661 ms  97.602 ms
+10  149.14.80.210 (149.14.80.210)  96.582 ms  95.364 ms  95.703 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  243.207 ms  306.577 ms  307.941 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  235.358 ms  235.209 ms  244.679 ms
+13  155.232.32.14 (155.232.32.14)  307.164 ms *  1622.752 ms
+End time:  Sat 11 Nov 2017 09:08:44 EST
+
+
+
+Start time:  Sat 11 Nov 2017 09:08:55 EST
+ 1  controlpanel.home (192.168.1.1)  4.191 ms  2.249 ms  1.919 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.923 ms  19.361 ms  18.623 ms
+ 3  96.127.249.5 (96.127.249.5)  19.751 ms  18.772 ms  38.602 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.743 ms  19.197 ms  19.241 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.833 ms  22.079 ms  19.183 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.510 ms  88.812 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  89.413 ms
+ 7  be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  98.713 ms
+    be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  98.803 ms  96.237 ms
+ 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  95.522 ms  95.972 ms
+    be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  97.022 ms
+ 9  be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  95.952 ms  96.695 ms
+    be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  98.973 ms
+10  149.14.80.210 (149.14.80.210)  95.647 ms  95.195 ms  110.584 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  337.052 ms  305.619 ms  307.851 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  307.018 ms  325.692 ms  287.405 ms
+13  155.232.32.14 (155.232.32.14)  307.769 ms *  319.012 ms
+End time:  Sat 11 Nov 2017 09:08:55 EST
+
+
+
