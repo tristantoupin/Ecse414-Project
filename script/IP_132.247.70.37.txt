@@ -1087,3 +1087,95 @@ End time:  Sat 11 Nov 2017 04:16:00 EST
 
 
 
+Start time:  Sat 11 Nov 2017 06:58:57 EST
+ 1  controlpanel.home (192.168.1.1)  4.353 ms  2.650 ms  2.251 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.474 ms  19.565 ms  18.750 ms
+ 3  96.127.249.5 (96.127.249.5)  18.699 ms  18.840 ms  18.876 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  18.972 ms  19.145 ms  19.922 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  23.641 ms  19.427 ms  19.227 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  30.660 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  26.680 ms  520.519 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  517.654 ms  518.931 ms  654.571 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  723.195 ms  249.834 ms  34.660 ms
+ 9  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  46.306 ms  44.812 ms  44.985 ms
+10  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  59.192 ms  61.396 ms  59.132 ms
+11  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  66.222 ms
+    be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  69.737 ms
+    be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  69.155 ms
+12  be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  83.500 ms
+    be2692.rcr21.mex01.atlas.cogentco.com (154.24.23.26)  83.811 ms
+    be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  82.848 ms
+13  38.104.248.66 (38.104.248.66)  91.086 ms  81.042 ms  86.038 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  81.286 ms  88.438 ms  79.691 ms
+15  177.234.31.246 (177.234.31.246)  80.445 ms  79.707 ms  83.212 ms
+16  177.234.10.34 (177.234.10.34)  81.688 ms  84.140 ms  83.636 ms
+17  177.234.10.37 (177.234.10.37)  85.506 ms  81.659 ms  81.311 ms
+18  177.234.4.122 (177.234.4.122)  104.999 ms  102.775 ms  102.832 ms
+19  132.247.237.189 (132.247.237.189)  103.844 ms  104.149 ms  108.409 ms
+20  132.247.70.37 (132.247.70.37)  104.760 ms !Z  106.092 ms !Z  107.015 ms !Z
+End time:  Sat 11 Nov 2017 06:58:57 EST
+
+
+
+Start time:  Sat 11 Nov 2017 06:59:03 EST
+ 1  controlpanel.home (192.168.1.1)  2.397 ms  2.265 ms  1.908 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.147 ms  18.698 ms  18.994 ms
+ 3  96.127.249.5 (96.127.249.5)  19.327 ms  25.602 ms  29.551 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.494 ms  20.070 ms  19.869 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  20.747 ms  18.990 ms  18.772 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.887 ms  25.205 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  24.928 ms
+ 7  be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  26.961 ms  27.615 ms
+    be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  31.032 ms
+ 8  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  36.692 ms  33.662 ms  33.520 ms
+ 9  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  45.139 ms
+    be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  48.365 ms  46.963 ms
+10  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  58.629 ms
+    be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  60.429 ms
+    be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  58.247 ms
+11  be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  69.439 ms  69.701 ms  69.099 ms
+12  be2692.rcr21.mex01.atlas.cogentco.com (154.24.23.26)  82.575 ms  81.149 ms
+    be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  82.450 ms
+13  38.104.248.66 (38.104.248.66)  97.203 ms  81.481 ms  80.790 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  83.293 ms  81.509 ms  80.007 ms
+15  177.234.31.246 (177.234.31.246)  81.560 ms  84.917 ms  83.885 ms
+16  177.234.10.34 (177.234.10.34)  83.191 ms  82.048 ms  84.099 ms
+17  177.234.10.37 (177.234.10.37)  82.913 ms  80.691 ms  80.365 ms
+18  177.234.4.122 (177.234.4.122)  103.100 ms  102.659 ms  102.677 ms
+19  132.247.237.189 (132.247.237.189)  103.588 ms  104.983 ms  104.481 ms
+20  132.247.70.37 (132.247.70.37)  105.888 ms !Z  104.620 ms !Z  104.351 ms !Z
+End time:  Sat 11 Nov 2017 06:59:03 EST
+
+
+
+Start time:  Sat 11 Nov 2017 06:59:11 EST
+ 1  controlpanel.home (192.168.1.1)  519.681 ms  655.782 ms  721.885 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  719.355 ms  248.451 ms  18.453 ms
+ 3  96.127.249.5 (96.127.249.5)  20.812 ms  18.744 ms  18.906 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.703 ms  18.943 ms  19.217 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  18.852 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  20.183 ms  18.974 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  24.869 ms  29.860 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  25.293 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  26.948 ms
+    be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  28.542 ms
+    be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  33.199 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  33.635 ms  34.973 ms  33.603 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  45.932 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  44.877 ms  45.985 ms
+10  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  58.744 ms
+    be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  58.150 ms  58.691 ms
+11  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  66.522 ms  66.147 ms  67.225 ms
+12  be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  82.455 ms  80.815 ms  82.516 ms
+13  38.104.248.66 (38.104.248.66)  83.729 ms  80.843 ms  89.595 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  81.048 ms  81.368 ms  81.125 ms
+15  177.234.31.246 (177.234.31.246)  79.947 ms  81.319 ms  81.464 ms
+16  177.234.10.34 (177.234.10.34)  93.264 ms  100.442 ms  88.035 ms
+17  177.234.10.37 (177.234.10.37)  80.540 ms  82.284 ms  93.583 ms
+18  177.234.4.122 (177.234.4.122)  112.719 ms  103.831 ms  103.936 ms
+19  132.247.237.189 (132.247.237.189)  104.321 ms  102.567 ms  103.160 ms
+20  132.247.70.37 (132.247.70.37)  113.288 ms !Z  105.579 ms !Z  104.489 ms !Z
+End time:  Sat 11 Nov 2017 06:59:11 EST
+
+
+
