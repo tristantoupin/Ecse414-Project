@@ -439,3 +439,48 @@ End time:  Sat 11 Nov 2017 01:38:32 EST
 
 
 
+Start time:  Sat 11 Nov 2017 04:18:46 EST
+ 1  controlpanel.home (192.168.1.1)  5.354 ms  1.933 ms  1.924 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.245 ms  18.683 ms  18.982 ms
+ 3  96.127.249.5 (96.127.249.5)  18.981 ms  19.344 ms  18.765 ms
+ 4  risq.peer.qix.ca (198.179.18.1)  19.339 ms  18.835 ms  19.527 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  gateway (132.216.255.2)  20.858 ms  20.232 ms  19.282 ms
+ 9  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  19.258 ms  19.642 ms  19.854 ms
+10  burneycentre.mcgill.ca (132.216.177.160)  19.326 ms  19.700 ms  19.658 ms
+End time:  Sat 11 Nov 2017 04:18:46 EST
+
+
+
+Start time:  Sat 11 Nov 2017 04:19:37 EST
+ 1  controlpanel.home (192.168.1.1)  4.777 ms  2.177 ms  1.992 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  28.726 ms  19.932 ms  19.277 ms
+ 3  96.127.249.5 (96.127.249.5)  19.072 ms  19.016 ms  18.802 ms
+ 4  risq.peer.qix.ca (198.179.18.1)  19.369 ms  23.972 ms  18.699 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  gateway (132.216.255.2)  823.508 ms  653.960 ms  1452.717 ms
+ 9  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  249.676 ms  19.763 ms  20.188 ms
+10  burneycentre.mcgill.ca (132.216.177.160)  19.225 ms  19.677 ms  19.694 ms
+End time:  Sat 11 Nov 2017 04:19:37 EST
+
+
+
+Start time:  Sat 11 Nov 2017 04:20:24 EST
+ 1  controlpanel.home (192.168.1.1)  4.006 ms  3.082 ms  2.066 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.153 ms  18.694 ms  18.722 ms
+ 3  96.127.249.5 (96.127.249.5)  19.232 ms  19.185 ms  18.585 ms
+ 4  risq.peer.qix.ca (198.179.18.1)  19.290 ms  21.720 ms  19.495 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  gateway (132.216.255.2)  21.140 ms  19.901 ms  19.907 ms
+ 9  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  20.319 ms  20.355 ms  19.803 ms
+10  burneycentre.mcgill.ca (132.216.177.160)  27.535 ms  23.840 ms  19.216 ms
+End time:  Sat 11 Nov 2017 04:20:24 EST
+
+
+
