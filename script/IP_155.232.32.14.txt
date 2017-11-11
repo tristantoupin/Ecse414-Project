@@ -559,3 +559,68 @@ End time:  Fri 10 Nov 2017 16:41:54 EST
 
 
 
+Start time:  Fri 10 Nov 2017 20:35:51 EST
+ 1  controlpanel.home (192.168.1.1)  6.685 ms  2.271 ms  2.234 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.647 ms  19.730 ms  19.447 ms
+ 3  96.127.249.5 (96.127.249.5)  18.986 ms  18.991 ms  22.055 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  20.324 ms  18.849 ms  19.121 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  18.712 ms  20.930 ms  19.109 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.796 ms  88.452 ms  88.860 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  98.750 ms  95.502 ms  95.614 ms
+ 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  94.867 ms
+    be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  95.991 ms
+    be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  95.244 ms
+ 9  be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  98.602 ms  96.566 ms  95.243 ms
+10  149.14.80.210 (149.14.80.210)  96.032 ms  95.860 ms  94.898 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  299.323 ms  307.293 ms  306.276 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  307.398 ms  239.060 ms  275.293 ms
+13  * * *
+14  155.232.32.14 (155.232.32.14)  237.351 ms  248.630 ms *
+End time:  Fri 10 Nov 2017 20:35:51 EST
+
+
+
+Start time:  Fri 10 Nov 2017 20:36:02 EST
+ 1  controlpanel.home (192.168.1.1)  8.317 ms  4.346 ms  18.679 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.161 ms  21.820 ms  19.037 ms
+ 3  96.127.249.5 (96.127.249.5)  19.143 ms  19.308 ms  18.532 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  23.366 ms  18.966 ms  19.135 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.311 ms  22.840 ms  19.187 ms
+ 6  be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  90.684 ms
+    be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.760 ms  89.140 ms
+ 7  be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  95.591 ms  96.608 ms  95.493 ms
+ 8  be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  96.063 ms
+    be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  95.029 ms  94.921 ms
+ 9  be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  95.993 ms  95.385 ms
+    be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  97.784 ms
+10  149.14.80.210 (149.14.80.210)  95.618 ms  94.712 ms  95.053 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  287.291 ms  306.025 ms  307.442 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  235.645 ms  293.268 ms  289.431 ms
+13  155.232.32.14 (155.232.32.14)  303.821 ms *  322.581 ms
+End time:  Fri 10 Nov 2017 20:36:02 EST
+
+
+
+Start time:  Fri 10 Nov 2017 20:36:18 EST
+ 1  controlpanel.home (192.168.1.1)  6.022 ms  2.799 ms  4.009 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  22.190 ms  20.206 ms  20.524 ms
+ 3  96.127.249.5 (96.127.249.5)  18.709 ms  18.810 ms  22.481 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.003 ms  19.846 ms  19.089 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  21.607 ms  19.240 ms  19.006 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  90.748 ms  94.294 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  88.234 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  96.184 ms  96.811 ms
+    be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  95.275 ms
+ 8  be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  95.689 ms
+    be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  95.941 ms  95.352 ms
+ 9  be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  95.309 ms
+    be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  95.121 ms
+    be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  95.325 ms
+10  149.14.80.210 (149.14.80.210)  95.924 ms  95.409 ms  95.608 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  264.210 ms  312.691 ms  247.049 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  258.917 ms  305.410 ms  307.719 ms
+13  * 155.232.32.14 (155.232.32.14)  320.323 ms *
+End time:  Fri 10 Nov 2017 20:36:18 EST
+
+
+
