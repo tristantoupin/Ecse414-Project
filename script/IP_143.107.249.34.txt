@@ -1128,3 +1128,60 @@ End time:  Sat 11 Nov 2017 15:47:18 EST
 
 
 
+Start time:  Sat 11 Nov 2017 18:10:25 EST
+ 1  gateway (142.157.26.2)  105.942 ms  2.418 ms  1.820 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.494 ms  645.929 ms  1.435 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.354 ms  3.574 ms  707.061 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.121 ms  713.156 ms  2.002 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  244.426 ms  2.567 ms  1.672 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.747 ms  1.926 ms  1.668 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  1.728 ms  2.000 ms  1.882 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.327 ms  11.891 ms  8.387 ms
+ 9  200.0.207.5 (200.0.207.5)  52.040 ms  52.058 ms  51.901 ms
+10  br-us.redclara.net (200.0.204.8)  245.176 ms  218.454 ms  204.892 ms
+11  rnp-br.redclara.net (200.0.204.214)  159.552 ms  195.255 ms  160.158 ms
+12  sp-usp.bkb.rnp.br (200.143.255.114)  249.613 ms  160.221 ms  269.074 ms
+13  border2.uspnet.usp.br (143.107.151.42)  183.959 ms  204.196 ms  204.890 ms
+14  143.107.249.34 (143.107.249.34)  204.815 ms  204.191 ms  204.428 ms
+End time:  Sat 11 Nov 2017 18:10:25 EST
+
+
+
+Start time:  Sat 11 Nov 2017 18:10:30 EST
+ 1  gateway (142.157.26.2)  2.161 ms  3.479 ms  4.660 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  14.113 ms  1.490 ms  1.538 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.523 ms  1.462 ms  1.453 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  1.723 ms  1.786 ms  1.676 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.807 ms  2.375 ms  2.278 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.852 ms  2.237 ms  1.775 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  1.859 ms  1.822 ms  1.734 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.473 ms  8.799 ms  8.219 ms
+ 9  200.0.207.5 (200.0.207.5)  52.720 ms  52.062 ms  52.964 ms
+10  br-us.redclara.net (200.0.204.8)  183.780 ms  203.942 ms  225.618 ms
+11  rnp-br.redclara.net (200.0.204.214)  160.674 ms  227.445 ms  205.006 ms
+12  sp-usp.bkb.rnp.br (200.143.255.114)  204.466 ms  225.130 ms  182.523 ms
+13  border2.uspnet.usp.br (143.107.151.42)  204.808 ms  159.513 ms  249.354 ms
+14  143.107.249.34 (143.107.249.34)  204.761 ms  223.653 ms  184.789 ms
+End time:  Sat 11 Nov 2017 18:10:30 EST
+
+
+
+Start time:  Sat 11 Nov 2017 18:10:39 EST
+ 1  gateway (142.157.26.2)  5.302 ms  1.497 ms  1.607 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.955 ms  1.855 ms  1.387 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  4.790 ms  1.659 ms  2.135 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.158 ms  1.882 ms  1.836 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.768 ms  2.067 ms  1.699 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.787 ms  1.853 ms  509.859 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  1.886 ms  1.700 ms  2.162 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  511.848 ms  17.978 ms  17.275 ms
+ 9  200.0.207.5 (200.0.207.5)  1842.977 ms  1018.464 ms  58.923 ms
+10  br-us.redclara.net (200.0.204.8)  169.547 ms  172.926 ms  164.685 ms
+11  rnp-br.redclara.net (200.0.204.214)  191.600 ms  204.234 ms  204.713 ms
+12  sp-usp.bkb.rnp.br (200.143.255.114)  204.784 ms  204.081 ms  163.267 ms
+13  border2.uspnet.usp.br (143.107.151.42)  245.869 ms  190.059 ms  219.414 ms
+14  143.107.249.34 (143.107.249.34)  204.818 ms  204.104 ms  206.585 ms
+End time:  Sat 11 Nov 2017 18:10:39 EST
+
+
+
