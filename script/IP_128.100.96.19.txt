@@ -579,3 +579,36 @@ End time:  Sat 11 Nov 2017 09:44:02 EST
 
 
 
+Start time:  Sat 11 Nov 2017 12:31:14 EST
+ 1  controlpanel.home (192.168.1.1)  15.512 ms  2.658 ms  1.829 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.493 ms  18.577 ms  20.127 ms
+ 3  96.127.249.5 (96.127.249.5)  18.281 ms  17.999 ms  18.490 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  26.851 ms  26.514 ms  26.891 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  26.731 ms  26.420 ms  26.845 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  27.866 ms *  248.583 ms
+End time:  Sat 11 Nov 2017 12:31:14 EST
+
+
+
+Start time:  Sat 11 Nov 2017 12:31:21 EST
+ 1  controlpanel.home (192.168.1.1)  4.060 ms  2.897 ms  2.500 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.264 ms  22.732 ms  28.448 ms
+ 3  96.127.249.5 (96.127.249.5)  50.428 ms  18.920 ms  19.160 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  27.369 ms  27.276 ms  25.663 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  26.127 ms  26.281 ms  26.719 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  26.291 ms *  27.530 ms
+End time:  Sat 11 Nov 2017 12:31:21 EST
+
+
+
+Start time:  Sat 11 Nov 2017 12:31:29 EST
+ 1  controlpanel.home (192.168.1.1)  3.534 ms  18.394 ms  6.040 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.718 ms  19.157 ms  18.569 ms
+ 3  96.127.249.5 (96.127.249.5)  18.873 ms  22.533 ms  18.933 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  28.596 ms  25.821 ms  26.460 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  26.743 ms  25.488 ms  33.549 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  26.621 ms *  27.887 ms
+End time:  Sat 11 Nov 2017 12:31:29 EST
+
+
+
