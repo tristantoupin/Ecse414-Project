@@ -1409,3 +1409,60 @@ End time:  Sun 12 Nov 2017 12:41:02 EST
 
 
 
+Start time:  Sun 12 Nov 2017 15:42:49 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  415.166 ms  21.613 ms  15.350 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  22.837 ms  91.634 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  46.431 ms
+ 4  xe-1-0-3.cr0-mtl1.ip4.gtt.net (69.174.1.121)  28.618 ms  25.966 ms  28.007 ms
+ 5  et-0-0-65.cr10-lon1.ip4.gtt.net (89.149.187.190)  1607.086 ms  1420.651 ms  146.260 ms
+ 6  ip4.gtt.net (46.33.78.78)  139.798 ms  121.033 ms  121.193 ms
+ 7  ae24.londtt-sbr1.ja.net (146.97.35.193)  108.522 ms  205.295 ms  412.195 ms
+ 8  ae28.londtw-sbr2.ja.net (146.97.33.62)  99.558 ms  101.270 ms  107.277 ms
+ 9  ae30.londpg-sbr2.ja.net (146.97.33.5)  100.011 ms  99.967 ms  105.073 ms
+10  ae19.readdy-rbr1.ja.net (146.97.37.194)  357.962 ms  211.142 ms  198.826 ms
+11  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  108.799 ms  116.780 ms  225.173 ms
+12  ae3.oxforq-rbr1.ja.net (193.63.108.98)  175.556 ms  95.717 ms  120.917 ms
+13  oxford-university.ja.net (193.63.109.90)  180.567 ms !X  1563.517 ms !X  180.484 ms !X
+End time:  Sun 12 Nov 2017 15:42:49 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:43:09 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  11.361 ms  13.375 ms  17.844 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  28.670 ms  13.856 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  10.888 ms
+ 4  xe-1-0-3.cr0-mtl1.ip4.gtt.net (69.174.1.121)  12.827 ms  11.613 ms  18.810 ms
+ 5  et-0-0-65.cr10-lon1.ip4.gtt.net (89.149.187.190)  99.622 ms  91.146 ms  91.125 ms
+ 6  ip4.gtt.net (46.33.78.78)  106.393 ms  108.312 ms  106.758 ms
+ 7  ae24.londtt-sbr1.ja.net (146.97.35.193)  213.344 ms  112.434 ms  194.881 ms
+ 8  ae28.londtw-sbr2.ja.net (146.97.33.62)  91.209 ms  98.666 ms  91.996 ms
+ 9  ae30.londpg-sbr2.ja.net (146.97.33.5)  91.788 ms  102.977 ms  93.960 ms
+10  ae19.readdy-rbr1.ja.net (146.97.37.194)  116.849 ms  117.446 ms  320.589 ms
+11  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  202.087 ms  208.058 ms  201.515 ms
+12  ae3.oxforq-rbr1.ja.net (193.63.108.98)  100.498 ms  91.794 ms  91.915 ms
+13  oxford-university.ja.net (193.63.109.90)  108.574 ms !X  115.596 ms !X  110.536 ms !X
+End time:  Sun 12 Nov 2017 15:43:09 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:43:34 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  15.857 ms  16.812 ms  12.637 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  25.045 ms  13.562 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  10.720 ms
+ 4  xe-1-0-3.cr0-mtl1.ip4.gtt.net (69.174.1.121)  14.455 ms  16.420 ms  15.553 ms
+ 5  et-0-0-65.cr10-lon1.ip4.gtt.net (89.149.187.190)  95.690 ms  93.844 ms  93.574 ms
+ 6  ip4.gtt.net (46.33.78.78)  115.792 ms  115.544 ms  106.253 ms
+ 7  ae24.londtt-sbr1.ja.net (146.97.35.193)  109.414 ms  104.457 ms  108.593 ms
+ 8  ae28.londtw-sbr2.ja.net (146.97.33.62)  100.416 ms  102.923 ms  91.039 ms
+ 9  ae30.londpg-sbr2.ja.net (146.97.33.5)  93.070 ms  91.729 ms  93.940 ms
+10  ae19.readdy-rbr1.ja.net (146.97.37.194)  109.584 ms  110.711 ms  112.873 ms
+11  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  111.460 ms  112.899 ms *
+12  ae3.oxforq-rbr1.ja.net (193.63.108.98)  96.913 ms  111.721 ms  95.055 ms
+13  oxford-university.ja.net (193.63.109.90)  173.256 ms !X  110.622 ms !X  109.880 ms !X
+End time:  Sun 12 Nov 2017 15:43:34 EST
+
+
+

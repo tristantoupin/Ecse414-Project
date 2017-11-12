@@ -836,3 +836,54 @@ End time:  Sun 12 Nov 2017 12:42:51 EST
 
 
 
+Start time:  Sun 12 Nov 2017 15:49:31 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  13.143 ms  12.065 ms  10.025 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  21.058 ms  10.277 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  13.167 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  13.908 ms  14.411 ms  11.737 ms
+ 5  risq.peer.qix.ca (198.179.18.1)  11.334 ms  14.076 ms  13.103 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  gateway (132.216.255.2)  19.661 ms  15.060 ms  10.694 ms
+10  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  14.137 ms  12.722 ms  11.486 ms
+11  burneycentre.mcgill.ca (132.216.177.160)  14.113 ms  67.137 ms  10.608 ms
+End time:  Sun 12 Nov 2017 15:49:31 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:50:33 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  13.173 ms  22.019 ms  12.256 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  12.917 ms  14.688 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  23.019 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  11.172 ms  10.324 ms  15.822 ms
+ 5  risq.peer.qix.ca (198.179.18.1)  12.183 ms  12.261 ms  12.922 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  gateway (132.216.255.2)  14.214 ms  11.393 ms  12.273 ms
+10  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  30.599 ms  27.711 ms  13.058 ms
+11  burneycentre.mcgill.ca (132.216.177.160)  11.143 ms  14.954 ms  14.054 ms
+End time:  Sun 12 Nov 2017 15:50:33 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:51:36 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  18.918 ms  11.367 ms  12.837 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  11.321 ms  23.812 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  13.174 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  12.590 ms  43.068 ms  12.998 ms
+ 5  risq.peer.qix.ca (198.179.18.1)  12.474 ms  24.194 ms  10.287 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  gateway (132.216.255.2)  14.047 ms  13.829 ms  13.175 ms
+10  datacentre2-vlan415.gw.mcgill.ca (132.216.216.166)  12.318 ms  10.541 ms  11.572 ms
+11  burneycentre.mcgill.ca (132.216.177.160)  13.936 ms  14.046 ms  13.830 ms
+End time:  Sun 12 Nov 2017 15:51:36 EST
+
+
+

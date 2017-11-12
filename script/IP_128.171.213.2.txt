@@ -1408,3 +1408,66 @@ End time:  Sun 12 Nov 2017 12:37:40 EST
 
 
 
+Start time:  Sun 12 Nov 2017 15:30:42 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  15.307 ms  17.141 ms  12.341 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  14.884 ms  27.948 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  14.594 ms
+ 4  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  21.431 ms  18.883 ms  16.946 ms
+ 5  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  31.931 ms  27.275 ms  30.919 ms
+ 6  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  36.192 ms  30.531 ms  30.663 ms
+ 7  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  27.524 ms  29.138 ms  28.057 ms
+ 8  ae-5.0.rtr.eqch.net.internet2.edu (64.57.20.109)  27.795 ms  42.305 ms  28.169 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  lo-0.8.rtsw.seat.net.internet2.edu (64.57.20.253)  74.923 ms  75.689 ms  89.505 ms
+13  64.57.21.50 (64.57.21.50)  246.101 ms  264.325 ms  202.620 ms
+14  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  204.380 ms  199.739 ms  204.701 ms
+15  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  204.899 ms  204.969 ms  203.028 ms
+End time:  Sun 12 Nov 2017 15:30:42 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:31:46 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  19.635 ms  12.407 ms  16.347 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  23.492 ms  14.013 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  11.413 ms
+ 4  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  33.518 ms  20.282 ms  27.015 ms
+ 5  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  27.327 ms  27.697 ms  31.273 ms
+ 6  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  26.976 ms  30.933 ms  34.387 ms
+ 7  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  28.887 ms  27.658 ms  39.222 ms
+ 8  ae-5.0.rtr.eqch.net.internet2.edu (64.57.20.109)  26.742 ms  27.573 ms  26.240 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  lo-0.8.rtsw.seat.net.internet2.edu (64.57.20.253)  70.143 ms  72.165 ms  68.597 ms
+13  64.57.21.50 (64.57.21.50)  241.247 ms  204.110 ms  205.079 ms
+14  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  207.432 ms  202.115 ms  134.058 ms
+15  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  185.270 ms  191.214 ms  208.631 ms
+End time:  Sun 12 Nov 2017 15:31:46 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:32:51 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  18.520 ms  9.884 ms  11.434 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  15.163 ms  13.812 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  11.010 ms
+ 4  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  16.592 ms  19.415 ms  17.829 ms
+ 5  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  26.608 ms  26.668 ms  26.932 ms
+ 6  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  30.063 ms  45.104 ms  30.370 ms
+ 7  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  29.586 ms  28.164 ms  28.127 ms
+ 8  ae-5.0.rtr.eqch.net.internet2.edu (64.57.20.109)  26.231 ms  28.099 ms  32.473 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  lo-0.8.rtsw.seat.net.internet2.edu (64.57.20.253)  68.695 ms  73.535 ms  69.035 ms
+13  64.57.21.50 (64.57.21.50)  275.713 ms  133.772 ms  135.452 ms
+14  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  239.872 ms  205.914 ms  306.499 ms
+15  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  204.764 ms  204.045 ms  205.388 ms
+End time:  Sun 12 Nov 2017 15:32:51 EST
+
+
+

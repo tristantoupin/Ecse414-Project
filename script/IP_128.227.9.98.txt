@@ -1402,3 +1402,74 @@ End time:  Sun 12 Nov 2017 12:42:18 EST
 
 
 
+Start time:  Sun 12 Nov 2017 15:46:37 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  20.020 ms  11.389 ms  15.432 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  10.775 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  10.592 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  11.753 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  51.635 ms  10.315 ms  21.322 ms
+ 5  he.peer.qix.ca (198.179.18.5)  18.816 ms  23.874 ms  24.866 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  45.171 ms  18.115 ms  29.296 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  30.248 ms  29.505 ms  39.260 ms
+ 8  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  54.443 ms  55.671 ms  52.632 ms
+ 9  gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  78.272 ms  83.996 ms
+    gainhdrj02-ae0.0.rd.ga.cox.net (68.1.2.145)  77.149 ms
+10  ip68-105-160-2.ga.at.cox.net (68.105.160.2)  78.731 ms
+    ip68-105-160-0.ga.at.cox.net (68.105.160.0)  79.453 ms  76.556 ms
+11  wsip-184-188-101-187.at.at.cox.net (184.188.101.187)  67.856 ms  67.733 ms  65.976 ms
+12  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  77.884 ms  69.623 ms  71.792 ms
+13  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  117.211 ms  71.931 ms  66.294 ms
+14  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  66.634 ms  66.293 ms  86.896 ms
+15  ufl.edu (128.227.9.98)  412.207 ms  76.726 ms  66.584 ms
+End time:  Sun 12 Nov 2017 15:46:37 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:46:57 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  18.056 ms  12.789 ms  19.635 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  21.240 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  13.333 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  13.712 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  14.666 ms  21.602 ms  12.760 ms
+ 5  he.peer.qix.ca (198.179.18.5)  12.096 ms  14.667 ms  24.229 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  94.060 ms  19.114 ms  25.970 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  67.037 ms  35.040 ms  29.108 ms
+ 8  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  59.306 ms  52.443 ms  58.356 ms
+ 9  gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  86.810 ms
+    gainhdrj02-ae0.0.rd.ga.cox.net (68.1.2.145)  75.641 ms
+    gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  80.879 ms
+10  ip68-105-160-0.ga.at.cox.net (68.105.160.0)  76.364 ms
+    ip68-105-160-2.ga.at.cox.net (68.105.160.2)  76.646 ms  78.416 ms
+11  wsip-184-188-101-187.at.at.cox.net (184.188.101.187)  72.836 ms  68.762 ms  67.644 ms
+12  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  67.548 ms  67.524 ms  65.310 ms
+13  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  71.410 ms  67.968 ms  65.114 ms
+14  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  75.333 ms  65.691 ms  87.725 ms
+15  ufl.edu (128.227.9.98)  70.721 ms  66.172 ms  78.306 ms
+End time:  Sun 12 Nov 2017 15:46:57 EST
+
+
+
+Start time:  Sun 12 Nov 2017 15:47:21 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  16.922 ms  9.866 ms  12.378 ms
+ 3  0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  11.970 ms  13.052 ms
+    0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  13.093 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  24.901 ms  10.362 ms  11.842 ms
+ 5  he.peer.qix.ca (198.179.18.5)  20.124 ms  25.595 ms  24.656 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  23.223 ms  17.500 ms  20.121 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  30.223 ms  34.350 ms  26.878 ms
+ 8  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  54.594 ms  56.106 ms  66.196 ms
+ 9  gainhdrj02-ae0.0.rd.ga.cox.net (68.1.2.145)  77.561 ms *
+    gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  78.331 ms
+10  ip68-105-160-2.ga.at.cox.net (68.105.160.2)  76.047 ms  75.611 ms  77.009 ms
+11  wsip-184-188-101-187.at.at.cox.net (184.188.101.187)  67.806 ms  70.020 ms  111.788 ms
+12  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  65.924 ms  67.042 ms  68.526 ms
+13  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  72.753 ms  66.926 ms  68.423 ms
+14  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  67.693 ms  81.120 ms  68.363 ms
+15  ufl.edu (128.227.9.98)  68.173 ms  81.648 ms  68.179 ms
+End time:  Sun 12 Nov 2017 15:47:21 EST
+
+
+

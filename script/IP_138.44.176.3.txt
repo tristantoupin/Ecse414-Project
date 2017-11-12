@@ -1671,3 +1671,81 @@ End time:  Sun 12 Nov 2017 12:15:38 EST
 
 
 
+Start time:  Sun 12 Nov 2017 14:57:47 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  22.249 ms  10.759 ms  9.544 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  10.575 ms  11.110 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  15.877 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  19.045 ms  24.695 ms  13.991 ms
+ 5  he.peer.qix.ca (198.179.18.5)  25.307 ms  14.123 ms  20.120 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  20.118 ms  18.553 ms  22.689 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  33.073 ms  35.587 ms  32.118 ms
+ 8  100ge14-2.core1.msp1.he.net (184.105.223.178)  76.152 ms  73.730 ms  228.826 ms
+ 9  100ge10-1.core1.sea1.he.net (184.105.223.193)  720.866 ms  70.062 ms  68.397 ms
+10  100ge8-1.core1.tyo1.he.net (184.105.213.118)  255.711 ms  258.250 ms  203.140 ms
+11  100ge13-1.core1.sin1.he.net (184.105.64.253)  307.626 ms  274.040 ms  305.618 ms
+12  pacnet-as10026.10gigabitethernet4-1.core1.sin1.he.net (74.82.46.190)  307.617 ms  267.942 ms  307.394 ms
+13  te0-2-0-0.wr1.sin0.10026.telstraglobal.net (61.14.157.129)  307.009 ms
+    be3.wr1.sin0.10026.telstraglobal.net (61.14.157.166)  305.958 ms
+    be3.wr2.sin0.10026.telstraglobal.net (61.14.157.164)  310.901 ms
+14  gi1-0-0.gw5.sin1.10026.telstraglobal.net (61.14.157.110)  308.346 ms  246.884 ms
+    gi12-0-0.gw5.sin1.10026.telstraglobal.net (61.14.158.43)  269.261 ms
+15  aar-0002.gw3.sin1.10026.telstraglobal.net (202.147.33.174)  310.004 ms  411.857 ms  409.529 ms
+16  so-2-0-0.pe1.knsg.wa.aarnet.net.au (113.197.15.202)  306.032 ms  270.288 ms  341.469 ms
+17  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  280.988 ms  292.454 ms *
+End time:  Sun 12 Nov 2017 14:57:47 EST
+
+
+
+Start time:  Sun 12 Nov 2017 14:58:17 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  16.601 ms  11.975 ms  12.045 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  11.550 ms  19.472 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  54.778 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  15.762 ms  10.934 ms  12.283 ms
+ 5  he.peer.qix.ca (198.179.18.5)  21.816 ms  29.584 ms  29.102 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  19.990 ms  45.145 ms  21.029 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  34.252 ms  91.250 ms  38.925 ms
+ 8  100ge14-2.core1.msp1.he.net (184.105.223.178)  37.295 ms  44.212 ms  40.167 ms
+ 9  100ge10-1.core1.sea1.he.net (184.105.223.193)  67.313 ms  81.779 ms  67.193 ms
+10  100ge8-1.core1.tyo1.he.net (184.105.213.118)  242.977 ms  186.695 ms  229.919 ms
+11  100ge13-1.core1.sin1.he.net (184.105.64.253)  245.137 ms  257.258 ms  307.211 ms
+12  pacnet-as10026.10gigabitethernet4-1.core1.sin1.he.net (74.82.46.190)  242.506 ms  269.880 ms  408.173 ms
+13  be3.wr2.sin0.10026.telstraglobal.net (61.14.157.164)  306.792 ms
+    te0-2-0-0.wr1.sin0.10026.telstraglobal.net (61.14.157.129)  306.249 ms
+    be3.wr1.sin0.10026.telstraglobal.net (61.14.157.166)  307.246 ms
+14  gi12-0-0.gw5.sin1.10026.telstraglobal.net (61.14.158.43)  306.639 ms
+    gi1-0-0.gw5.sin1.10026.telstraglobal.net (61.14.157.110)  262.260 ms  350.336 ms
+15  aar-0002.gw3.sin1.10026.telstraglobal.net (202.147.33.174)  424.630 ms  393.928 ms  409.519 ms
+16  so-2-0-0.pe1.knsg.wa.aarnet.net.au (113.197.15.202)  308.823 ms  429.747 ms  286.872 ms
+17  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  304.910 ms *  328.306 ms
+End time:  Sun 12 Nov 2017 14:58:17 EST
+
+
+
+Start time:  Sun 12 Nov 2017 14:58:46 EST
+ 1  * * *
+ 2  10.170.192.58 (10.170.192.58)  40.883 ms  13.690 ms  13.420 ms
+ 3  0.5-2-0.er1.mtl7.ebox.ca (96.127.240.41)  12.957 ms  14.352 ms
+    0.7-2-0.er1.mtl7.ebox.ca (96.127.240.49)  19.676 ms
+ 4  0.ae17.er2.mtl3.ebox.ca (96.127.249.26)  15.192 ms  15.226 ms  13.592 ms
+ 5  he.peer.qix.ca (198.179.18.5)  11.531 ms  27.813 ms  31.367 ms
+ 6  100ge14-2.core1.tor1.he.net (184.105.64.57)  21.452 ms  69.697 ms  26.701 ms
+ 7  100ge9-2.core2.chi1.he.net (184.105.80.5)  33.713 ms  38.834 ms  30.643 ms
+ 8  100ge14-2.core1.msp1.he.net (184.105.223.178)  36.062 ms  47.953 ms  38.437 ms
+ 9  100ge10-1.core1.sea1.he.net (184.105.223.193)  69.445 ms  68.001 ms  66.883 ms
+10  100ge8-1.core1.tyo1.he.net (184.105.213.118)  183.838 ms  202.989 ms  204.450 ms
+11  100ge13-1.core1.sin1.he.net (184.105.64.253)  232.859 ms  324.516 ms  244.474 ms
+12  pacnet-as10026.10gigabitethernet4-1.core1.sin1.he.net (74.82.46.190)  246.034 ms  240.987 ms  245.865 ms
+13  be3.wr2.sin0.10026.telstraglobal.net (61.14.157.164)  252.271 ms
+    te0-2-0-0.wr1.sin0.10026.telstraglobal.net (61.14.157.129)  254.827 ms
+    be3.wr1.sin0.10026.telstraglobal.net (61.14.157.166)  246.867 ms
+14  gi12-0-0.gw5.sin1.10026.telstraglobal.net (61.14.158.43)  268.280 ms
+    gi1-0-0.gw5.sin1.10026.telstraglobal.net (61.14.157.110)  241.224 ms  371.950 ms
+15  aar-0002.gw3.sin1.10026.telstraglobal.net (202.147.33.174)  409.747 ms  310.499 ms  313.514 ms
+16  so-2-0-0.pe1.knsg.wa.aarnet.net.au (113.197.15.202)  268.430 ms  334.997 ms  382.112 ms
+17  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  336.259 ms *  318.628 ms
+End time:  Sun 12 Nov 2017 14:58:46 EST
+
+
+
