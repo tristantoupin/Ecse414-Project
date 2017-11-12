@@ -1086,3 +1086,54 @@ End time:  Sun 12 Nov 2017 03:49:08 EST
 
 
 
+Start time:  Sun 12 Nov 2017 06:34:05 EST
+ 1  controlpanel.home (192.168.1.1)  3.589 ms  1.857 ms  1.949 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.176 ms  18.857 ms  26.283 ms
+ 3  96.127.249.5 (96.127.249.5)  19.030 ms  20.928 ms  20.233 ms
+ 4  he.ip4.torontointernetxchange.net (206.108.34.112)  27.908 ms  27.598 ms  26.361 ms
+ 5  100ge9-2.core2.chi1.he.net (184.105.80.5)  43.971 ms  42.474 ms  35.634 ms
+ 6  100ge14-2.core1.msp1.he.net (184.105.223.178)  48.495 ms  44.809 ms  43.611 ms
+ 7  100ge10-1.core1.sea1.he.net (184.105.223.193)  77.210 ms  76.012 ms  76.417 ms
+ 8  100ge10-1.core1.yvr1.he.net (184.105.64.110)  77.706 ms  76.172 ms  76.179 ms
+ 9  bcnet.10gigabitethernet1-4.core1.yvr1.he.net (184.105.148.150)  76.191 ms  75.814 ms  75.994 ms
+10  347-tx-ubcab-cr1.vncv1.bc.net (134.87.30.153)  77.913 ms  78.213 ms  76.479 ms
+11  a0-anguborder.net.ubc.ca (137.82.123.138)  78.978 ms  92.463 ms  78.301 ms
+12  a22-a0.net.ubc.ca (137.82.123.113)  77.647 ms *  79.547 ms
+End time:  Sun 12 Nov 2017 06:34:05 EST
+
+
+
+Start time:  Sun 12 Nov 2017 06:34:16 EST
+ 1  controlpanel.home (192.168.1.1)  230.822 ms  723.381 ms  1.867 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  720.820 ms  251.016 ms  19.094 ms
+ 3  96.127.249.5 (96.127.249.5)  20.641 ms  23.904 ms  18.929 ms
+ 4  he.ip4.torontointernetxchange.net (206.108.34.112)  29.376 ms  53.999 ms  25.499 ms
+ 5  100ge9-2.core2.chi1.he.net (184.105.80.5)  42.801 ms  35.576 ms  39.570 ms
+ 6  100ge14-2.core1.msp1.he.net (184.105.223.178)  43.444 ms  44.390 ms  51.595 ms
+ 7  100ge10-1.core1.sea1.he.net (184.105.223.193)  75.916 ms  76.927 ms  79.757 ms
+ 8  100ge10-1.core1.yvr1.he.net (184.105.64.110)  83.166 ms  76.226 ms  81.099 ms
+ 9  bcnet.10gigabitethernet1-4.core1.yvr1.he.net (184.105.148.150)  76.729 ms  75.629 ms  75.726 ms
+10  347-tx-ubcab-cr1.vncv1.bc.net (134.87.30.153)  76.667 ms  77.316 ms  77.456 ms
+11  a0-anguborder.net.ubc.ca (137.82.123.138)  87.409 ms  77.869 ms  80.051 ms
+12  a22-a0.net.ubc.ca (137.82.123.113)  77.064 ms *  77.669 ms
+End time:  Sun 12 Nov 2017 06:34:16 EST
+
+
+
+Start time:  Sun 12 Nov 2017 06:34:26 EST
+ 1  controlpanel.home (192.168.1.1)  4.341 ms  2.209 ms  1.909 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.760 ms  20.749 ms  19.645 ms
+ 3  96.127.249.5 (96.127.249.5)  19.399 ms  20.501 ms  18.923 ms
+ 4  he.ip4.torontointernetxchange.net (206.108.34.112)  67.601 ms  27.420 ms  62.610 ms
+ 5  100ge9-2.core2.chi1.he.net (184.105.80.5)  38.881 ms  39.630 ms  36.405 ms
+ 6  100ge14-2.core1.msp1.he.net (184.105.223.178)  53.805 ms  47.991 ms  49.985 ms
+ 7  100ge10-1.core1.sea1.he.net (184.105.223.193)  75.478 ms  76.307 ms  75.703 ms
+ 8  100ge10-1.core1.yvr1.he.net (184.105.64.110)  76.429 ms  86.884 ms  76.386 ms
+ 9  bcnet.10gigabitethernet1-4.core1.yvr1.he.net (184.105.148.150)  75.615 ms  86.873 ms  76.582 ms
+10  347-tx-ubcab-cr1.vncv1.bc.net (134.87.30.153)  81.679 ms  77.039 ms  76.279 ms
+11  a0-anguborder.net.ubc.ca (137.82.123.138)  77.472 ms  76.640 ms  76.811 ms
+12  a22-a0.net.ubc.ca (137.82.123.113)  76.670 ms *  1356.706 ms
+End time:  Sun 12 Nov 2017 06:34:26 EST
+
+
+
