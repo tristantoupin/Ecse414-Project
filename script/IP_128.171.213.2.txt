@@ -1213,3 +1213,66 @@ End time:  Sat 11 Nov 2017 22:00:30 EST
 
 
 
+Start time:  Sun 12 Nov 2017 03:35:22 EST
+ 1  controlpanel.home (192.168.1.1)  381.911 ms  722.117 ms  1.957 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  269.347 ms  19.165 ms  19.139 ms
+ 3  96.127.249.5 (96.127.249.5)  18.686 ms  19.832 ms  19.215 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  20.486 ms  19.212 ms  18.948 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  41.294 ms  25.540 ms  25.540 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  38.043 ms  38.417 ms  38.989 ms
+ 7  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  38.293 ms  59.792 ms  39.676 ms
+ 8  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  37.883 ms  37.743 ms  38.244 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  253.235 ms  204.100 ms  205.435 ms
+16  * vl-669-10gigcolol3.uhnet.net (128.171.213.2)  1000.606 ms  187.481 ms
+End time:  Sun 12 Nov 2017 03:35:22 EST
+
+
+
+Start time:  Sun 12 Nov 2017 03:36:56 EST
+ 1  controlpanel.home (192.168.1.1)  2.926 ms  1.940 ms  1.884 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.952 ms  19.814 ms  26.385 ms
+ 3  96.127.249.5 (96.127.249.5)  18.937 ms  18.865 ms  19.441 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  18.786 ms  19.466 ms  18.802 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  28.313 ms  25.178 ms  25.266 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  38.020 ms  37.922 ms  37.978 ms
+ 7  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  39.831 ms  41.078 ms  38.688 ms
+ 8  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  38.386 ms  37.847 ms  38.693 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  169.119 ms  230.203 ms  204.937 ms
+16  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  204.585 ms  204.646 ms  619.631 ms
+End time:  Sun 12 Nov 2017 03:36:56 EST
+
+
+
+Start time:  Sun 12 Nov 2017 03:38:31 EST
+ 1  controlpanel.home (192.168.1.1)  1369.194 ms  3.376 ms  1.884 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.125 ms  18.687 ms  19.147 ms
+ 3  96.127.249.5 (96.127.249.5)  19.092 ms  18.700 ms  19.294 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  19.270 ms  18.871 ms  18.973 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  28.022 ms  24.684 ms  25.309 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  42.410 ms  37.974 ms  38.434 ms
+ 7  ae15.er1.ord7.us.zip.zayo.com (64.125.31.85)  43.463 ms  41.434 ms  39.106 ms
+ 8  ae11.er2.ord7.us.zip.zayo.com (64.125.21.218)  38.366 ms  39.001 ms  38.163 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  xe-1-1-0-53-coconut-re0.uhnet.net (205.166.205.27)  170.315 ms  171.301 ms  172.226 ms
+16  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  273.548 ms  194.510 ms  168.886 ms
+End time:  Sun 12 Nov 2017 03:38:31 EST
+
+
+
