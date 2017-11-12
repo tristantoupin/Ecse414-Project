@@ -1346,3 +1346,66 @@ End time:  Sun 12 Nov 2017 06:33:37 EST
 
 
 
+Start time:  Sun 12 Nov 2017 12:40:52 EST
+ 1  gateway (142.157.26.2)  3.419 ms  1.499 ms  1.371 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.524 ms  1.570 ms  1.418 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.417 ms  1.402 ms  1.451 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  1.784 ms  1.890 ms  1.683 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.825 ms  2.358 ms  1.728 ms
+ 6  canet-rq.risq.net (132.202.80.10)  1.886 ms  1.987 ms  1.756 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  4.375 ms  2.252 ms  1.937 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  84.326 ms  84.310 ms  84.333 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  93.993 ms  91.194 ms  90.879 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  110.040 ms  107.727 ms  92.470 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  95.665 ms  92.429 ms  91.798 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  92.572 ms  92.838 ms  92.156 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  93.275 ms  97.242 ms  99.719 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  95.173 ms  94.172 ms  94.094 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  94.403 ms  94.508 ms  94.786 ms
+16  oxford-university.ja.net (193.63.109.90)  94.477 ms !X  94.331 ms !X  94.310 ms !X
+End time:  Sun 12 Nov 2017 12:40:52 EST
+
+
+
+Start time:  Sun 12 Nov 2017 12:40:57 EST
+ 1  gateway (142.157.26.2)  3.927 ms  1.842 ms  1.880 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.795 ms  1.557 ms  2.270 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.841 ms  1.842 ms  1.721 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.054 ms  2.041 ms  1.771 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.136 ms  2.098 ms  2.443 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.136 ms  2.047 ms  2.332 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.355 ms  2.124 ms  3.350 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  86.282 ms  84.404 ms  84.462 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  90.724 ms  90.927 ms  102.544 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  91.754 ms  91.772 ms  91.738 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  92.732 ms  110.068 ms  91.915 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  92.730 ms  92.338 ms  93.054 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  92.953 ms  93.114 ms  92.992 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  93.815 ms  95.982 ms  94.491 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  94.486 ms  94.323 ms  102.466 ms
+16  oxford-university.ja.net (193.63.109.90)  114.726 ms !X  94.153 ms !X  94.263 ms !X
+End time:  Sun 12 Nov 2017 12:40:57 EST
+
+
+
+Start time:  Sun 12 Nov 2017 12:41:02 EST
+ 1  gateway (142.157.26.2)  4.411 ms  1.844 ms  4.219 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.082 ms  1.862 ms  1.596 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.710 ms  1.516 ms  1.867 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.095 ms  1.959 ms  3.480 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.184 ms  2.289 ms  2.068 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.641 ms  2.133 ms  2.057 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.150 ms  1.983 ms  2.010 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  84.474 ms  84.386 ms  84.164 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  90.965 ms  91.023 ms  90.795 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  91.758 ms  91.975 ms  91.853 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  92.033 ms  92.537 ms  91.915 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  92.649 ms  92.446 ms  94.534 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  93.079 ms  93.359 ms  93.362 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  94.093 ms  99.987 ms  93.859 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  95.375 ms  104.122 ms  94.254 ms
+16  oxford-university.ja.net (193.63.109.90)  94.030 ms !X  94.783 ms !X  94.055 ms !X
+End time:  Sun 12 Nov 2017 12:41:02 EST
+
+
+
