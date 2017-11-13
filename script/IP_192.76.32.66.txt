@@ -1533,3 +1533,71 @@ End time:  Sun 12 Nov 2017 20:52:15 EST
 
 
 
+Start time:  Sun 12 Nov 2017 23:34:45 EST
+ 1  controlpanel.home (192.168.1.1)  6.335 ms  1.986 ms  1.845 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  21.443 ms  23.536 ms  22.344 ms
+ 3  96.127.249.5 (96.127.249.5)  20.654 ms  18.951 ms  21.257 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  20.083 ms  20.005 ms  18.868 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  33.731 ms  37.648 ms  27.330 ms
+ 6  ldn-bb2-link.telia.net (62.115.135.111)  95.734 ms
+    ldn-bb2-link.telia.net (213.155.135.66)  197.969 ms
+    ldn-bb2-link.telia.net (80.91.248.253)  97.044 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  123.012 ms
+    ldn-b4-link.telia.net (62.115.119.145)  126.290 ms  114.442 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  114.284 ms  206.620 ms  120.779 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  115.708 ms  115.361 ms  117.882 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  98.840 ms  97.819 ms  101.142 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  118.636 ms  116.317 ms  131.548 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  102.002 ms  100.517 ms  98.773 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  137.875 ms  136.121 ms  203.174 ms
+14  oxford-university.ja.net (193.63.109.90)  101.821 ms !X  102.064 ms !X  104.028 ms !X
+End time:  Sun 12 Nov 2017 23:34:45 EST
+
+
+
+Start time:  Sun 12 Nov 2017 23:34:51 EST
+ 1  controlpanel.home (192.168.1.1)  5.030 ms  1.933 ms  1.831 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.220 ms  25.532 ms  19.850 ms
+ 3  96.127.249.5 (96.127.249.5)  20.005 ms  24.274 ms  21.323 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  20.481 ms  20.292 ms  18.848 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.831 ms  35.959 ms  27.373 ms
+ 6  ldn-bb2-link.telia.net (62.115.135.107)  121.661 ms
+    ldn-bb2-link.telia.net (62.115.124.165)  118.094 ms
+    ldn-bb2-link.telia.net (62.115.135.107)  120.823 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  112.431 ms
+    ldn-b4-link.telia.net (62.115.141.197)  191.445 ms
+    ldn-b4-link.telia.net (62.115.134.139)  98.213 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  113.007 ms  116.030 ms  131.283 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  113.511 ms  115.541 ms  112.388 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  96.543 ms  96.867 ms  101.169 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  108.988 ms  180.331 ms  106.463 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  106.409 ms  103.229 ms  105.623 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  210.382 ms  203.712 ms  191.872 ms
+14  oxford-university.ja.net (193.63.109.90)  108.457 ms !X  107.010 ms !X  111.108 ms !X
+End time:  Sun 12 Nov 2017 23:34:51 EST
+
+
+
+Start time:  Sun 12 Nov 2017 23:34:57 EST
+ 1  controlpanel.home (192.168.1.1)  2.108 ms  3.915 ms  2.320 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.261 ms  29.183 ms  30.415 ms
+ 3  96.127.249.5 (96.127.249.5)  20.192 ms  18.651 ms  18.996 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.634 ms  21.149 ms  21.320 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  26.949 ms  27.447 ms  26.968 ms
+ 6  ldn-bb2-link.telia.net (62.115.124.165)  112.615 ms
+    ldn-bb2-link.telia.net (213.155.135.70)  104.251 ms
+    ldn-bb2-link.telia.net (213.155.135.66)  115.286 ms
+ 7  ldn-b4-link.telia.net (62.115.141.197)  157.013 ms
+    ldn-b4-link.telia.net (62.115.124.201)  196.277 ms
+    ldn-b4-link.telia.net (62.115.134.139)  96.667 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  125.396 ms  182.957 ms  113.749 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  211.341 ms  180.291 ms  118.528 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  97.134 ms  99.194 ms  202.589 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  109.753 ms  110.267 ms  107.247 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  99.884 ms  98.841 ms  103.799 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  187.541 ms  202.891 ms  147.422 ms
+14  oxford-university.ja.net (193.63.109.90)  101.990 ms !X  101.899 ms !X  98.155 ms !X
+End time:  Sun 12 Nov 2017 23:34:57 EST
+
+
+
