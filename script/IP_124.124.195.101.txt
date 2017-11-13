@@ -1691,3 +1691,64 @@ End time:  Mon 13 Nov 2017 01:42:31 EST
 
 
 
+Start time:  Mon 13 Nov 2017 04:21:00 EST
+ 1  controlpanel.home (192.168.1.1)  3.609 ms  1.967 ms  2.352 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  47.745 ms  20.462 ms  18.295 ms
+ 3  96.127.249.5 (96.127.249.5)  20.034 ms  20.174 ms  20.992 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.518 ms  21.180 ms  18.475 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.465 ms  26.740 ms  27.899 ms
+ 6  nyk-b3-link.telia.net (62.115.139.151)  27.437 ms  27.823 ms  28.509 ms
+ 7  flag-ic-307828-nyk-b3.c.telia.net (213.248.85.54)  28.289 ms  29.543 ms  27.188 ms
+ 8  xe-8-3-0.0.cjr01.prs001.flagtel.com (85.95.26.222)  101.348 ms  101.380 ms
+    xe-8-3-3.0.cjr01.prs001.flagtel.com (85.95.27.25)  100.629 ms
+ 9  xe-2-0-0.0.pjr03.mmb004.flagtel.com (85.95.26.201)  269.449 ms  306.101 ms
+    xe-8-1-1.0.pjr03.mmb004.flagtel.com (85.95.25.113)  307.030 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  124.124.195.101 (124.124.195.101)  344.048 ms * *
+End time:  Mon 13 Nov 2017 04:21:00 EST
+
+
+
+Start time:  Mon 13 Nov 2017 04:22:10 EST
+ 1  controlpanel.home (192.168.1.1)  5.597 ms  4.382 ms  1.967 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.136 ms  18.808 ms  23.318 ms
+ 3  96.127.249.5 (96.127.249.5)  18.985 ms  19.649 ms  19.616 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.012 ms  19.279 ms  18.953 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.859 ms  29.828 ms  28.027 ms
+ 6  nyk-b3-link.telia.net (62.115.139.151)  27.971 ms  27.559 ms  28.169 ms
+ 7  flag-ic-307828-nyk-b3.c.telia.net (213.248.85.54)  27.864 ms  28.588 ms  27.095 ms
+ 8  xe-8-3-0.0.cjr01.prs001.flagtel.com (85.95.26.222)  101.981 ms
+    xe-8-3-3.0.cjr01.prs001.flagtel.com (85.95.27.25)  102.215 ms  100.418 ms
+ 9  xe-8-1-1.0.pjr03.mmb004.flagtel.com (85.95.25.113)  280.293 ms
+    xe-2-0-0.0.pjr03.mmb004.flagtel.com (85.95.26.201)  236.780 ms  223.593 ms
+10  * 80.77.0.122 (80.77.0.122)  260.118 ms *
+11  * * *
+12  * * *
+13  * * *
+14  124.124.195.101 (124.124.195.101)  257.179 ms * *
+End time:  Mon 13 Nov 2017 04:22:10 EST
+
+
+
+Start time:  Mon 13 Nov 2017 04:23:04 EST
+ 1  controlpanel.home (192.168.1.1)  3.553 ms  6.507 ms  1.866 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.804 ms  19.216 ms  19.116 ms
+ 3  96.127.249.5 (96.127.249.5)  19.169 ms  22.629 ms  19.086 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  21.570 ms  18.657 ms  18.843 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.540 ms  32.101 ms  27.409 ms
+ 6  nyk-b3-link.telia.net (62.115.139.151)  27.256 ms  29.733 ms  29.071 ms
+ 7  flag-ic-307828-nyk-b3.c.telia.net (213.248.85.54)  27.342 ms  28.506 ms  28.374 ms
+ 8  xe-8-3-3.0.cjr01.prs001.flagtel.com (85.95.27.25)  109.606 ms  100.773 ms  105.293 ms
+ 9  xe-2-0-0.0.pjr03.mmb004.flagtel.com (85.95.26.201)  225.241 ms
+    xe-8-1-1.0.pjr03.mmb004.flagtel.com (85.95.25.113)  248.446 ms  229.289 ms
+10  * 62.216.147.74 (62.216.147.74)  289.438 ms *
+11  * * *
+12  * * *
+13  * * 124.124.195.101 (124.124.195.101)  299.241 ms
+End time:  Mon 13 Nov 2017 04:23:04 EST
+
+
+

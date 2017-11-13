@@ -1670,3 +1670,71 @@ End time:  Mon 13 Nov 2017 02:15:08 EST
 
 
 
+Start time:  Mon 13 Nov 2017 04:56:29 EST
+ 1  controlpanel.home (192.168.1.1)  2.822 ms  2.794 ms  2.029 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.816 ms  26.213 ms  35.216 ms
+ 3  96.127.249.5 (96.127.249.5)  23.641 ms  28.839 ms  28.219 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.530 ms  18.992 ms  32.751 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  29.548 ms  28.082 ms  27.672 ms
+ 6  ldn-bb2-link.telia.net (213.155.135.66)  191.585 ms
+    ldn-bb2-link.telia.net (62.115.135.111)  95.831 ms
+    ldn-bb2-link.telia.net (213.248.65.93)  95.423 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  204.319 ms
+    ldn-b4-link.telia.net (62.115.119.145)  114.014 ms
+    ldn-b4-link.telia.net (62.115.124.201)  167.460 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  114.317 ms  111.986 ms  129.413 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  112.743 ms  223.037 ms  113.306 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  96.445 ms  99.021 ms  96.381 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  96.713 ms  97.108 ms  98.038 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  98.675 ms  100.316 ms  97.912 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  114.087 ms  115.005 ms  191.917 ms
+14  oxford-university.ja.net (193.63.109.90)  99.762 ms !X  98.535 ms !X  99.949 ms !X
+End time:  Mon 13 Nov 2017 04:56:29 EST
+
+
+
+Start time:  Mon 13 Nov 2017 04:56:35 EST
+ 1  controlpanel.home (192.168.1.1)  3.755 ms  2.653 ms  1.944 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.344 ms  23.312 ms  19.510 ms
+ 3  96.127.249.5 (96.127.249.5)  18.982 ms  19.086 ms  18.907 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.081 ms  20.401 ms  18.635 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  28.422 ms  27.370 ms  28.217 ms
+ 6  ldn-bb2-link.telia.net (62.115.135.107)  96.292 ms
+    ldn-bb2-link.telia.net (62.115.124.165)  163.192 ms
+    ldn-bb2-link.telia.net (213.155.135.70)  96.258 ms
+ 7  ldn-b4-link.telia.net (62.115.141.197)  111.761 ms
+    ldn-b4-link.telia.net (62.115.124.201)  202.298 ms  111.334 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  111.961 ms  112.395 ms  113.284 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  113.547 ms  112.355 ms  144.322 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  96.733 ms  100.546 ms  118.537 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  97.699 ms  97.128 ms  99.515 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  98.905 ms  99.903 ms  98.070 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  113.822 ms  205.723 ms  195.733 ms
+14  oxford-university.ja.net (193.63.109.90)  98.483 ms !X  98.248 ms !X  97.927 ms !X
+End time:  Mon 13 Nov 2017 04:56:35 EST
+
+
+
+Start time:  Mon 13 Nov 2017 04:56:41 EST
+ 1  controlpanel.home (192.168.1.1)  5.237 ms  1.600 ms  2.002 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.749 ms  19.127 ms  19.021 ms
+ 3  96.127.249.5 (96.127.249.5)  20.678 ms  18.407 ms  20.606 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  18.810 ms  20.460 ms  18.296 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  28.958 ms  27.716 ms  26.895 ms
+ 6  ldn-bb2-link.telia.net (213.248.65.93)  95.151 ms
+    ldn-bb2-link.telia.net (213.155.135.66)  95.486 ms
+    ldn-bb2-link.telia.net (80.91.248.253)  96.026 ms
+ 7  ldn-b4-link.telia.net (62.115.134.139)  98.329 ms
+    ldn-b4-link.telia.net (62.115.124.201)  111.684 ms
+    ldn-b4-link.telia.net (62.115.119.145)  111.471 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  112.697 ms  112.060 ms  112.719 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  112.531 ms  112.497 ms  115.635 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  97.702 ms  98.458 ms  100.474 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  98.313 ms  97.192 ms  96.963 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  99.685 ms  98.976 ms  97.821 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  114.462 ms  140.728 ms  113.990 ms
+14  oxford-university.ja.net (193.63.109.90)  99.432 ms !X  122.472 ms !X  98.801 ms !X
+End time:  Mon 13 Nov 2017 04:56:41 EST
+
+
+
