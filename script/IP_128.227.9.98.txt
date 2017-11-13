@@ -1602,3 +1602,66 @@ End time:  Sun 12 Nov 2017 23:36:41 EST
 
 
 
+Start time:  Mon 13 Nov 2017 02:16:16 EST
+ 1  controlpanel.home (192.168.1.1)  5.982 ms  2.508 ms  1.992 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.792 ms  21.621 ms  18.627 ms
+ 3  96.127.249.5 (96.127.249.5)  18.833 ms  19.078 ms  18.970 ms
+ 4  he.peer.qix.ca (198.179.18.5)  20.743 ms  18.960 ms  19.733 ms
+ 5  100ge14-2.core1.tor1.he.net (184.105.64.57)  39.179 ms  26.059 ms  53.790 ms
+ 6  100ge9-2.core2.chi1.he.net (184.105.80.5)  37.956 ms  38.061 ms  47.512 ms
+ 7  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  35.948 ms  36.184 ms  35.673 ms
+ 8  gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  102.586 ms  102.625 ms  101.297 ms
+ 9  ip68-105-160-0.ga.at.cox.net (68.105.160.0)  102.176 ms
+    ip68-105-160-2.ga.at.cox.net (68.105.160.2)  101.075 ms
+    ip68-105-160-0.ga.at.cox.net (68.105.160.0)  102.600 ms
+10  * * *
+11  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  70.894 ms  68.791 ms  70.580 ms
+12  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  70.202 ms  68.869 ms  68.655 ms
+13  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  71.438 ms  69.105 ms  71.211 ms
+14  ufl.edu (128.227.9.98)  68.915 ms  70.563 ms  68.595 ms
+End time:  Mon 13 Nov 2017 02:16:16 EST
+
+
+
+Start time:  Mon 13 Nov 2017 02:16:35 EST
+ 1  controlpanel.home (192.168.1.1)  3.716 ms  2.223 ms  2.062 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.679 ms  19.274 ms  18.825 ms
+ 3  96.127.249.5 (96.127.249.5)  19.209 ms  19.102 ms  18.951 ms
+ 4  he.peer.qix.ca (198.179.18.5)  22.192 ms  18.691 ms  22.202 ms
+ 5  100ge14-2.core1.tor1.he.net (184.105.64.57)  26.305 ms  36.370 ms  45.926 ms
+ 6  100ge9-2.core2.chi1.he.net (184.105.80.5)  35.819 ms  36.035 ms  39.104 ms
+ 7  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  36.042 ms  36.387 ms  36.644 ms
+ 8  gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  101.722 ms  102.536 ms
+    gainhdrj02-ae0.0.rd.ga.cox.net (68.1.2.145)  72.612 ms
+ 9  ip68-105-160-0.ga.at.cox.net (68.105.160.0)  102.715 ms
+    ip68-105-160-2.ga.at.cox.net (68.105.160.2)  101.964 ms
+    ip68-105-160-0.ga.at.cox.net (68.105.160.0)  102.226 ms
+10  * * *
+11  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  70.912 ms  70.168 ms  68.846 ms
+12  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  94.776 ms  68.704 ms  68.258 ms
+13  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  69.231 ms  69.543 ms  69.377 ms
+14  ufl.edu (128.227.9.98)  68.515 ms  68.844 ms  68.988 ms
+End time:  Mon 13 Nov 2017 02:16:35 EST
+
+
+
+Start time:  Mon 13 Nov 2017 02:16:54 EST
+ 1  controlpanel.home (192.168.1.1)  4.173 ms  5.786 ms  1.994 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  28.965 ms  19.076 ms  18.808 ms
+ 3  96.127.249.5 (96.127.249.5)  19.275 ms  18.749 ms  22.220 ms
+ 4  he.peer.qix.ca (198.179.18.5)  30.212 ms  27.791 ms  21.670 ms
+ 5  100ge14-2.core1.tor1.he.net (184.105.64.57)  38.355 ms  26.280 ms  26.818 ms
+ 6  100ge9-2.core2.chi1.he.net (184.105.80.5)  35.974 ms  39.862 ms  38.601 ms
+ 7  chgobbrj01pos010100.r2.ch.cox.net (68.105.30.193)  35.822 ms  36.567 ms  35.719 ms
+ 8  gainhdrj01-ae3.0.rd.at.cox.net (68.1.4.154)  101.963 ms  102.575 ms
+    gainhdrj02-ae0.0.rd.ga.cox.net (68.1.2.145)  72.192 ms
+ 9  ip68-105-160-0.ga.at.cox.net (68.105.160.0)  101.738 ms  103.025 ms  102.267 ms
+10  * * *
+11  ssrb230a-pel-asr9001-1-v16-1.ns.ufl.edu (128.227.236.204)  70.945 ms  69.852 ms  68.731 ms
+12  ssrb230a-nexus-msfc-1-v15-1.ns.ufl.edu (128.227.236.202)  68.576 ms  69.208 ms  71.955 ms
+13  ssrb230a-dcpopl3-7009-1-vdc2-v601-1.ns.ufl.edu (128.227.236.155)  69.479 ms  69.734 ms  71.188 ms
+14  ufl.edu (128.227.9.98)  68.450 ms  68.666 ms  69.246 ms
+End time:  Mon 13 Nov 2017 02:16:54 EST
+
+
+
