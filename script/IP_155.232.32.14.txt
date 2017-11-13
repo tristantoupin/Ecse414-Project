@@ -1875,3 +1875,54 @@ End time:  Mon 13 Nov 2017 12:46:58 EST
 
 
 
+Start time:  Mon 13 Nov 2017 15:12:21 EST
+ 1  gateway (142.157.26.2)  29.165 ms  23.052 ms  24.970 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  24.003 ms  23.685 ms  20.218 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  17.573 ms  18.423 ms  43.511 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  59.452 ms  37.911 ms  49.147 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  23.215 ms  22.477 ms  25.466 ms
+ 6  canet-rq.risq.net (132.202.80.10)  22.584 ms  106.596 ms  26.347 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  119.631 ms  43.513 ms  29.427 ms
+ 8  unknown.uni.net.za (196.32.209.225)  119.655 ms  114.518 ms  196.976 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  111.327 ms  206.207 ms  112.829 ms
+10  196.32.209.170 (196.32.209.170)  251.675 ms  543.644 ms  353.242 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  548.913 ms  649.572 ms  349.299 ms
+12  155.232.32.14 (155.232.32.14)  334.100 ms * *
+End time:  Mon 13 Nov 2017 15:12:21 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:12:37 EST
+ 1  gateway (142.157.26.2)  169.429 ms  58.109 ms  61.576 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  42.003 ms  95.352 ms  49.340 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  41.768 ms  73.343 ms  62.168 ms
+ 4  * mcgill-gw-canet.risq.net (206.167.128.49)  27.010 ms  28.289 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  41.548 ms  26.784 ms  24.491 ms
+ 6  canet-rq.risq.net (132.202.80.10)  25.687 ms  28.053 ms  26.278 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  27.744 ms  27.144 ms  34.229 ms
+ 8  unknown.uni.net.za (196.32.209.225)  111.843 ms  202.720 ms  209.855 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  105.068 ms  196.360 ms  103.831 ms
+10  196.32.209.170 (196.32.209.170)  304.850 ms  305.673 ms  305.331 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  249.439 ms  373.129 ms  244.877 ms
+12  155.232.32.14 (155.232.32.14)  258.270 ms *  326.174 ms
+End time:  Mon 13 Nov 2017 15:12:37 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:12:48 EST
+ 1  gateway (142.157.26.2)  25.946 ms  24.087 ms  20.883 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  24.722 ms  20.620 ms  18.813 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  18.780 ms  30.096 ms  22.928 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  38.561 ms  35.310 ms  33.809 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  20.529 ms  22.593 ms  21.040 ms
+ 6  canet-rq.risq.net (132.202.80.10)  43.305 ms  27.884 ms  19.203 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  22.432 ms  23.389 ms  17.604 ms
+ 8  unknown.uni.net.za (196.32.209.225)  106.157 ms  103.944 ms  99.407 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  127.251 ms  141.670 ms  103.441 ms
+10  196.32.209.170 (196.32.209.170)  325.905 ms  305.475 ms  309.828 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  310.816 ms  301.706 ms  308.473 ms
+12  155.232.32.14 (155.232.32.14)  308.632 ms *  272.183 ms
+End time:  Mon 13 Nov 2017 15:12:48 EST
+
+
+

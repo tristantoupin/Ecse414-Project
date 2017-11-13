@@ -1139,3 +1139,30 @@ End time:  Mon 13 Nov 2017 13:10:36 EST
 
 
 
+Start time:  Mon 13 Nov 2017 15:40:46 EST
+ 1  gateway (142.157.26.2)  51.398 ms  73.665 ms *
+ 2  burnside-core-vlan218.gw.mcgill.ca (132.216.216.25)  45.075 ms  43.771 ms  44.241 ms
+ 3  datacentre2-vlan215.gw.mcgill.ca (132.216.216.162)  43.730 ms  43.594 ms  42.206 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  48.868 ms  51.454 ms  49.005 ms
+End time:  Mon 13 Nov 2017 15:40:46 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:40:53 EST
+ 1  gateway (142.157.26.2)  39.774 ms  37.268 ms  30.158 ms
+ 2  burnside-core-vlan218.gw.mcgill.ca (132.216.216.25)  27.573 ms *  21.196 ms
+ 3  datacentre2-vlan215.gw.mcgill.ca (132.216.216.162)  28.732 ms  24.819 ms  32.329 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  21.493 ms  20.542 ms  22.694 ms
+End time:  Mon 13 Nov 2017 15:40:53 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:40:56 EST
+ 1  gateway (142.157.26.2)  60.736 ms  27.439 ms  23.370 ms
+ 2  burnside-core-vlan218.gw.mcgill.ca (132.216.216.25)  26.280 ms  27.490 ms  30.298 ms
+ 3  datacentre2-vlan215.gw.mcgill.ca (132.216.216.162)  39.911 ms  31.451 ms  27.495 ms
+ 4  www.burneycentre.mcgill.ca (132.216.177.160)  30.909 ms  32.872 ms  29.142 ms
+End time:  Mon 13 Nov 2017 15:40:56 EST
+
+
+

@@ -1879,3 +1879,72 @@ End time:  Mon 13 Nov 2017 13:04:52 EST
 
 
 
+Start time:  Mon 13 Nov 2017 15:32:06 EST
+ 1  gateway (142.157.26.2)  29.195 ms  35.540 ms  29.377 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  34.456 ms  41.004 ms  36.927 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  35.321 ms  64.181 ms  36.031 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  37.501 ms  35.627 ms  45.919 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  41.515 ms  41.176 ms  40.852 ms
+ 6  canet-rq.risq.net (132.202.80.10)  43.447 ms  44.205 ms  44.469 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  33.163 ms *  36.892 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  49.674 ms  110.593 ms  63.285 ms
+ 9  * ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  49.302 ms  47.066 ms
+10  ae-1.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.137)  49.646 ms  44.442 ms  45.711 ms
+11  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  51.595 ms  55.395 ms  55.172 ms
+12  ae-1.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.131)  60.365 ms  59.216 ms  62.505 ms
+13  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  69.545 ms  72.086 ms  70.034 ms
+14  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  93.510 ms  88.400 ms  93.598 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  112.086 ms  101.450 ms  101.519 ms
+16  xe-0-0-0-3500-ohelo-re0.uhnet.net (205.166.205.10)  266.268 ms  206.993 ms  204.092 ms
+17  xe-1-1-0-63-coconut-re0.uhnet.net (205.166.205.37)  202.637 ms  175.331 ms  338.713 ms
+18  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  203.743 ms  201.730 ms  207.025 ms
+End time:  Mon 13 Nov 2017 15:32:06 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:32:27 EST
+ 1  gateway (142.157.26.2)  38.161 ms  39.258 ms  36.730 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  32.018 ms *  38.312 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  39.404 ms  55.063 ms  34.304 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  39.848 ms  51.859 ms  44.726 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  44.515 ms  33.609 ms  32.617 ms
+ 6  canet-rq.risq.net (132.202.80.10)  30.907 ms  28.192 ms  33.339 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  36.384 ms  38.224 ms  34.826 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  43.979 ms  47.855 ms  52.036 ms
+ 9  ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  60.933 ms  50.075 ms  50.503 ms
+10  ae-1.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.137)  55.260 ms  52.648 ms  52.720 ms
+11  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  80.662 ms  85.886 ms  79.303 ms
+12  ae-1.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.131)  77.893 ms  76.420 ms *
+13  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  68.946 ms  69.465 ms  72.284 ms
+14  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  94.295 ms  94.820 ms  95.723 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  104.655 ms  107.309 ms *
+16  xe-0-0-0-3500-ohelo-re0.uhnet.net (205.166.205.10)  255.001 ms  306.859 ms  208.866 ms
+17  xe-1-1-0-63-coconut-re0.uhnet.net (205.166.205.37)  197.649 ms  209.224 ms  201.924 ms
+18  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  197.889 ms  210.362 ms  204.706 ms
+End time:  Mon 13 Nov 2017 15:32:27 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:32:53 EST
+ 1  gateway (142.157.26.2)  25.463 ms  18.676 ms  18.490 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  20.869 ms  19.185 ms  22.073 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  23.877 ms  21.625 ms  24.764 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  25.226 ms  25.566 ms  34.412 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  26.957 ms  23.212 ms  23.826 ms
+ 6  canet-rq.risq.net (132.202.80.10)  24.441 ms  23.676 ms  22.852 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  23.642 ms  26.701 ms  29.220 ms
+ 8  rtr.newy32aoa.net.internet2.edu (205.189.32.93)  40.680 ms  43.772 ms  41.222 ms
+ 9  ae-3.4079.rtsw.wash.net.internet2.edu (162.252.70.138)  45.645 ms  47.406 ms  58.713 ms
+10  ae-1.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.137)  46.944 ms  56.548 ms *
+11  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  59.205 ms  58.355 ms *
+12  * ae-1.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.131)  65.644 ms *
+13  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  67.249 ms  64.258 ms  69.805 ms
+14  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  92.114 ms  91.873 ms  90.219 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  113.894 ms  115.042 ms  98.905 ms
+16  xe-0-0-0-3500-ohelo-re0.uhnet.net (205.166.205.10)  229.965 ms  205.082 ms  208.910 ms
+17  xe-1-1-0-63-coconut-re0.uhnet.net (205.166.205.37)  215.085 ms  190.226 ms  203.015 ms
+18  vl-669-10gigcolol3.uhnet.net (128.171.213.2)  208.053 ms  200.513 ms  207.489 ms
+End time:  Mon 13 Nov 2017 15:32:53 EST
+
+
+

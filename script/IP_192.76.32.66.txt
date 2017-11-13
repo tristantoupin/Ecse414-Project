@@ -1883,3 +1883,66 @@ End time:  Mon 13 Nov 2017 13:08:18 EST
 
 
 
+Start time:  Mon 13 Nov 2017 15:37:00 EST
+ 1  gateway (142.157.26.2)  28.234 ms  33.423 ms  51.264 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  27.097 ms  118.334 ms  24.980 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  24.762 ms  21.279 ms  21.392 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  25.710 ms  32.748 ms  29.619 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  25.798 ms  22.514 ms  36.449 ms
+ 6  canet-rq.risq.net (132.202.80.10)  29.609 ms  33.302 ms  25.586 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  24.941 ms  95.950 ms  29.410 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  112.140 ms  105.497 ms  131.359 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  129.545 ms  120.236 ms  156.346 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  111.639 ms  161.410 ms  203.526 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  117.478 ms  126.945 ms  124.561 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  145.004 ms  132.180 ms  173.269 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  225.839 ms  273.735 ms  231.663 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  125.641 ms  163.463 ms  220.143 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  114.841 ms  185.231 ms  202.126 ms
+16  oxford-university.ja.net (193.63.109.90)  200.006 ms !X  209.990 ms !X  197.495 ms !X
+End time:  Mon 13 Nov 2017 15:37:00 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:37:22 EST
+ 1  gateway (142.157.26.2)  27.281 ms  30.327 ms  27.837 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  28.688 ms  24.521 ms  30.015 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  41.477 ms  64.848 ms  86.346 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  100.461 ms  31.137 ms  36.465 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  38.655 ms  26.995 ms  33.664 ms
+ 6  canet-rq.risq.net (132.202.80.10)  115.188 ms  50.824 ms  44.855 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  40.029 ms  35.989 ms  30.112 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  108.294 ms  283.032 ms  103.561 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  116.724 ms  190.001 ms  110.425 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  211.574 ms  116.030 ms  172.210 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  307.611 ms  107.539 ms  199.352 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  206.597 ms *  216.290 ms
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  130.974 ms  178.498 ms *
+14  * ae2.oxfoii-rbr1.ja.net (193.63.108.94)  248.846 ms  190.514 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  208.566 ms  300.765 ms  305.833 ms
+16  oxford-university.ja.net (193.63.109.90)  109.334 ms !X  297.809 ms !X  210.281 ms !X
+End time:  Mon 13 Nov 2017 15:37:22 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:37:40 EST
+ 1  gateway (142.157.26.2)  25.068 ms  29.285 ms  48.997 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  27.373 ms  24.788 ms  23.761 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  21.798 ms  25.644 ms  29.338 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  32.781 ms  32.588 ms  32.543 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  20.568 ms  22.941 ms  26.185 ms
+ 6  canet-rq.risq.net (132.202.80.10)  39.241 ms  22.463 ms  42.911 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  28.320 ms  32.334 ms  29.951 ms
+ 8  canarie-bckp.mx1.par.fr.geant.net (62.40.124.225)  214.536 ms  195.741 ms  205.562 ms
+ 9  ae1.mx1.lon2.uk.geant.net (62.40.98.76)  205.418 ms  158.496 ms  117.373 ms
+10  ae3.mx1.lon.uk.geant.net.geant.net (62.40.98.78)  232.992 ms  211.648 ms  209.132 ms
+11  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  125.843 ms  179.780 ms  194.923 ms
+12  ae29.londpg-sbr2.ja.net (146.97.33.2)  118.254 ms * *
+13  ae19.readdy-rbr1.ja.net (146.97.37.194)  215.521 ms  123.821 ms  188.477 ms
+14  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  201.140 ms  223.345 ms  184.801 ms
+15  ae3.oxforq-rbr1.ja.net (193.63.108.98)  306.213 ms  205.838 ms  303.257 ms
+16  oxford-university.ja.net (193.63.109.90)  215.185 ms !X  194.155 ms !X  205.040 ms !X
+End time:  Mon 13 Nov 2017 15:37:40 EST
+
+
+

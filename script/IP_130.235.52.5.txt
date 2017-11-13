@@ -2432,3 +2432,72 @@ End time:  Mon 13 Nov 2017 13:06:43 EST
 
 
 
+Start time:  Mon 13 Nov 2017 15:34:47 EST
+ 1  gateway (142.157.26.2)  7.806 ms  4.542 ms  3.026 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  4.201 ms  5.432 ms  5.676 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  5.872 ms  6.274 ms  6.190 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  6.681 ms  6.357 ms  8.799 ms
+ 5  * mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  35.218 ms  9.508 ms
+ 6  canet-rq.risq.net (132.202.80.10)  7.237 ms  5.008 ms  7.793 ms
+ 7  * mtrl2rtr1.canarie.ca (205.189.32.250)  8.022 ms  19.396 ms
+ 8  us-man.nordu.net (109.105.98.13)  165.805 ms  183.884 ms  224.826 ms
+ 9  nl-sar.nordu.net (109.105.97.138)  204.591 ms
+    nl-sar.nordu.net (109.105.97.65)  205.041 ms
+    nl-sar.nordu.net (109.105.97.138)  202.731 ms
+10  de-hmb.nordu.net (109.105.97.50)  120.474 ms *  120.153 ms
+11  dk-ore.nordu.net (109.105.97.56)  157.258 ms  121.748 ms  212.629 ms
+12  * * *
+13  lu2.sunet.se (130.242.6.93)  142.406 ms  205.595 ms  213.707 ms
+14  jr1a-jr2a.net.lu.se (130.235.217.64)  196.148 ms  308.809 ms  200.906 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  203.312 ms  205.261 ms  119.164 ms
+16  f0a-r1a.net.lu.se (130.235.217.126)  116.364 ms  172.452 ms  204.738 ms
+17  lb3v1.net.lu.se (130.235.52.5)  206.833 ms  201.858 ms  205.247 ms
+End time:  Mon 13 Nov 2017 15:34:47 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:35:19 EST
+ 1  gateway (142.157.26.2)  12.766 ms  16.758 ms  11.807 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  8.447 ms  6.957 ms  7.745 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  6.403 ms  5.879 ms  5.968 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  11.669 ms  16.989 ms  9.070 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  16.812 ms  8.380 ms  7.492 ms
+ 6  canet-rq.risq.net (132.202.80.10)  14.342 ms  6.616 ms  7.444 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  6.819 ms  10.736 ms *
+ 8  us-man.nordu.net (109.105.98.13)  224.693 ms  203.112 ms  122.048 ms
+ 9  nl-sar.nordu.net (109.105.97.138)  183.547 ms  211.821 ms  127.284 ms
+10  de-hmb.nordu.net (109.105.97.50)  171.482 ms  203.832 ms  202.759 ms
+11  dk-ore.nordu.net (109.105.97.56)  310.430 ms  208.819 ms  198.503 ms
+12  * * *
+13  lu2.sunet.se (130.242.6.93)  147.622 ms  203.238 ms  205.902 ms
+14  jr1a-jr2a.net.lu.se (130.235.217.64)  202.962 ms  203.421 ms *
+15  r1a-jr1a.net.lu.se (130.235.217.61)  221.872 ms  202.989 ms  125.534 ms
+16  f0a-r1a.net.lu.se (130.235.217.126)  190.890 ms  118.617 ms  124.661 ms
+17  lb3v1.net.lu.se (130.235.52.5)  117.460 ms  139.630 ms  214.926 ms
+End time:  Mon 13 Nov 2017 15:35:19 EST
+
+
+
+Start time:  Mon 13 Nov 2017 15:35:46 EST
+ 1  gateway (142.157.26.2)  8.044 ms  5.692 ms  3.946 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  6.735 ms  6.693 ms  12.337 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  7.521 ms  7.512 ms  7.128 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  7.735 ms  11.501 ms  32.271 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  14.100 ms  9.128 ms  7.726 ms
+ 6  canet-rq.risq.net (132.202.80.10)  7.626 ms  9.899 ms  7.593 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  10.436 ms  5.538 ms  8.263 ms
+ 8  us-man.nordu.net (109.105.98.13)  197.635 ms  211.738 ms  197.095 ms
+ 9  nl-sar.nordu.net (109.105.97.138)  203.724 ms
+    nl-sar.nordu.net (109.105.97.65)  148.004 ms  118.929 ms
+10  de-hmb.nordu.net (109.105.97.50)  149.438 ms  195.225 ms  205.554 ms
+11  dk-ore.nordu.net (109.105.97.56)  203.830 ms  205.960 ms  203.161 ms
+12  * * *
+13  lu2.sunet.se (130.242.6.93)  142.316 ms  131.724 ms  173.976 ms
+14  jr1a-jr2a.net.lu.se (130.235.217.64)  122.846 ms  183.900 ms  220.631 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  190.512 ms  202.357 ms  207.594 ms
+16  f0a-r1a.net.lu.se (130.235.217.126)  202.311 ms  206.185 ms  205.642 ms
+17  lb3v1.net.lu.se (130.235.52.5)  219.594 ms  185.175 ms *
+End time:  Mon 13 Nov 2017 15:35:46 EST
+
+
+
