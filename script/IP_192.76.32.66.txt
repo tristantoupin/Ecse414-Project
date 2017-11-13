@@ -1466,3 +1466,70 @@ End time:  Sun 12 Nov 2017 15:43:34 EST
 
 
 
+Start time:  Sun 12 Nov 2017 20:51:58 EST
+ 1  controlpanel.home (192.168.1.1)  6.205 ms  4.971 ms  2.875 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.713 ms  18.733 ms  19.770 ms
+ 3  96.127.249.5 (96.127.249.5)  19.074 ms  23.669 ms  21.312 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.935 ms  18.747 ms  18.907 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.443 ms  29.675 ms  27.636 ms
+ 6  ldn-bb2-link.telia.net (213.155.133.6)  99.548 ms
+    ldn-bb2-link.telia.net (80.91.253.117)  114.287 ms
+    ldn-bb2-link.telia.net (213.155.133.6)  95.977 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  196.895 ms
+    ldn-b4-link.telia.net (62.115.119.145)  116.821 ms  113.703 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  173.849 ms  114.354 ms  112.711 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  159.282 ms  124.579 ms  182.629 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  104.513 ms  96.808 ms  197.284 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  97.005 ms  98.029 ms  107.668 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  98.401 ms  98.578 ms  100.771 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  188.734 ms  185.319 ms  203.049 ms
+14  oxford-university.ja.net (193.63.109.90)  98.582 ms !X  98.083 ms !X  97.684 ms !X
+End time:  Sun 12 Nov 2017 20:51:58 EST
+
+
+
+Start time:  Sun 12 Nov 2017 20:52:09 EST
+ 1  controlpanel.home (192.168.1.1)  2.960 ms  3.244 ms  2.571 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.262 ms  18.886 ms  20.221 ms
+ 3  96.127.249.5 (96.127.249.5)  18.759 ms  19.880 ms  19.143 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.422 ms  19.014 ms  20.136 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.656 ms  29.515 ms  28.936 ms
+ 6  ldn-bb2-link.telia.net (80.91.248.253)  95.595 ms
+    ldn-bb2-link.telia.net (213.155.135.66)  95.279 ms
+    ldn-bb2-link.telia.net (62.115.135.111)  97.090 ms
+ 7  ldn-b4-link.telia.net (62.115.119.145)  171.954 ms
+    ldn-b4-link.telia.net (62.115.141.197)  204.810 ms
+    ldn-b4-link.telia.net (62.115.119.145)  185.256 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  115.601 ms  113.133 ms  117.570 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  185.415 ms  209.234 ms  198.712 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  100.781 ms  97.302 ms  97.672 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  107.306 ms  105.300 ms  97.679 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  111.979 ms  112.878 ms  123.553 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  169.132 ms  204.416 ms *
+14  oxford-university.ja.net (193.63.109.90)  98.684 ms !X  98.051 ms !X  98.242 ms !X
+End time:  Sun 12 Nov 2017 20:52:09 EST
+
+
+
+Start time:  Sun 12 Nov 2017 20:52:15 EST
+ 1  controlpanel.home (192.168.1.1)  7.913 ms  1.524 ms  2.195 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.906 ms  21.303 ms  18.686 ms
+ 3  96.127.249.5 (96.127.249.5)  19.049 ms  19.737 ms  18.294 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.288 ms  19.377 ms  19.130 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  26.876 ms  27.374 ms  29.952 ms
+ 6  ldn-bb2-link.telia.net (213.155.135.66)  95.374 ms
+    ldn-bb2-link.telia.net (80.91.248.253)  95.311 ms
+    ldn-bb2-link.telia.net (62.115.116.86)  113.392 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  123.477 ms
+    ldn-b4-link.telia.net (62.115.134.139)  98.910 ms  98.146 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  132.196 ms  112.852 ms  112.986 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  116.402 ms  168.878 ms  187.618 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  96.583 ms  97.042 ms  102.470 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  97.549 ms  98.714 ms  97.087 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  141.588 ms  205.819 ms  163.105 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  152.579 ms  195.877 ms  204.619 ms
+14  oxford-university.ja.net (193.63.109.90)  99.625 ms !X  101.901 ms !X  99.274 ms !X
+End time:  Sun 12 Nov 2017 20:52:15 EST
+
+
+
