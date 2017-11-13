@@ -1668,3 +1668,66 @@ End time:  Mon 13 Nov 2017 15:39:38 EST
 
 
 
+Start time:  Mon 13 Nov 2017 18:08:45 EST
+ 1  gateway (142.157.26.2)  8.919 ms  3.419 ms  4.541 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  6.360 ms  3.929 ms  3.972 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  5.049 ms  6.435 ms  11.263 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  13.063 ms  8.573 ms  5.178 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  6.094 ms  6.580 ms  7.728 ms
+ 6  canet-rq.risq.net (132.202.80.10)  6.095 ms  6.063 ms  5.375 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  7.553 ms  2.401 ms  2.540 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  10.315 ms  14.058 ms  9.355 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.711 ms  29.856 ms  29.869 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  44.395 ms  45.075 ms  45.844 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  59.209 ms  55.757 ms  82.654 ms
+12  288-canarie-oran-cr1.vncv1.bc.net (205.189.32.173)  56.022 ms  55.733 ms  56.864 ms
+13  cr1-bb3900.vantx2.bc.net (206.12.0.34)  58.943 ms  58.319 ms  55.735 ms
+14  343-oran-cr2-ubcab.vncv1.bc.net (134.87.2.49)  55.620 ms  56.198 ms  57.207 ms
+15  a0-anguborder.net.ubc.ca (137.82.123.138)  57.108 ms  56.875 ms  60.810 ms
+16  a22-a0.net.ubc.ca (137.82.123.113)  56.763 ms *  59.304 ms
+End time:  Mon 13 Nov 2017 18:08:45 EST
+
+
+
+Start time:  Mon 13 Nov 2017 18:08:54 EST
+ 1  gateway (142.157.26.2)  4.116 ms  2.123 ms  2.790 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.094 ms  2.396 ms  2.128 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.227 ms  2.282 ms  1.757 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.417 ms  2.469 ms  2.744 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.568 ms  3.018 ms  2.370 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.172 ms  2.577 ms  2.444 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.108 ms  2.834 ms  2.672 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.931 ms  9.117 ms  9.200 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  30.666 ms  30.020 ms  29.650 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  44.528 ms  44.399 ms  44.483 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  54.995 ms  55.815 ms  55.477 ms
+12  288-canarie-oran-cr1.vncv1.bc.net (205.189.32.173)  55.261 ms  57.990 ms  55.447 ms
+13  cr1-bb3900.vantx2.bc.net (206.12.0.34)  56.480 ms  56.863 ms  55.350 ms
+14  343-oran-cr2-ubcab.vncv1.bc.net (134.87.2.49)  76.804 ms  55.995 ms  55.657 ms
+15  a0-anguborder.net.ubc.ca (137.82.123.138)  55.938 ms  71.513 ms  65.466 ms
+16  a22-a0.net.ubc.ca (137.82.123.113)  58.049 ms *  68.297 ms
+End time:  Mon 13 Nov 2017 18:08:54 EST
+
+
+
+Start time:  Mon 13 Nov 2017 18:09:02 EST
+ 1  gateway (142.157.26.2)  4.766 ms  3.099 ms  2.325 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.707 ms  3.059 ms  3.889 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  3.092 ms  2.550 ms  2.337 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  3.531 ms  2.241 ms  2.309 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.562 ms  2.452 ms  2.708 ms
+ 6  canet-rq.risq.net (132.202.80.10)  3.692 ms  2.851 ms  2.627 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  18.084 ms  2.788 ms  2.390 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  29.339 ms  11.961 ms  9.399 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  30.592 ms  30.171 ms  37.938 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  44.647 ms  44.761 ms  43.898 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  55.177 ms  58.318 ms  55.049 ms
+12  288-canarie-oran-cr1.vncv1.bc.net (205.189.32.173)  57.069 ms  55.714 ms  55.159 ms
+13  cr1-bb3900.vantx2.bc.net (206.12.0.34)  54.992 ms  54.942 ms  55.227 ms
+14  343-oran-cr2-ubcab.vncv1.bc.net (134.87.2.49)  55.578 ms  55.704 ms  57.327 ms
+15  a0-anguborder.net.ubc.ca (137.82.123.138)  59.699 ms  61.030 ms  56.832 ms
+16  a22-a0.net.ubc.ca (137.82.123.113)  57.128 ms *  57.430 ms
+End time:  Mon 13 Nov 2017 18:09:02 EST
+
+
+

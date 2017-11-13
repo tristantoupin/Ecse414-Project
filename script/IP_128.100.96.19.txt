@@ -1206,3 +1206,54 @@ End time:  Mon 13 Nov 2017 15:40:38 EST
 
 
 
+Start time:  Mon 13 Nov 2017 18:09:25 EST
+ 1  gateway (142.157.26.2)  23.284 ms  2.041 ms  4.632 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  3.327 ms  7.171 ms  2.450 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.862 ms  6.385 ms  4.937 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  15.435 ms  7.475 ms  3.470 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  3.584 ms  4.059 ms  2.795 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.201 ms  2.367 ms  4.580 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.235 ms  2.257 ms  2.462 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  10.104 ms  10.165 ms  11.116 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  11.172 ms  12.652 ms  14.903 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  12.211 ms  9.919 ms  9.974 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  9.741 ms  10.054 ms  10.683 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  10.022 ms *  11.662 ms
+End time:  Mon 13 Nov 2017 18:09:25 EST
+
+
+
+Start time:  Mon 13 Nov 2017 18:09:33 EST
+ 1  gateway (142.157.26.2)  7.855 ms  6.696 ms  4.468 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  6.452 ms  6.732 ms  9.508 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  11.087 ms  3.996 ms  12.970 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  12.873 ms  13.488 ms  19.809 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  10.539 ms  12.839 ms  7.453 ms
+ 6  canet-rq.risq.net (132.202.80.10)  9.563 ms  9.924 ms  7.506 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.358 ms  2.103 ms  2.188 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  10.928 ms  10.000 ms  10.293 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  10.234 ms  9.847 ms  10.009 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  9.800 ms  10.246 ms  10.022 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  10.517 ms  9.893 ms  11.010 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  9.621 ms *  11.791 ms
+End time:  Mon 13 Nov 2017 18:09:33 EST
+
+
+
+Start time:  Mon 13 Nov 2017 18:09:45 EST
+ 1  gateway (142.157.26.2)  4.241 ms  2.390 ms  1.947 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.682 ms  1.956 ms  2.219 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  2.176 ms  1.662 ms  1.540 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.017 ms  2.264 ms  1.889 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.315 ms  2.325 ms  1.901 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.252 ms  5.631 ms  1.966 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.296 ms  2.495 ms  2.272 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  9.828 ms  9.482 ms  9.492 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  10.279 ms  9.354 ms  10.185 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  10.019 ms  9.649 ms  11.085 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  10.246 ms  9.564 ms  10.037 ms
+12  * sl-vss.gw.utoronto.ca (128.100.96.19)  11.311 ms *
+End time:  Mon 13 Nov 2017 18:09:45 EST
+
+
+
