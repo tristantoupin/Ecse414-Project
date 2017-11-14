@@ -2682,3 +2682,100 @@ End time:  Mon 13 Nov 2017 23:39:06 EST
 
 
 
+Start time:  Tue 14 Nov 2017 02:22:58 EST
+ 1  controlpanel.home (192.168.1.1)  2.252 ms  7.353 ms  2.732 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.404 ms  19.349 ms  18.840 ms
+ 3  96.127.249.5 (96.127.249.5)  19.052 ms  18.907 ms  21.935 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  18.780 ms  21.611 ms  19.396 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  26.910 ms  27.511 ms  28.861 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  48.243 ms  49.104 ms  49.665 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  33.128 ms  32.881 ms  34.983 ms
+ 8  nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  34.172 ms  36.473 ms  33.953 ms
+ 9  us-man.nordu.net (109.105.97.142)  55.860 ms  55.970 ms  54.359 ms
+10  dk-uni.nordu.net (109.105.97.126)  199.055 ms  203.935 ms
+    nl-sar.nordu.net (109.105.97.138)  205.196 ms
+11  dk-ore.nordu.net (109.105.97.132)  204.281 ms  121.689 ms  121.951 ms
+12  mcen1-r1.sunet.se (109.105.102.123)  193.328 ms
+    dk-ore.nordu.net (109.105.97.56)  175.949 ms  203.419 ms
+13  mcen1-r1.sunet.se (109.105.102.123)  221.057 ms  188.544 ms
+    lu2.sunet.se (130.242.6.93)  204.554 ms
+14  lu2.sunet.se (130.242.6.93)  210.021 ms
+    jr1a-jr2a.net.lu.se (130.235.217.64)  300.594 ms  204.771 ms
+15  jr1a-jr2a.net.lu.se (130.235.217.64)  203.997 ms  204.053 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  204.575 ms
+16  r1a-jr1a.net.lu.se (130.235.217.61)  203.782 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  204.138 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  134.358 ms
+17  lb3v1.net.lu.se (130.235.52.5)  125.817 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  147.723 ms
+    lb3v1.net.lu.se (130.235.52.5)  203.950 ms
+End time:  Tue 14 Nov 2017 02:22:58 EST
+
+
+
+Start time:  Tue 14 Nov 2017 02:23:06 EST
+ 1  controlpanel.home (192.168.1.1)  14.424 ms  2.571 ms  1.784 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.650 ms  19.142 ms  18.590 ms
+ 3  96.127.249.5 (96.127.249.5)  19.413 ms  49.082 ms  19.020 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.098 ms  19.178 ms  18.567 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.535 ms  27.037 ms  27.682 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  49.037 ms  48.001 ms  49.532 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  33.218 ms  33.090 ms  33.067 ms
+ 8  nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  33.183 ms  35.015 ms  35.170 ms
+ 9  us-man.nordu.net (109.105.97.142)  57.340 ms
+    uk-hex.nordu.net (109.105.97.140)  217.963 ms  203.432 ms
+10  dk-uni.nordu.net (109.105.97.126)  204.843 ms  204.431 ms  204.717 ms
+11  dk-ore.nordu.net (109.105.97.132)  204.159 ms  204.046 ms
+    de-hmb.nordu.net (109.105.97.50)  307.894 ms
+12  mcen1-r1.sunet.se (109.105.102.123)  124.808 ms
+    dk-ore.nordu.net (109.105.97.56)  136.182 ms
+    mcen1-r1.sunet.se (109.105.102.123)  146.109 ms
+13  mcen1-r1.sunet.se (109.105.102.123)  204.078 ms
+    lu2.sunet.se (130.242.6.93)  228.110 ms
+    mcen1-r1.sunet.se (109.105.102.123)  180.000 ms
+14  lu2.sunet.se (130.242.6.93)  204.207 ms  222.743 ms
+    jr1a-jr2a.net.lu.se (130.235.217.64)  186.077 ms
+15  r1a-jr1a.net.lu.se (130.235.217.61)  204.139 ms  306.504 ms  204.840 ms
+16  r1a-jr1a.net.lu.se (130.235.217.61)  205.449 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  203.618 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  203.925 ms
+17  f0a-r1a.net.lu.se (130.235.217.126)  207.989 ms
+    lb3v1.net.lu.se (130.235.52.5)  198.667 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  205.228 ms
+End time:  Tue 14 Nov 2017 02:23:06 EST
+
+
+
+Start time:  Tue 14 Nov 2017 02:23:14 EST
+ 1  controlpanel.home (192.168.1.1)  26.213 ms  22.086 ms  3.284 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.749 ms  18.781 ms  21.095 ms
+ 3  96.127.249.5 (96.127.249.5)  19.226 ms  19.382 ms  18.667 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.043 ms  20.831 ms  20.404 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  29.813 ms  27.488 ms  27.773 ms
+ 6  ash-bb4-link.telia.net (62.115.136.201)  48.738 ms  49.273 ms  50.070 ms
+ 7  ash-b1-link.telia.net (213.155.136.39)  33.401 ms  33.676 ms  34.543 ms
+ 8  nordunet-ic-309102-ash-b1.c.telia.net (213.248.85.174)  32.782 ms  34.060 ms  34.876 ms
+ 9  uk-hex.nordu.net (109.105.97.140)  134.114 ms
+    us-man.nordu.net (109.105.97.142)  53.495 ms  54.748 ms
+10  dk-uni.nordu.net (109.105.97.126)  221.608 ms
+    nl-sar.nordu.net (109.105.97.138)  132.311 ms
+    dk-uni.nordu.net (109.105.97.126)  176.021 ms
+11  dk-ore.nordu.net (109.105.97.132)  201.777 ms  122.292 ms
+    de-hmb.nordu.net (109.105.97.50)  289.275 ms
+12  mcen1-r1.sunet.se (109.105.102.123)  202.710 ms
+    dk-ore.nordu.net (109.105.97.56)  205.451 ms  129.752 ms
+13  mcen1-r1.sunet.se (109.105.102.123)  176.635 ms  133.499 ms
+    lu2.sunet.se (130.242.6.93)  138.270 ms
+14  lu2.sunet.se (130.242.6.93)  238.826 ms  203.863 ms
+    jr1a-jr2a.net.lu.se (130.235.217.64)  205.184 ms
+15  jr1a-jr2a.net.lu.se (130.235.217.64)  146.053 ms  159.305 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  219.666 ms
+16  r1a-jr1a.net.lu.se (130.235.217.61)  189.891 ms
+    f0a-r1a.net.lu.se (130.235.217.126)  126.001 ms
+    r1a-jr1a.net.lu.se (130.235.217.61)  131.935 ms
+17  f0a-r1a.net.lu.se (130.235.217.126)  128.964 ms  224.620 ms  204.815 ms
+18  lb3v1.net.lu.se (130.235.52.5)  131.552 ms  174.925 ms  202.175 ms
+End time:  Tue 14 Nov 2017 02:23:14 EST
+
+
+
