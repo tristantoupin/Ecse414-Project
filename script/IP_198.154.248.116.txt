@@ -2592,3 +2592,81 @@ End time:  Tue 14 Nov 2017 02:16:36 EST
 
 
 
+Start time:  Tue 14 Nov 2017 05:00:28 EST
+ 1  controlpanel.home (192.168.1.1)  4.407 ms  2.048 ms  1.994 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.161 ms  18.784 ms  38.153 ms
+ 3  96.127.249.5 (96.127.249.5)  18.948 ms  18.468 ms  18.970 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.646 ms  19.251 ms  52.309 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.458 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.562 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.608 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  25.168 ms  25.889 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  25.089 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  29.155 ms  32.549 ms
+    be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  30.194 ms
+ 8  be3362.ccr31.jfk04.atlas.cogentco.com (154.54.3.10)  28.888 ms
+    be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  27.414 ms  28.468 ms
+ 9  qwest.jfk04.atlas.cogentco.com (154.54.10.50)  28.200 ms  28.098 ms  32.438 ms
+10  * * *
+11  63-232-104-62.dia.static.qwest.net (63.232.104.62)  100.829 ms  98.195 ms  99.264 ms
+12  162-144-240-151.unifiedlayer.com (162.144.240.151)  99.755 ms
+    162-144-240-153.unifiedlayer.com (162.144.240.153)  113.782 ms
+    162-144-240-159.unifiedlayer.com (162.144.240.159)  114.681 ms
+13  162-144-240-51.unifiedlayer.com (162.144.240.51)  101.648 ms
+    162-144-240-55.unifiedlayer.com (162.144.240.55)  102.494 ms
+    162-144-240-43.unifiedlayer.com (162.144.240.43)  113.356 ms
+14  server.ui.edu.ng (198.154.248.116)  223.251 ms  201.947 ms  114.400 ms
+End time:  Tue 14 Nov 2017 05:00:28 EST
+
+
+
+Start time:  Tue 14 Nov 2017 05:00:47 EST
+ 1  controlpanel.home (192.168.1.1)  3.484 ms  1.669 ms  1.996 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.588 ms  18.535 ms  19.173 ms
+ 3  96.127.249.5 (96.127.249.5)  19.217 ms  18.537 ms  19.203 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.759 ms  19.043 ms  18.561 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  22.391 ms  19.309 ms  20.004 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  36.092 ms  24.428 ms  24.991 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  28.273 ms  29.350 ms  27.393 ms
+ 8  be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  27.555 ms  28.514 ms  27.499 ms
+ 9  qwest.jfk04.atlas.cogentco.com (154.54.10.50)  28.076 ms  26.871 ms  27.952 ms
+10  * * *
+11  63-232-104-62.dia.static.qwest.net (63.232.104.62)  112.210 ms  99.630 ms  98.992 ms
+12  162-144-240-151.unifiedlayer.com (162.144.240.151)  98.561 ms
+    162-144-240-143.unifiedlayer.com (162.144.240.143)  114.055 ms
+    162-144-240-161.unifiedlayer.com (162.144.240.161)  99.006 ms
+13  162-144-240-55.unifiedlayer.com (162.144.240.55)  98.476 ms
+    162-144-240-47.unifiedlayer.com (162.144.240.47)  211.248 ms
+    162-144-240-51.unifiedlayer.com (162.144.240.51)  98.512 ms
+14  server.ui.edu.ng (198.154.248.116)  114.570 ms  174.201 ms  222.904 ms
+End time:  Tue 14 Nov 2017 05:00:47 EST
+
+
+
+Start time:  Tue 14 Nov 2017 05:01:06 EST
+ 1  controlpanel.home (192.168.1.1)  2.217 ms  1.740 ms  2.021 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.897 ms  19.342 ms  18.825 ms
+ 3  96.127.249.5 (96.127.249.5)  19.481 ms  19.227 ms  18.622 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  20.465 ms  19.327 ms  19.760 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  18.978 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  18.986 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.647 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.496 ms  25.095 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  25.042 ms
+ 7  be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  27.617 ms  29.652 ms  28.122 ms
+ 8  be3363.ccr31.jfk04.atlas.cogentco.com (154.54.3.126)  27.708 ms
+    be3362.ccr31.jfk04.atlas.cogentco.com (154.54.3.10)  28.687 ms  27.450 ms
+ 9  qwest.jfk04.atlas.cogentco.com (154.54.10.50)  28.463 ms  29.051 ms  27.708 ms
+10  * * *
+11  63-232-104-62.dia.static.qwest.net (63.232.104.62)  100.068 ms  99.124 ms  99.398 ms
+12  162-144-240-159.unifiedlayer.com (162.144.240.159)  113.615 ms
+    162-144-240-145.unifiedlayer.com (162.144.240.145)  101.322 ms
+    162-144-240-151.unifiedlayer.com (162.144.240.151)  98.597 ms
+13  162-144-240-47.unifiedlayer.com (162.144.240.47)  113.788 ms
+    162-144-240-51.unifiedlayer.com (162.144.240.51)  100.844 ms
+    162-144-240-47.unifiedlayer.com (162.144.240.47)  114.006 ms
+14  server.ui.edu.ng (198.154.248.116)  114.750 ms  162.019 ms  116.224 ms
+End time:  Tue 14 Nov 2017 05:01:06 EST
+
+
+

@@ -2883,3 +2883,94 @@ End time:  Tue 14 Nov 2017 02:31:21 EST
 
 
 
+Start time:  Tue 14 Nov 2017 05:16:13 EST
+ 1  controlpanel.home (192.168.1.1)  21.780 ms  2.273 ms  1.937 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.975 ms  19.282 ms  18.607 ms
+ 3  96.127.249.5 (96.127.249.5)  19.062 ms  20.330 ms  18.974 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.304 ms  19.159 ms  19.218 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  22.754 ms  19.298 ms  19.206 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.030 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  24.153 ms  24.426 ms
+ 7  be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  26.808 ms  27.171 ms  27.024 ms
+ 8  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  33.791 ms  34.036 ms  43.371 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  55.385 ms  44.083 ms  43.947 ms
+10  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  60.018 ms  58.413 ms  59.376 ms
+11  be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  69.148 ms
+    be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  66.292 ms
+    be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  70.682 ms
+12  be2692.rcr21.mex01.atlas.cogentco.com (154.24.23.26)  81.083 ms  107.845 ms  80.413 ms
+13  38.104.248.66 (38.104.248.66)  81.355 ms  83.739 ms  81.305 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  81.262 ms  79.923 ms  80.330 ms
+15  177.234.31.246 (177.234.31.246)  81.221 ms  79.908 ms  81.448 ms
+16  177.234.10.34 (177.234.10.34)  83.925 ms  84.234 ms  84.870 ms
+17  177.234.10.37 (177.234.10.37)  84.843 ms  81.469 ms  83.972 ms
+18  177.234.4.122 (177.234.4.122)  114.027 ms  105.251 ms  102.398 ms
+19  132.247.237.189 (132.247.237.189)  104.453 ms  103.840 ms  102.513 ms
+20  132.247.70.37 (132.247.70.37)  103.170 ms !Z  102.850 ms !Z  102.175 ms !Z
+End time:  Tue 14 Nov 2017 05:16:13 EST
+
+
+
+Start time:  Tue 14 Nov 2017 05:16:18 EST
+ 1  controlpanel.home (192.168.1.1)  5.677 ms  1.645 ms  4.274 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.563 ms  18.372 ms  19.576 ms
+ 3  96.127.249.5 (96.127.249.5)  20.005 ms  18.568 ms  19.216 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.235 ms  22.240 ms  19.267 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  21.478 ms  21.341 ms  18.879 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  25.697 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  25.024 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.463 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  28.255 ms  28.462 ms  27.863 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  33.658 ms  33.589 ms
+    be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  34.162 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  44.870 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  47.099 ms
+    be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  44.100 ms
+10  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  58.563 ms  59.552 ms  59.767 ms
+11  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  67.207 ms  67.082 ms
+    be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  68.152 ms
+12  be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  83.873 ms  82.040 ms  102.449 ms
+13  38.104.248.66 (38.104.248.66)  83.301 ms  80.517 ms  82.714 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  80.396 ms  79.053 ms  81.764 ms
+15  177.234.31.246 (177.234.31.246)  81.981 ms  80.437 ms  84.868 ms
+16  177.234.10.34 (177.234.10.34)  85.605 ms  82.004 ms  86.695 ms
+17  177.234.10.37 (177.234.10.37)  81.265 ms  85.032 ms  85.560 ms
+18  177.234.4.122 (177.234.4.122)  105.168 ms  102.695 ms  102.677 ms
+19  132.247.237.189 (132.247.237.189)  103.146 ms  103.389 ms  103.087 ms
+20  132.247.70.37 (132.247.70.37)  102.779 ms !Z  103.037 ms !Z  102.964 ms !Z
+End time:  Tue 14 Nov 2017 05:16:18 EST
+
+
+
+Start time:  Tue 14 Nov 2017 05:16:24 EST
+ 1  controlpanel.home (192.168.1.1)  3.829 ms  8.407 ms  2.081 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.821 ms  18.977 ms  19.222 ms
+ 3  96.127.249.5 (96.127.249.5)  18.722 ms  19.060 ms  18.723 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.972 ms  19.768 ms  26.119 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  20.004 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.205 ms  19.239 ms
+ 6  be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  23.940 ms  26.382 ms
+    be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  54.497 ms
+ 7  be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  28.927 ms
+    be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  27.521 ms
+    be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  27.491 ms
+ 8  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  34.714 ms  34.614 ms  33.823 ms
+ 9  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  45.085 ms
+    be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  45.017 ms  45.558 ms
+10  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  60.583 ms
+    be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  58.855 ms
+    be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  74.721 ms
+11  be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  67.620 ms  69.506 ms  69.447 ms
+12  be2692.rcr21.mex01.atlas.cogentco.com (154.24.23.26)  81.324 ms  81.628 ms  82.696 ms
+13  38.104.248.66 (38.104.248.66)  80.946 ms  81.499 ms  80.232 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  180.571 ms  79.914 ms  79.882 ms
+15  177.234.31.246 (177.234.31.246)  81.543 ms  80.835 ms  85.854 ms
+16  177.234.10.34 (177.234.10.34)  85.280 ms  82.313 ms  82.788 ms
+17  177.234.10.37 (177.234.10.37)  81.133 ms  82.777 ms  80.745 ms
+18  177.234.4.122 (177.234.4.122)  105.591 ms  106.160 ms  102.318 ms
+19  132.247.237.189 (132.247.237.189)  111.969 ms  103.055 ms  104.210 ms
+20  132.247.70.37 (132.247.70.37)  103.842 ms !Z  102.836 ms !Z  103.082 ms !Z
+End time:  Tue 14 Nov 2017 05:16:24 EST
+
+
+
