@@ -2507,3 +2507,81 @@ End time:  Mon 13 Nov 2017 17:42:32 EST
 
 
 
+Start time:  Mon 13 Nov 2017 20:04:57 EST
+ 1  gateway (142.157.26.2)  3.233 ms  1.455 ms  1.469 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.800 ms  1.653 ms  1.489 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.422 ms  1.494 ms  1.703 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.193 ms  2.043 ms  1.734 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.892 ms  1.993 ms  2.131 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.477 ms  2.316 ms  2.159 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.092 ms  2.216 ms  2.193 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.430 ms  8.590 ms  8.679 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.722 ms  30.065 ms  29.714 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  47.705 ms  44.423 ms  43.938 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  57.861 ms  55.871 ms  55.356 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  56.429 ms  56.536 ms  56.282 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  58.245 ms  58.346 ms  58.470 ms
+14  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  58.209 ms  58.428 ms  60.410 ms
+15  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  110.008 ms  110.185 ms  110.276 ms
+16  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  203.646 ms  286.481 ms  305.601 ms
+17  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  203.881 ms  204.690 ms  204.397 ms
+18  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  205.350 ms  307.241 ms  270.450 ms
+19  et-0-3-0.pe1.prka.sa.aarnet.net.au (113.197.15.42)  221.985 ms  324.995 ms  308.253 ms
+20  et-0-3-0.pe1.knsg.wa.aarnet.net.au (113.197.15.45)  247.777 ms  248.155 ms  247.762 ms
+21  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  248.338 ms *  273.149 ms
+End time:  Mon 13 Nov 2017 20:04:57 EST
+
+
+
+Start time:  Mon 13 Nov 2017 20:05:10 EST
+ 1  gateway (142.157.26.2)  2.162 ms  1.647 ms  1.445 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.525 ms  1.776 ms  1.875 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.524 ms  1.509 ms  1.534 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.049 ms  2.082 ms  1.777 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.878 ms  1.864 ms  1.581 ms
+ 6  canet-rq.risq.net (132.202.80.10)  3.538 ms  1.911 ms  2.933 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.301 ms  1.992 ms  1.931 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.670 ms  8.476 ms  8.745 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.575 ms  29.426 ms  36.817 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  44.118 ms  43.716 ms  43.956 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  54.747 ms  54.638 ms  54.804 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  57.075 ms  61.709 ms  56.237 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  58.623 ms  58.409 ms  58.333 ms
+14  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  58.343 ms  59.286 ms  58.359 ms
+15  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  110.092 ms  110.351 ms  110.586 ms
+16  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  296.736 ms  203.771 ms  306.735 ms
+17  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  203.795 ms  203.422 ms  250.590 ms
+18  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  204.660 ms  261.336 ms  308.744 ms
+19  et-0-3-0.pe1.prka.sa.aarnet.net.au (113.197.15.42)  305.635 ms  307.465 ms  308.071 ms
+20  et-0-3-0.pe1.knsg.wa.aarnet.net.au (113.197.15.45)  254.448 ms  247.775 ms  247.779 ms
+21  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  264.584 ms *  330.425 ms
+End time:  Mon 13 Nov 2017 20:05:10 EST
+
+
+
+Start time:  Mon 13 Nov 2017 20:05:22 EST
+ 1  gateway (142.157.26.2)  2.032 ms  3.252 ms  2.092 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.022 ms  2.336 ms  3.685 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.588 ms  1.848 ms  1.593 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.437 ms  3.756 ms  2.430 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.941 ms  2.360 ms  3.030 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.091 ms  2.272 ms  2.163 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  33.092 ms  2.090 ms  15.645 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.960 ms  8.412 ms  8.964 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.467 ms  30.084 ms  29.610 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  43.781 ms  44.080 ms  43.731 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  55.044 ms  57.866 ms  55.408 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  58.290 ms  56.793 ms  56.346 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  58.548 ms  59.694 ms  58.659 ms
+14  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  59.592 ms  58.746 ms  58.615 ms
+15  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  110.055 ms  110.401 ms  110.264 ms
+16  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  203.213 ms  203.895 ms  271.103 ms
+17  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  307.566 ms  204.057 ms  305.589 ms
+18  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  309.860 ms  305.380 ms  307.284 ms
+19  et-0-3-0.pe1.prka.sa.aarnet.net.au (113.197.15.42)  222.044 ms  289.478 ms  253.884 ms
+20  et-0-3-0.pe1.knsg.wa.aarnet.net.au (113.197.15.45)  249.077 ms  314.082 ms  248.721 ms
+21  gw1.uwa.pe1.knsg.wa.aarnet.net.au (138.44.176.3)  264.591 ms *  250.279 ms
+End time:  Mon 13 Nov 2017 20:05:22 EST
+
+
+

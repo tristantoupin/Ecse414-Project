@@ -2930,3 +2930,63 @@ End time:  Mon 13 Nov 2017 18:02:08 EST
 
 
 
+Start time:  Mon 13 Nov 2017 20:24:27 EST
+ 1  gateway (142.157.26.2)  2.322 ms  1.478 ms  2.108 ms
+ 2  internet2-vlan687.gw.mcgill.ca (132.216.255.123)  1.757 ms  1.780 ms  1.917 ms
+ 3  vtelinet-216-66-110-108.vermontel.net (216.66.110.108)  14.718 ms  15.302 ms  15.210 ms
+ 4  10ge4-13.core1.nyc5.he.net (209.51.172.25)  14.799 ms  14.956 ms  14.786 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+21 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+22 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+23 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+24 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+25 traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *traceroute: wrote 80.239.135.226 52 chars, ret=-1
+ *
+End time:  Mon 13 Nov 2017 20:24:27 EST
+
+
+
+Start time:  Mon 13 Nov 2017 20:24:29 EST
+
+End time:  Mon 13 Nov 2017 20:24:29 EST
+
+
+
+Start time:  Mon 13 Nov 2017 20:24:31 EST
+
+End time:  Mon 13 Nov 2017 20:24:31 EST
+
+
+
