@@ -2105,3 +2105,79 @@ End time:  Mon 13 Nov 2017 20:24:50 EST
 
 
 
+Start time:  Mon 13 Nov 2017 23:32:45 EST
+ 1  controlpanel.home (192.168.1.1)  4.011 ms  18.681 ms  24.854 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  58.257 ms  43.401 ms  49.221 ms
+ 3  96.127.249.5 (96.127.249.5)  24.734 ms  84.931 ms  21.106 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  22.539 ms  21.710 ms  18.670 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  31.104 ms  42.676 ms  41.648 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  51.923 ms  70.658 ms  59.219 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  64.669 ms  48.306 ms  59.656 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  38.648 ms  43.823 ms  40.099 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  98.978 ms  60.308 ms  51.570 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  43.337 ms  57.650 ms  47.416 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  106.026 ms  70.894 ms  64.629 ms
+12  ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  61.961 ms
+    ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  60.235 ms
+    ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  140.913 ms
+13  ae-3.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.208)  68.398 ms
+    ae-2.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.167)  66.561 ms  64.186 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  70.226 ms  116.673 ms  64.865 ms
+15  sp-mia2-par-pac.bkb.rnp.br (200.143.252.33)  268.598 ms  202.736 ms  271.813 ms
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  268.324 ms  291.230 ms  311.876 ms
+18  143.107.249.34 (143.107.249.34)  320.584 ms  236.996 ms  246.538 ms
+End time:  Mon 13 Nov 2017 23:32:45 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:33:07 EST
+ 1  controlpanel.home (192.168.1.1)  38.163 ms  2.792 ms  1.862 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  23.870 ms  52.546 ms  28.281 ms
+ 3  96.127.249.5 (96.127.249.5)  53.521 ms  33.510 ms  33.730 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  30.481 ms  26.939 ms  35.575 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  96.558 ms  26.791 ms  31.129 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  72.950 ms  44.493 ms  43.016 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  44.704 ms  43.845 ms  43.884 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  27.919 ms  27.187 ms  29.201 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  35.171 ms  38.295 ms  34.813 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  38.246 ms  34.940 ms  34.422 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  59.759 ms  59.785 ms  61.763 ms
+12  ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  58.857 ms
+    ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  59.690 ms  63.839 ms
+13  ae-2.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.167)  61.236 ms  61.232 ms
+    ae-3.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.208)  63.244 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  60.903 ms  63.306 ms  65.155 ms
+15  sp-mia2-par-pac.bkb.rnp.br (200.143.252.33)  207.751 ms  203.877 ms  195.431 ms
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  252.305 ms  331.973 ms  281.140 ms
+18  143.107.249.34 (143.107.249.34)  307.216 ms  325.139 ms  294.518 ms
+End time:  Mon 13 Nov 2017 23:33:07 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:33:29 EST
+ 1  controlpanel.home (192.168.1.1)  15.924 ms  1.809 ms  2.001 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  30.498 ms  25.517 ms  25.022 ms
+ 3  96.127.249.5 (96.127.249.5)  37.500 ms  26.000 ms  28.696 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  31.322 ms  27.845 ms  22.629 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  40.665 ms  44.163 ms  34.292 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  48.574 ms  55.641 ms  59.327 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  55.531 ms  55.522 ms  58.336 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  30.196 ms  30.355 ms  41.190 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  35.297 ms  35.309 ms  38.920 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  64.797 ms  76.576 ms  75.048 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  81.521 ms  73.753 ms  80.187 ms
+12  ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  74.727 ms
+    ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  82.436 ms  89.239 ms
+13  ae-3.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.208)  75.581 ms
+    ae-2.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.167)  72.751 ms  69.052 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  69.655 ms  74.365 ms  69.057 ms
+15  sp-mia2-par-pac.bkb.rnp.br (200.143.252.33)  298.385 ms  295.052 ms  337.912 ms
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  311.800 ms  306.908 ms  307.338 ms
+18  143.107.249.34 (143.107.249.34)  306.920 ms  306.401 ms  306.613 ms
+End time:  Mon 13 Nov 2017 23:33:29 EST
+
+
+

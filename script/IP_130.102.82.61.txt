@@ -2954,3 +2954,93 @@ End time:  Mon 13 Nov 2017 20:04:44 EST
 
 
 
+Start time:  Mon 13 Nov 2017 23:04:20 EST
+ 1  controlpanel.home (192.168.1.1)  29.548 ms  2.204 ms  1.854 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  34.262 ms  26.478 ms  36.548 ms
+ 3  96.127.249.5 (96.127.249.5)  38.574 ms  18.891 ms  19.170 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  18.853 ms  19.433 ms  19.414 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  27.817 ms  25.297 ms  25.603 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  85.359 ms  85.527 ms  84.823 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  85.186 ms  88.832 ms  85.277 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  88.675 ms  92.513 ms  89.825 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  85.838 ms  87.401 ms  85.432 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  85.289 ms  86.115 ms  85.715 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  252.247 ms  271.112 ms  288.837 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  308.522 ms  284.368 ms  318.132 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  304.952 ms  243.766 ms  242.916 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  1801.178 ms  274.963 ms  262.202 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+End time:  Mon 13 Nov 2017 23:04:20 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:07:12 EST
+ 1  controlpanel.home (192.168.1.1)  3.208 ms  1.653 ms  1.932 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  24.384 ms  22.816 ms  18.939 ms
+ 3  96.127.249.5 (96.127.249.5)  19.109 ms  20.834 ms  19.548 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  18.903 ms  18.731 ms  20.624 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  24.937 ms  24.997 ms  25.638 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  85.002 ms  85.146 ms  87.261 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  85.819 ms  85.109 ms  85.057 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  85.987 ms  99.763 ms  86.211 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  84.948 ms  105.326 ms  101.578 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  86.735 ms  84.475 ms  85.490 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  268.213 ms  230.726 ms  261.747 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  309.046 ms  311.341 ms  418.116 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  300.557 ms  297.846 ms  305.262 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  308.586 ms  308.008 ms  305.572 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+End time:  Mon 13 Nov 2017 23:07:12 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:10:05 EST
+ 1  controlpanel.home (192.168.1.1)  8.247 ms  3.163 ms  2.848 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.617 ms  19.564 ms  25.055 ms
+ 3  96.127.249.5 (96.127.249.5)  20.371 ms  18.888 ms  18.742 ms
+ 4  0.ae17.er1.mtl7.ebox.ca (96.127.249.25)  19.498 ms  18.998 ms  20.267 ms
+ 5  xe-9-1-2.mpr2.tor1.ca.zip.zayo.com (208.185.142.33)  25.736 ms  25.422 ms  24.998 ms
+ 6  ae16.cr1.ord2.us.zip.zayo.com (64.125.31.51)  85.052 ms  84.962 ms  84.932 ms
+ 7  ae27.cs1.ord2.us.eth.zayo.com (64.125.30.242)  93.332 ms  85.612 ms  95.174 ms
+ 8  ae2.cs1.sea1.us.eth.zayo.com (64.125.29.26)  103.384 ms  100.898 ms  93.791 ms
+ 9  ae27.mpr1.sea1.us.zip.zayo.com (64.125.29.1)  121.311 ms  183.913 ms  85.394 ms
+10  64.125.193.130.i223.above.net (64.125.193.130)  102.790 ms  121.932 ms  94.977 ms
+11  xe-1-0-1.pe2.brwy.nsw.aarnet.net.au (202.158.194.120)  372.000 ms  281.430 ms  313.266 ms
+12  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  306.614 ms  282.405 ms  227.450 ms
+13  et-0-3-0.pe1.gdpt.qld.aarnet.net.au (113.197.15.17)  287.897 ms  302.909 ms  308.987 ms
+14  gw1.uq.pe1.gdpt.qld.aarnet.net.au (138.44.129.46)  305.353 ms  255.859 ms  506.158 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+End time:  Mon 13 Nov 2017 23:10:05 EST
+
+
+

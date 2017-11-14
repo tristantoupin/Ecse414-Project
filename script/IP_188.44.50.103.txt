@@ -2503,3 +2503,78 @@ End time:  Mon 13 Nov 2017 20:25:02 EST
 
 
 
+Start time:  Mon 13 Nov 2017 23:38:22 EST
+ 1  controlpanel.home (192.168.1.1)  16.596 ms  2.155 ms  2.390 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  28.141 ms  18.587 ms  18.976 ms
+ 3  96.127.249.5 (96.127.249.5)  20.046 ms  19.326 ms  18.858 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  20.815 ms  19.511 ms  19.383 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  21.089 ms  20.526 ms  19.817 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  88.938 ms  88.588 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  88.794 ms
+ 7  be2182.ccr41.ams03.atlas.cogentco.com (154.54.77.245)  98.030 ms
+    be2183.ccr42.ams03.atlas.cogentco.com (154.54.58.70)  109.375 ms  100.381 ms
+ 8  be2816.ccr42.ham01.atlas.cogentco.com (154.54.38.210)  110.508 ms  109.442 ms  113.298 ms
+ 9  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  231.699 ms
+    be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  166.704 ms
+    be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  167.715 ms
+10  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  203.246 ms  166.023 ms  132.863 ms
+11  149.6.58.42 (149.6.58.42)  173.965 ms  159.903 ms  192.881 ms
+12  185.141.124.144 (185.141.124.144)  204.635 ms  204.383 ms  205.396 ms
+13  msu.msk.runnet.ru (194.190.254.118)  204.835 ms  204.339 ms  220.849 ms
+14  93.180.0.174 (93.180.0.174)  188.957 ms  168.931 ms  145.102 ms
+15  188.44.33.10 (188.44.33.10)  151.641 ms  152.912 ms  176.396 ms
+16  188.44.33.42 (188.44.33.42)  307.347 ms  160.764 ms  145.602 ms
+17  188.44.50.103 (188.44.50.103)  191.013 ms !Z  201.775 ms !Z  204.967 ms !Z
+End time:  Mon 13 Nov 2017 23:38:22 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:38:30 EST
+ 1  controlpanel.home (192.168.1.1)  6.755 ms  3.507 ms  2.121 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.856 ms  19.480 ms  18.392 ms
+ 3  96.127.249.5 (96.127.249.5)  19.302 ms  21.157 ms  19.445 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  18.979 ms  19.353 ms  19.145 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.454 ms  19.655 ms  18.957 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  88.600 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  89.369 ms
+    be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  88.610 ms
+ 7  be2183.ccr42.ams03.atlas.cogentco.com (154.54.58.70)  99.482 ms  98.336 ms  98.816 ms
+ 8  be2816.ccr42.ham01.atlas.cogentco.com (154.54.38.210)  109.351 ms  109.036 ms  107.467 ms
+ 9  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  206.422 ms  209.672 ms
+    be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  298.189 ms
+10  be2289.rcr21.hel01.atlas.cogentco.com (154.54.62.250)  203.674 ms  204.586 ms  204.001 ms
+11  149.6.58.42 (149.6.58.42)  205.125 ms  203.583 ms  205.440 ms
+12  185.141.124.144 (185.141.124.144)  204.795 ms  151.557 ms  260.495 ms
+13  msu.msk.runnet.ru (194.190.254.118)  201.491 ms  204.209 ms  318.082 ms
+14  93.180.0.174 (93.180.0.174)  193.868 ms  203.997 ms  204.107 ms
+15  188.44.33.10 (188.44.33.10)  211.387 ms  206.356 ms  196.441 ms
+16  188.44.33.42 (188.44.33.42)  204.318 ms  203.921 ms  146.257 ms
+17  188.44.50.103 (188.44.50.103)  161.771 ms !Z  203.817 ms !Z  204.739 ms !Z
+End time:  Mon 13 Nov 2017 23:38:30 EST
+
+
+
+Start time:  Mon 13 Nov 2017 23:38:39 EST
+ 1  controlpanel.home (192.168.1.1)  4.423 ms  2.224 ms  4.084 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.680 ms  18.567 ms  18.857 ms
+ 3  96.127.249.5 (96.127.249.5)  19.006 ms  19.006 ms  18.929 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.492 ms  20.038 ms  19.186 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.264 ms  21.578 ms  19.783 ms
+ 6  be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  88.676 ms  88.665 ms  90.088 ms
+ 7  be2182.ccr41.ams03.atlas.cogentco.com (154.54.77.245)  99.508 ms  116.472 ms  98.301 ms
+ 8  be2815.ccr41.ham01.atlas.cogentco.com (154.54.38.206)  107.765 ms  108.174 ms  107.750 ms
+ 9  be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  153.908 ms
+    be2281.ccr21.sto03.atlas.cogentco.com (154.54.63.2)  203.553 ms
+    be2282.ccr22.sto03.atlas.cogentco.com (154.54.72.106)  204.066 ms
+10  be2280.rcr21.hel01.atlas.cogentco.com (154.54.62.254)  204.708 ms  166.698 ms  205.042 ms
+11  149.6.58.42 (149.6.58.42)  203.958 ms  210.822 ms  199.351 ms
+12  185.141.124.144 (185.141.124.144)  307.213 ms  202.162 ms  206.578 ms
+13  msu.msk.runnet.ru (194.190.254.118)  203.949 ms  204.793 ms  151.134 ms
+14  93.180.0.174 (93.180.0.174)  258.460 ms  204.608 ms  210.439 ms
+15  188.44.33.10 (188.44.33.10)  197.653 ms  149.869 ms  149.021 ms
+16  188.44.33.42 (188.44.33.42)  209.809 ms  207.066 ms  209.145 ms
+17  188.44.50.103 (188.44.50.103)  200.622 ms !Z  146.766 ms !Z  158.631 ms !Z
+End time:  Mon 13 Nov 2017 23:38:39 EST
+
+
+
