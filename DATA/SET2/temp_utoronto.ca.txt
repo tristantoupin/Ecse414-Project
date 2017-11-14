@@ -1,0 +1,125 @@
+Start time:  Tue 7 Nov 2017 12:56:00 EST
+ 1  controlpanel.home (192.168.1.1)  2.493 ms  3.678 ms  2.143 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.738 ms  19.368 ms  19.165 ms
+ 3  96.127.249.5 (96.127.249.5)  18.755 ms  19.114 ms  26.614 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  26.906 ms  26.098 ms  27.886 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  28.398 ms  27.593 ms  26.655 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  39.053 ms  27.753 ms  26.325 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 12:56:00 EST
+
+
+
+Start time:  Tue 7 Nov 2017 13:27:41 EST
+ 1  controlpanel.home (192.168.1.1)  2.398 ms  2.689 ms  2.305 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.469 ms  18.953 ms  18.971 ms
+ 3  96.127.249.5 (96.127.249.5)  20.003 ms  20.074 ms  19.145 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  29.336 ms  32.661 ms  57.931 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  25.820 ms  25.895 ms  26.281 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  26.545 ms  26.560 ms  26.908 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 13:27:41 EST
+
+
+
+Start time:  Tue 7 Nov 2017 19:45:02 EST
+ 1  controlpanel.home (192.168.1.1)  2.677 ms  1.846 ms  3.338 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.244 ms  21.322 ms  19.239 ms
+ 3  96.127.249.5 (96.127.249.5)  18.912 ms  24.312 ms  51.605 ms
+ 4  gtanet.ip4.torontointernetxchange.net (206.108.34.207)  27.373 ms  32.853 ms  25.962 ms
+ 5  utoronto2-ut-hub-if-internet.gtanet.ca (205.211.94.134)  33.127 ms  25.854 ms  26.518 ms
+ 6  sl-vss.gw.utoronto.ca (128.100.96.19)  26.436 ms  28.907 ms  33.412 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 19:45:02 EST
+
+
+
+Start time:  Wed 8 Nov 2017 08:51:59 EST
+ 1  gateway (142.157.26.2)  2.030 ms  1.513 ms  1.495 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.760 ms  1.770 ms  1.700 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.792 ms  1.747 ms  1.743 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.236 ms  2.870 ms  2.011 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.394 ms  2.083 ms  2.121 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.036 ms  2.405 ms  2.088 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.208 ms  2.220 ms  4.465 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  9.894 ms  9.605 ms  9.354 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  9.574 ms  14.584 ms  12.566 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  14.587 ms  14.314 ms  9.347 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  12.588 ms  15.122 ms  11.080 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  10.295 ms  13.207 ms  9.843 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 08:51:59 EST
+
+
+
+Start time:  Wed 8 Nov 2017 09:23:10 EST
+ 1  gateway (142.157.26.2)  2.214 ms  1.706 ms  1.858 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.814 ms  1.827 ms  1.716 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.800 ms  1.731 ms  1.760 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.118 ms  2.052 ms  2.121 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.096 ms  6.735 ms  2.081 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.193 ms  2.152 ms  2.134 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.223 ms  2.279 ms  2.599 ms
+ 8  be204.pe01-otwa.orion.on.ca (205.189.32.229)  10.091 ms  10.382 ms  9.602 ms
+ 9  be107.p01-toro.orion.on.ca (66.97.16.53)  10.186 ms  10.179 ms  9.484 ms
+10  gtanet-orion-rne.dist1-toro.ip.orion.on.ca (66.97.23.58)  11.270 ms  9.703 ms  9.518 ms
+11  utoronto1-ut-hub-if-re.gtanet.ca (205.211.94.234)  9.680 ms  9.857 ms  9.817 ms
+12  sl-vss.gw.utoronto.ca (128.100.96.19)  9.612 ms  9.786 ms  9.666 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 09:23:10 EST
+
+
+

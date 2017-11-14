@@ -1,0 +1,147 @@
+Start time:  Tue 7 Nov 2017 12:50:03 EST
+ 1  controlpanel.home (192.168.1.1)  3.497 ms  2.312 ms  1.576 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.921 ms  19.475 ms  21.814 ms
+ 3  96.127.249.5 (96.127.249.5)  18.644 ms  19.316 ms  21.279 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  20.264 ms  21.941 ms  20.043 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  20.256 ms  19.539 ms
+    hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  19.379 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  25.090 ms  25.146 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  26.554 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  29.199 ms
+    be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  27.140 ms
+    be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  27.439 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  34.365 ms
+    be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  37.167 ms
+    be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  33.984 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  46.232 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  44.523 ms  44.691 ms
+10  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  70.110 ms
+    be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  67.647 ms
+    be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  77.311 ms
+11  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  71.787 ms  75.052 ms  70.107 ms
+12  be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  82.371 ms  83.371 ms  80.186 ms
+13  38.104.248.66 (38.104.248.66)  81.829 ms  80.995 ms  80.549 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  80.458 ms  81.394 ms  81.748 ms
+15  * * *
+16  177.234.10.34 (177.234.10.34)  86.015 ms  84.734 ms  84.786 ms
+17  177.234.10.37 (177.234.10.37)  99.512 ms  83.133 ms  82.821 ms
+18  177.234.4.122 (177.234.4.122)  104.010 ms  103.338 ms  108.836 ms
+19  132.247.237.189 (132.247.237.189)  106.193 ms  105.446 ms  104.233 ms
+20  132.247.70.37 (132.247.70.37)  103.882 ms !Z  102.678 ms !Z  104.670 ms !Z
+End time:  Tue 7 Nov 2017 12:50:03 EST
+
+
+
+Start time:  Tue 7 Nov 2017 13:21:43 EST
+ 1  controlpanel.home (192.168.1.1)  3.473 ms  4.113 ms  2.218 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.744 ms  19.590 ms  22.495 ms
+ 3  96.127.249.5 (96.127.249.5)  18.970 ms  19.639 ms  18.778 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.261 ms  18.971 ms  19.561 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  20.834 ms  20.709 ms  18.978 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  24.647 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  34.117 ms  24.841 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  27.960 ms  27.165 ms  28.178 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  34.421 ms  33.757 ms  34.423 ms
+ 9  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  44.915 ms  46.031 ms  45.490 ms
+10  be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  58.268 ms  60.125 ms  59.330 ms
+11  be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  66.436 ms
+    be2888.rcr22.mfe02.atlas.cogentco.com (154.54.47.46)  128.208 ms
+    be2887.rcr21.mfe02.atlas.cogentco.com (154.54.47.34)  68.410 ms
+12  be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  80.397 ms
+    be2692.rcr21.mex01.atlas.cogentco.com (154.24.23.26)  82.420 ms
+    be3004.rcr21.mex01.atlas.cogentco.com (154.24.45.97)  109.099 ms
+13  38.104.248.66 (38.104.248.66)  84.101 ms  87.078 ms  85.189 ms
+14  na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  80.113 ms  86.900 ms  254.738 ms
+15  * * *
+16  177.234.10.34 (177.234.10.34)  85.004 ms  83.505 ms  114.902 ms
+17  177.234.10.37 (177.234.10.37)  84.166 ms  98.743 ms  82.975 ms
+18  177.234.4.122 (177.234.4.122)  106.095 ms  104.596 ms  110.736 ms
+19  132.247.237.189 (132.247.237.189)  103.066 ms  103.592 ms  103.548 ms
+20  132.247.70.37 (132.247.70.37)  104.661 ms !Z  103.895 ms !Z  108.166 ms !Z
+End time:  Tue 7 Nov 2017 13:21:43 EST
+
+
+
+Start time:  Tue 7 Nov 2017 19:39:04 EST
+ 1  controlpanel.home (192.168.1.1)  2.414 ms  1.980 ms  1.985 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.886 ms  19.043 ms  19.259 ms
+ 3  96.127.249.5 (96.127.249.5)  22.701 ms  19.920 ms  21.280 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  22.397 ms  65.325 ms  19.780 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  20.581 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.298 ms  20.736 ms
+ 6  be2088.ccr21.alb02.atlas.cogentco.com (154.54.43.18)  28.750 ms  33.005 ms
+    be2104.ccr22.alb02.atlas.cogentco.com (154.54.43.22)  24.706 ms
+ 7  be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  28.649 ms
+    be2915.ccr41.jfk02.atlas.cogentco.com (154.54.40.62)  29.633 ms
+    be2916.ccr42.jfk02.atlas.cogentco.com (154.54.41.62)  28.492 ms
+ 8  be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  35.449 ms
+    be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  33.921 ms
+    be2807.ccr42.dca01.atlas.cogentco.com (154.54.40.110)  33.462 ms
+ 9  be2113.ccr42.atl01.atlas.cogentco.com (154.54.24.222)  52.978 ms
+    be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  44.451 ms  44.967 ms
+10  be2690.ccr42.iah01.atlas.cogentco.com (154.54.28.130)  59.893 ms
+    be2687.ccr41.iah01.atlas.cogentco.com (154.54.28.70)  64.654 ms  59.875 ms
+11  be2291.ccr21.sat01.atlas.cogentco.com (154.54.2.190)  69.209 ms  65.820 ms  65.553 ms
+12  be2419.rcr21.lrd01.atlas.cogentco.com (66.28.4.37)  67.373 ms  67.245 ms  79.335 ms
+13  * * be2444.rcr21.mex01.atlas.cogentco.com (154.24.18.222)  92.139 ms
+14  38.104.248.66 (38.104.248.66)  91.263 ms *  106.415 ms
+15  * na-148-240-254-153.static.avantel.net.mx (148.240.254.153)  95.146 ms *
+16  * * *
+17  * * 177.234.10.34 (177.234.10.34)  185.992 ms
+18  177.234.10.37 (177.234.10.37)  97.777 ms *  93.112 ms
+19  * 177.234.4.122 (177.234.4.122)  103.199 ms  91.283 ms
+20  * 132.247.237.189 (132.247.237.189)  92.903 ms  91.486 ms
+End time:  Tue 7 Nov 2017 19:39:04 EST
+
+
+
+Start time:  Wed 8 Nov 2017 08:48:47 EST
+ 1  gateway (142.157.26.2)  3.214 ms  2.977 ms  2.796 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  2.000 ms  2.131 ms  3.881 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.831 ms  1.711 ms  1.748 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.454 ms  2.584 ms  2.243 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.186 ms  2.287 ms  2.094 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.313 ms  2.203 ms  2.684 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.355 ms  2.314 ms  1.995 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  9.020 ms  8.678 ms  8.891 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  29.778 ms  29.895 ms  29.788 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  43.908 ms  44.086 ms  43.909 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  54.909 ms  55.162 ms  54.995 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  59.697 ms  56.693 ms  56.779 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  88.270 ms  60.866 ms  59.616 ms
+14  cudi-1-is-jmb-776.lsanca.pacificwave.net (207.231.241.142)  85.183 ms  84.922 ms  84.718 ms
+15  201.130.80.141 (201.130.80.141)  84.503 ms  84.731 ms  84.753 ms
+16  201.130.80.133 (201.130.80.133)  115.980 ms  166.623 ms  203.581 ms
+17  201.130.80.129 (201.130.80.129)  206.491 ms  205.047 ms  205.286 ms
+18  201.130.80.153 (201.130.80.153)  204.175 ms  204.567 ms  205.002 ms
+19  132.247.252.65 (132.247.252.65)  204.946 ms  186.229 ms  204.747 ms
+20  132.247.237.189 (132.247.237.189)  207.001 ms  203.241 ms  204.249 ms
+End time:  Wed 8 Nov 2017 08:48:47 EST
+
+
+
+Start time:  Wed 8 Nov 2017 09:20:01 EST
+ 1  gateway (142.157.26.2)  4.276 ms  4.930 ms  1.929 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.790 ms  1.851 ms  1.762 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  53.397 ms  6.259 ms  342.648 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.095 ms  2.211 ms  2.012 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  10.050 ms  2.306 ms  2.093 ms
+ 6  canet-rq.risq.net (132.202.80.10)  3.400 ms  2.159 ms  2.197 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  3.135 ms  2.454 ms  2.919 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.830 ms  8.787 ms  9.350 ms
+ 9  wnpg1rtr1.canarie.ca (205.189.32.180)  32.133 ms  29.828 ms  29.619 ms
+10  clgr2rtr1.canarie.ca (205.189.32.176)  54.229 ms  44.058 ms  43.962 ms
+11  vncv1rtr1.canarie.ca (205.189.32.174)  55.357 ms  55.187 ms  55.200 ms
+12  vctr3rtr1.canarie.ca (205.189.32.198)  56.558 ms  57.441 ms  56.552 ms
+13  sttl1rtr1.canarie.ca (205.189.32.182)  58.643 ms  65.676 ms  58.313 ms
+14  cudi-1-is-jmb-776.lsanca.pacificwave.net (207.231.241.142)  84.371 ms  85.150 ms  84.424 ms
+15  201.130.80.141 (201.130.80.141)  84.690 ms  84.608 ms  84.281 ms
+16  201.130.80.133 (201.130.80.133)  116.894 ms  148.489 ms  205.946 ms
+17  201.130.80.129 (201.130.80.129)  205.241 ms  204.060 ms  204.797 ms
+18  201.130.80.153 (201.130.80.153)  205.362 ms  203.244 ms  205.844 ms
+19  132.247.252.65 (132.247.252.65)  202.533 ms  205.059 ms  204.881 ms
+20  132.247.237.189 (132.247.237.189)  204.148 ms  204.607 ms  204.821 ms
+End time:  Wed 8 Nov 2017 09:20:01 EST
+
+
+

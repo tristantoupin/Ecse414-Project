@@ -1,0 +1,4 @@
+1 gateway (142.157.26.2) 3.573 ms 1.670 ms 2.610 ms 2 james-core-vlan418.gw.mcgill.ca (132.216.216.27) 2.160 ms 1.913 ms 1.709 ms 3 datacentre2-vlan415.gw.mcgill.ca (132.216.216.166) 1.791 ms 1.734 ms 1.831 ms 4 burneycentre.mcgill.ca (132.216.177.160) 2.230 ms 1.821 ms 1.793 ms
+
+
+

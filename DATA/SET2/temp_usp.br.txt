@@ -1,0 +1,128 @@
+Start time:  Tue 7 Nov 2017 12:42:20 EST
+ 1  controlpanel.home (192.168.1.1)  9.726 ms  1.827 ms  2.029 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  24.943 ms  21.153 ms  19.954 ms
+ 3  96.127.249.5 (96.127.249.5)  19.153 ms  19.720 ms  19.127 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  20.138 ms  19.609 ms  21.408 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  28.005 ms  27.334 ms  28.973 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  52.142 ms  43.338 ms  43.820 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  45.040 ms  53.482 ms  48.518 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  28.905 ms  28.017 ms  31.042 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  33.614 ms  48.134 ms  36.197 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  43.892 ms  38.813 ms  34.844 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  79.021 ms  73.506 ms  85.369 ms
+12  ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  80.090 ms
+    ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  77.199 ms  74.171 ms
+13  ae-3.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.208)  74.894 ms  81.981 ms  73.482 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  77.271 ms  73.628 ms  79.736 ms
+15  * * *
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  209.115 ms  211.878 ms  299.796 ms
+18  143.107.249.34 (143.107.249.34)  208.007 ms  305.288 ms  207.581 ms
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 12:42:20 EST
+
+
+
+Start time:  Tue 7 Nov 2017 13:14:05 EST
+ 1  controlpanel.home (192.168.1.1)  4.700 ms  9.478 ms  2.264 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.237 ms  19.491 ms  33.706 ms
+ 3  96.127.249.5 (96.127.249.5)  30.431 ms  19.024 ms  18.704 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  20.887 ms  22.776 ms  19.974 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  28.438 ms  27.362 ms  28.691 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  45.854 ms  45.983 ms  47.004 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  44.827 ms  44.219 ms  44.082 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  32.628 ms  28.753 ms  28.122 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  35.906 ms  35.878 ms  33.517 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  36.543 ms  33.935 ms  38.726 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  73.184 ms  73.555 ms  73.083 ms
+12  ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  72.521 ms
+    ae-1.r04.miamfl02.us.bb.gin.ntt.net (129.250.2.111)  73.709 ms  72.871 ms
+13  ae-3.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.208)  79.018 ms
+    ae-2.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.167)  87.844 ms  74.384 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  77.074 ms  77.067 ms  74.325 ms
+15  * * *
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  217.632 ms  195.929 ms  212.675 ms
+18  143.107.249.34 (143.107.249.34)  210.397 ms  304.325 ms  208.624 ms
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 13:14:05 EST
+
+
+
+Start time:  Tue 7 Nov 2017 19:30:20 EST
+ 1  controlpanel.home (192.168.1.1)  2.167 ms  2.679 ms  2.669 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.554 ms  19.125 ms  19.012 ms
+ 3  96.127.249.5 (96.127.249.5)  19.213 ms  19.091 ms  24.402 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  31.557 ms  19.483 ms  19.389 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.268 ms  31.688 ms  27.606 ms
+ 6  nyk-b5-link.telia.net (80.91.254.14)  43.257 ms  43.799 ms  43.223 ms
+ 7  ae-12.r07.nycmny01.us.bb.gin.ntt.net (129.250.8.249)  61.310 ms  45.128 ms  50.874 ms
+ 8  ae-2.r25.nycmny01.us.bb.gin.ntt.net (129.250.3.97)  27.881 ms  27.371 ms  34.550 ms
+ 9  ae-9.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.149)  38.450 ms  34.976 ms  34.714 ms
+10  ae-0.r23.asbnva02.us.bb.gin.ntt.net (129.250.3.85)  36.808 ms  42.577 ms  35.173 ms
+11  ae-1.r20.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  73.693 ms  74.752 ms  76.622 ms
+12  ae-1.r05.miamfl02.us.bb.gin.ntt.net (129.250.2.185)  76.263 ms  73.076 ms  72.922 ms
+13  ae-2.a01.miamfl02.us.bb.gin.ntt.net (129.250.3.167)  73.410 ms  78.355 ms  73.362 ms
+14  xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net (129.250.202.94)  75.497 ms *  75.751 ms
+15  * * *
+16  * * *
+17  border2.uspnet.usp.br (143.107.151.42)  294.795 ms  201.019 ms  206.520 ms
+18  143.107.249.34 (143.107.249.34)  205.845 ms  207.007 ms  304.285 ms
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 19:30:20 EST
+
+
+
+Start time:  Wed 8 Nov 2017 08:44:35 EST
+ 1  gateway (142.157.26.2)  2.237 ms  3.680 ms  1.700 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.940 ms  2.126 ms  1.735 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.800 ms  1.823 ms  1.738 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.140 ms  2.255 ms  2.040 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.168 ms  3.549 ms  7.374 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.065 ms  2.646 ms  2.059 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.056 ms  2.246 ms  2.251 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  9.992 ms  17.109 ms  8.536 ms
+ 9  198.32.252.133 (198.32.252.133)  51.509 ms  53.371 ms  51.335 ms
+10  198.32.252.138 (198.32.252.138)  271.341 ms  226.453 ms  204.464 ms
+11  sp-usp.bkb.rnp.br (200.143.255.114)  204.759 ms  203.900 ms  205.298 ms
+12  143.107.151.62 (143.107.151.62)  204.384 ms  204.993 ms  204.115 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 08:44:35 EST
+
+
+
+Start time:  Wed 8 Nov 2017 09:15:53 EST
+ 1  gateway (142.157.26.2)  3.396 ms  1.670 ms  1.747 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.786 ms  1.701 ms  1.721 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.813 ms  1.706 ms  1.747 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.111 ms  2.211 ms  2.048 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.140 ms  2.804 ms  2.120 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.261 ms  2.717 ms  2.186 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.236 ms  2.338 ms  2.165 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.621 ms  8.701 ms  8.568 ms
+ 9  198.32.252.133 (198.32.252.133)  53.211 ms  51.475 ms  53.980 ms
+10  * 198.32.252.138 (198.32.252.138)  222.010 ms  228.003 ms
+11  sp-usp.bkb.rnp.br (200.143.255.114)  308.337 ms  202.541 ms  204.801 ms
+12  143.107.151.62 (143.107.151.62)  205.780 ms  202.903 ms  205.383 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 09:15:53 EST
+
+
+

@@ -1,0 +1,134 @@
+Start time:  Tue 7 Nov 2017 12:49:43 EST
+ 1  controlpanel.home (192.168.1.1)  3.878 ms  3.650 ms  1.877 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.012 ms  19.283 ms  19.672 ms
+ 3  96.127.249.5 (96.127.249.5)  19.383 ms  21.449 ms  20.846 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  20.608 ms  19.144 ms  24.543 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.901 ms  27.679 ms  33.168 ms
+ 6  ldn-bb2-link.telia.net (213.155.135.70)  96.831 ms
+    ldn-bb2-link.telia.net (62.115.135.111)  99.449 ms
+    ldn-bb2-link.telia.net (62.115.116.86)  119.713 ms
+ 7  ldn-b4-link.telia.net (62.115.141.197)  179.251 ms
+    ldn-b4-link.telia.net (62.115.134.139)  187.273 ms
+    ldn-b4-link.telia.net (62.115.141.197)  113.489 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  173.090 ms  120.661 ms  112.277 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  136.018 ms  112.152 ms  114.040 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  97.097 ms  96.707 ms  96.728 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  97.827 ms  97.291 ms  97.427 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  98.822 ms  112.424 ms  98.168 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  177.916 ms  114.002 ms  179.561 ms
+14  oxford-university.ja.net (193.63.109.90)  100.307 ms  114.422 ms  100.881 ms
+15  * * *
+16  lompi1-bmus.sdc.ox.ac.uk (192.76.32.66)  117.271 ms  98.065 ms  98.722 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 12:49:43 EST
+
+
+
+Start time:  Tue 7 Nov 2017 13:21:22 EST
+ 1  controlpanel.home (192.168.1.1)  2.936 ms  1.761 ms  4.174 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  18.507 ms  19.241 ms  18.770 ms
+ 3  96.127.249.5 (96.127.249.5)  22.068 ms  22.440 ms  18.890 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  19.872 ms  19.407 ms  18.752 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  27.262 ms  42.499 ms  28.370 ms
+ 6  ldn-bb2-link.telia.net (62.115.135.111)  265.824 ms
+    ldn-bb2-link.telia.net (62.115.135.107)  95.699 ms
+    ldn-bb2-link.telia.net (62.115.124.167)  202.160 ms
+ 7  ldn-b4-link.telia.net (62.115.141.197)  112.644 ms  114.562 ms
+    ldn-b4-link.telia.net (62.115.134.139)  95.717 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  111.812 ms  113.662 ms  192.336 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  114.198 ms  192.533 ms  111.759 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  195.749 ms  98.972 ms  101.747 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  99.262 ms  98.872 ms  96.885 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  106.317 ms  97.469 ms  98.173 ms
+13  ae3.oxforq-rbr1.ja.net (193.63.108.98)  113.941 ms  217.535 ms  114.143 ms
+14  oxford-university.ja.net (193.63.109.90)  98.749 ms  97.993 ms  97.591 ms
+15  * * *
+16  lompi1-bmus.sdc.ox.ac.uk (192.76.32.66)  105.672 ms  98.946 ms  98.871 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 13:21:22 EST
+
+
+
+Start time:  Tue 7 Nov 2017 19:37:53 EST
+ 1  controlpanel.home (192.168.1.1)  2.136 ms  2.026 ms  3.980 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  27.610 ms  19.935 ms  18.683 ms
+ 3  96.127.249.5 (96.127.249.5)  18.981 ms  18.670 ms  19.836 ms
+ 4  motl-b1-link.telia.net (213.248.76.201)  24.722 ms  96.867 ms  30.844 ms
+ 5  nyk-bb4-link.telia.net (62.115.134.52)  28.547 ms  26.930 ms  28.340 ms
+ 6  ldn-bb2-link.telia.net (62.115.124.167)  121.153 ms
+    ldn-bb2-link.telia.net (213.155.133.6)  150.161 ms  99.810 ms
+ 7  ldn-b4-link.telia.net (62.115.124.201)  111.851 ms
+    ldn-b4-link.telia.net (62.115.119.145)  113.684 ms  225.347 ms
+ 8  jisc-ic-318433-ldn-b3.c.telia.net (62.115.148.159)  203.411 ms  371.169 ms  171.536 ms
+ 9  ae24.londhx-sbr1.ja.net (146.97.35.197)  248.513 ms  117.085 ms  354.755 ms
+10  ae29.londpg-sbr2.ja.net (146.97.33.2)  278.888 ms  297.498 ms  267.603 ms
+11  ae19.readdy-rbr1.ja.net (146.97.37.194)  321.729 ms  404.300 ms  261.326 ms
+12  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  194.674 ms  106.522 ms  176.118 ms
+13  * ae3.oxforq-rbr1.ja.net (193.63.108.98)  360.663 ms  341.661 ms
+14  * oxford-university.ja.net (193.63.109.90)  116.789 ms  99.398 ms
+15  * * *
+16  lompi1-boucs.sdc.ox.ac.uk (192.76.32.62)  99.928 ms  99.148 ms  99.243 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 19:37:53 EST
+
+
+
+Start time:  Wed 8 Nov 2017 08:48:39 EST
+ 1  gateway (142.157.26.2)  2.263 ms  4.883 ms  1.789 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.848 ms  1.729 ms  1.968 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.827 ms  1.723 ms  1.742 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.207 ms  2.435 ms  2.076 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.100 ms  2.209 ms  2.151 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.486 ms  2.821 ms  2.374 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  4.105 ms  2.537 ms  3.064 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  8.530 ms  8.886 ms  8.521 ms
+ 9  canarie-gw.lon.uk.geant.net (62.40.124.241)  100.259 ms  100.236 ms  99.948 ms
+10  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  100.351 ms  101.095 ms  102.132 ms
+11  ae29.londpg-sbr2.ja.net (146.97.33.2)  102.596 ms  100.897 ms  100.934 ms
+12  ae19.readdy-rbr1.ja.net (146.97.37.194)  102.292 ms  102.154 ms  101.685 ms
+13  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  102.793 ms  107.219 ms  102.801 ms
+14  ae3.oxforq-rbr1.ja.net (193.63.108.98)  103.003 ms  103.222 ms  102.453 ms
+15  oxford-university.ja.net (193.63.109.90)  102.583 ms  103.277 ms  102.716 ms
+16  * * *
+17  lompi1-boucs.sdc.ox.ac.uk (192.76.32.62)  104.677 ms  103.306 ms  103.282 ms
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 08:48:39 EST
+
+
+
+Start time:  Wed 8 Nov 2017 09:19:54 EST
+ 1  gateway (142.157.26.2)  2.215 ms  1.960 ms  1.778 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.804 ms  1.774 ms  1.697 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.973 ms  1.728 ms  1.754 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.077 ms  2.355 ms  2.067 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.129 ms  2.231 ms  2.074 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.792 ms  3.027 ms  4.348 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.196 ms  2.704 ms  4.163 ms
+ 8  toro1rtr1.canarie.ca (205.189.32.192)  10.058 ms  8.607 ms  8.918 ms
+ 9  canarie-gw.lon.uk.geant.net (62.40.124.241)  100.188 ms  100.239 ms  100.174 ms
+10  janet-gw.mx1.lon.uk.geant.net (62.40.124.198)  100.423 ms  100.580 ms  100.505 ms
+11  ae29.londpg-sbr2.ja.net (146.97.33.2)  100.833 ms  100.979 ms  116.838 ms
+12  ae19.readdy-rbr1.ja.net (146.97.37.194)  103.020 ms  109.623 ms  101.304 ms
+13  ae2.oxfoii-rbr1.ja.net (193.63.108.94)  102.749 ms  103.066 ms  102.208 ms
+14  ae3.oxforq-rbr1.ja.net (193.63.108.98)  102.759 ms  102.770 ms  103.028 ms
+15  oxford-university.ja.net (193.63.109.90)  102.640 ms  102.861 ms  102.468 ms
+16  * * *
+17  lompi1-bmus.sdc.ox.ac.uk (192.76.32.66)  105.451 ms  109.724 ms  102.920 ms
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 09:19:54 EST
+
+
+

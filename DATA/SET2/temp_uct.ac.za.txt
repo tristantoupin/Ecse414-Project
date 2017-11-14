@@ -1,0 +1,142 @@
+Start time:  Tue 7 Nov 2017 12:37:41 EST
+ 1  controlpanel.home (192.168.1.1)  12.078 ms  7.131 ms  3.038 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  19.511 ms  19.178 ms  19.779 ms
+ 3  96.127.249.5 (96.127.249.5)  19.238 ms  19.177 ms  18.542 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  21.227 ms  22.823 ms  21.646 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  20.048 ms  19.508 ms  28.257 ms
+ 6  be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  88.911 ms  89.141 ms
+    be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.336 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  96.643 ms
+    be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  95.983 ms  96.879 ms
+ 8  be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  97.052 ms
+    be2870.ccr22.lon01.atlas.cogentco.com (154.54.58.174)  99.600 ms
+    be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  109.485 ms
+ 9  be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  99.573 ms
+    be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  97.544 ms  101.273 ms
+10  149.14.80.210 (149.14.80.210)  103.635 ms  95.347 ms  99.522 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  318.245 ms  304.565 ms  307.681 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  306.420 ms  308.194 ms  288.682 ms
+13  155.232.32.14 (155.232.32.14)  427.633 ms  238.979 ms  249.702 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 12:37:41 EST
+
+
+
+Start time:  Tue 7 Nov 2017 13:09:46 EST
+ 1  controlpanel.home (192.168.1.1)  3.732 ms  2.151 ms  2.148 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  25.156 ms  19.255 ms  19.734 ms
+ 3  96.127.249.5 (96.127.249.5)  18.440 ms  19.418 ms  18.588 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.716 ms  19.293 ms  22.338 ms
+ 5  hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.577 ms  25.048 ms  18.984 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  89.015 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  100.649 ms  88.570 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  96.223 ms  95.404 ms  95.614 ms
+ 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  97.258 ms
+    be2869.ccr22.lon01.atlas.cogentco.com (154.54.57.162)  95.701 ms
+    be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  95.750 ms
+ 9  be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  100.083 ms  99.496 ms
+    be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  96.613 ms
+10  149.14.80.210 (149.14.80.210)  95.590 ms  97.335 ms  97.089 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  272.959 ms  306.906 ms  418.092 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  298.780 ms  308.181 ms  305.669 ms
+13  155.232.32.14 (155.232.32.14)  308.455 ms  342.152 ms  270.459 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 13:09:46 EST
+
+
+
+Start time:  Tue 7 Nov 2017 19:25:54 EST
+ 1  controlpanel.home (192.168.1.1)  2.996 ms  2.014 ms  2.680 ms
+ 2  lo0.lns2.mtl3.ebox.ca (96.127.249.131)  20.054 ms  21.779 ms  19.301 ms
+ 3  96.127.249.5 (96.127.249.5)  35.768 ms  19.419 ms  19.205 ms
+ 4  be4167.ccr22.ymq02.atlas.cogentco.com (38.140.46.217)  19.381 ms  20.610 ms  19.091 ms
+ 5  hu0-4-0-1.ccr22.ymq01.atlas.cogentco.com (154.54.31.222)  18.949 ms
+    hu0-4-0-1.ccr21.ymq01.atlas.cogentco.com (154.54.25.126)  19.725 ms  26.106 ms
+ 6  be3042.ccr21.lpl01.atlas.cogentco.com (154.54.44.161)  90.606 ms  89.431 ms
+    be3043.ccr22.lpl01.atlas.cogentco.com (154.54.44.165)  89.423 ms
+ 7  be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  95.711 ms
+    be2391.ccr41.lon13.atlas.cogentco.com (154.54.39.149)  95.491 ms
+    be2491.ccr42.lon13.atlas.cogentco.com (154.54.39.118)  95.584 ms
+ 8  be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  96.159 ms
+    be2868.ccr21.lon01.atlas.cogentco.com (154.54.57.154)  95.413 ms
+    be2871.ccr21.lon01.atlas.cogentco.com (154.54.58.186)  96.513 ms
+ 9  be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  97.054 ms
+    be2866.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.238)  96.496 ms
+    be2867.rcr21.b015533-1.lon01.atlas.cogentco.com (154.54.56.242)  95.712 ms
+10  149.14.80.210 (149.14.80.210)  95.391 ms  97.000 ms  95.303 ms
+11  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  234.397 ms  236.358 ms  272.339 ms
+12  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  306.619 ms  251.731 ms  317.183 ms
+13  155.232.32.14 (155.232.32.14)  296.982 ms  313.874 ms  300.258 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Tue 7 Nov 2017 19:25:54 EST
+
+
+
+Start time:  Wed 8 Nov 2017 08:40:53 EST
+ 1  gateway (142.157.26.2)  2.302 ms  1.930 ms  2.169 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  1.895 ms  1.763 ms  1.833 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  190.311 ms  166.766 ms  241.441 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.267 ms  2.294 ms  2.035 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  2.141 ms  2.141 ms  2.126 ms
+ 6  canet-rq.risq.net (132.202.80.10)  2.199 ms  2.449 ms  2.104 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  2.290 ms  2.797 ms  2.185 ms
+ 8  unknown.uni.net.za (196.32.209.225)  83.152 ms  83.299 ms  83.135 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  83.062 ms  83.492 ms  83.191 ms
+10  196.32.209.170 (196.32.209.170)  333.577 ms  307.542 ms  305.996 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  307.211 ms  306.068 ms  230.086 ms
+12  155.232.32.14 (155.232.32.14)  280.769 ms  307.434 ms  224.781 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 08:40:53 EST
+
+
+
+Start time:  Wed 8 Nov 2017 09:11:54 EST
+ 1  gateway (142.157.26.2)  405.309 ms  1.690 ms  1.519 ms
+ 2  access1-vlan917.gw.mcgill.ca (132.216.216.140)  505.910 ms  1.799 ms  1.406 ms
+ 3  internet1-vlan876.gw.mcgill.ca (132.216.255.97)  1.774 ms  1.510 ms  1.487 ms
+ 4  mcgill-gw-canet.risq.net (206.167.128.49)  2.083 ms  2.045 ms  1.732 ms
+ 5  mcgill-canet.dmtrl-rq.risq.net (132.202.32.89)  1.811 ms  2.524 ms  1.773 ms
+ 6  canet-rq.risq.net (132.202.80.10)  36.039 ms  3.174 ms  1.965 ms
+ 7  mtrl2rtr1.canarie.ca (205.189.32.250)  1.964 ms  2.283 ms  581.344 ms
+ 8  unknown.uni.net.za (196.32.209.225)  722.893 ms  717.183 ms  246.686 ms
+ 9  xe11-3-0-ua-uk-ldn1-01.ubuntunet.net (196.32.209.77)  83.155 ms  83.491 ms  83.728 ms
+10  ae1-1001-cpt1-ir1-i.tenet.ac.za (196.32.209.170)  309.172 ms  305.711 ms  307.133 ms
+11  be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  310.963 ms  302.543 ms  308.245 ms
+12  155.232.32.14 (155.232.32.14)  307.774 ms  305.407 ms  306.272 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+End time:  Wed 8 Nov 2017 09:11:54 EST
+
+
+
