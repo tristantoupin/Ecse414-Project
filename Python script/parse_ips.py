@@ -109,30 +109,49 @@ def parseToArrayTraceroute(textFile):
 #def stringToCSV
 # TODO
 
-
 temp = parseToArrayTraceroute(readFile("testFile.txt"))
-print "\ngetAvgTime\n"
+print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Dest,Timeouts"
 for t in temp :
-    print getAvgTime(t)
-print "\ngetTotalSucessfulPackets\n"
-for t in temp :
-    print getTotalSucessfulPackets(t)
-print "\ngetHops\n"
-for t in temp :
-    print getHops(t)
-print "\ngetSource\n"
-for t in temp :
-    print getSource(t)
-print "\ngetDest\n"
-for t in temp :
-    print getDest(t)
-print "\ngetTimeOuts\n"
-for t in temp :
+    print getDate(t),
+    print ",",
+    print getTime(t),
+    print ",",
+    print getAvgTime(t),
+    print ",",
+    print getTotalSucessfulPackets(t),
+    print ",",
+    print getHops(t),
+    print ",",
+    print getSource(t),
+    print ",",
+    print getDest(t),
+    print ",",
     print getTimeOuts(t)
-print "\ngetDate\n"
-for t in temp :
-    print getDate(t)
-print "\ngetTime\n"
-for t in temp :
-    print getTime(t)
+
+
+# temp = parseToArrayTraceroute(readFile("testFile.txt"))
+# print "\ngetAvgTime\n"
+# for t in temp :
+#     print getAvgTime(t)
+# print "\ngetTotalSucessfulPackets\n"
+# for t in temp :
+#     print getTotalSucessfulPackets(t)
+# print "\ngetHops\n"
+# for t in temp :
+#     print getHops(t)
+# print "\ngetSource\n"
+# for t in temp :
+#     print getSource(t)
+# print "\ngetDest\n"
+# for t in temp :
+#     print getDest(t)
+# print "\ngetTimeOuts\n"
+# for t in temp :
+#     print getTimeOuts(t)
+# print "\ngetDate\n"
+# for t in temp :
+#     print getDate(t)
+# print "\ngetTime\n"
+# for t in temp :
+#     print getTime(t)
 
