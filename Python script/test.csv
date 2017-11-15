@@ -81,21 +81,6 @@ Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Dest,Timeouts
  Mon 13 Nov 2017 , 04:40:22 , 238.691 , 36 , 12 , 192.168.1.1 , 84.237.50.25 , 0
  Mon 13 Nov 2017 , 04:40:29 , 304.363666667 , 36 , 12 , 192.168.1.1 , 84.237.50.25 , 0
  Mon 13 Nov 2017 , 04:40:35 , 272.783 , 36 , 12 , 192.168.1.1 , 84.237.50.25 , 0
- Mon 13 Nov 2017 , 07:24:39 , None , None , None , Start time:  Mon 13 Nov 2017 07:24:39 EST
-
-End time:  Mon 13 Nov 2017 07:24:39 ES , tart time:  Mon 13 Nov 2017 07:24:39 EST
-
-End time:  Mon 13 Nov 2017 07:24:39 EST , 0
- Mon 13 Nov 2017 , 07:24:41 , None , None , None , Start time:  Mon 13 Nov 2017 07:24:41 EST
-
-End time:  Mon 13 Nov 2017 07:24:41 ES , tart time:  Mon 13 Nov 2017 07:24:41 EST
-
-End time:  Mon 13 Nov 2017 07:24:41 EST , 0
- Mon 13 Nov 2017 , 07:24:43 , None , None , None , Start time:  Mon 13 Nov 2017 07:24:43 EST
-
-End time:  Mon 13 Nov 2017 07:24:43 ES , tart time:  Mon 13 Nov 2017 07:24:43 EST
-
-End time:  Mon 13 Nov 2017 07:24:43 EST , 0
  Mon 13 Nov 2017 , 09:54:32 , 204.763666667 , 36 , 12 , 142.157.26.2 , 84.237.50.25 , 0
  Mon 13 Nov 2017 , 09:54:38 , 203.695 , 36 , 12 , 142.157.26.2 , 84.237.50.25 , 0
  Mon 13 Nov 2017 , 09:54:44 , 234.512666667 , 36 , 12 , 142.157.26.2 , 84.237.50.25 , 0
@@ -108,19 +93,3 @@ End time:  Mon 13 Nov 2017 07:24:43 EST , 0
  Mon 13 Nov 2017 , 18:03:23 , 235.424333333 , 28 , 14 , 142.157.26.2 , 84.237.50.25 , 14
  Mon 13 Nov 2017 , 18:03:28 , 203.968666667 , 36 , 12 , 142.157.26.2 , 84.237.50.25 , 0
  Mon 13 Nov 2017 , 18:03:34 , 204.318333333 , 36 , 12 , 142.157.26.2 , 84.237.50.25 , 0
- Mon 13 Nov 2017 , 20:24:33 , None , None , None , Start time:  Mon 13 Nov 2017 20:24:33 EST
-
-End time:  Mon 13 Nov 2017 20:24:33 ES , tart time:  Mon 13 Nov 2017 20:24:33 EST
-
-End time:  Mon 13 Nov 2017 20:24:33 EST , 0
- Mon 13 Nov 2017 , 20:24:35 , None , None , None , Start time:  Mon 13 Nov 2017 20:24:35 EST
-
-End time:  Mon 13 Nov 2017 20:24:35 ES , tart time:  Mon 13 Nov 2017 20:24:35 EST
-
-End time:  Mon 13 Nov 2017 20:24:35 EST , 0
- Mon 13 Nov 2017 , 20:24:37 , None , None , None , Start time:  Mon 13 Nov 2017 20:24:37 EST
-
-End time:  Mon 13 Nov 2017 20:24:37 ES , tart time:  Mon 13 Nov 2017 20:24:37 EST
-
-End time:  Mon 13 Nov 2017 20:24:37 EST , 0
-None , None , None , None , None ,  ,  , 0
