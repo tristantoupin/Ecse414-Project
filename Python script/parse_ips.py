@@ -105,10 +105,13 @@ def parseToArrayTraceroute(textFile):
     except:
         return None
 
-# Print to stdout, can be saved to a .csv file by shell redirection
-def printToCSVFormat():
-    temp = parseToArrayTraceroute(readFile("testFile.txt"))
+def printHeader():
     print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Dest,Timeouts"
+
+# Print to stdout, can be saved to a .csv file by shell redirection
+def printToCSVFormat(IPname):
+    temp = parseToArrayTraceroute(readFile("../script/IP_" + IPname +".txt"))
+
     for t in temp :
         if getDate(t) != None and "Start time" not in getSource(t):
             print getDate(t),
@@ -127,5 +130,9 @@ def printToCSVFormat():
             print ",",
             print getTimeOuts(t)
 
+array_of_ips = ["130.102.82.61", "138.44.176.3", "112.137.142.4", "124.124.195.101", "155.232.32.14", "80.239.135.226", "84.237.50.25", "198.154.248.116", "143.107.249.34", "128.171.213.2", "188.44.50.103", "130.235.52.5", "194.199.156.25", "192.76.32.66", "132.247.70.37", "137.82.123.113", "128.227.9.98", "128.100.96.19", "132.216.177.160"]
+printHeader()
 
-printToCSVFormat()
+for IPname in array_of_ips:
+    printToCSVFormat(IPname)
+
