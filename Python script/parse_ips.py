@@ -105,12 +105,32 @@ def parseToArrayTraceroute(textFile):
     except:
         return None
 
+from geoip import geolite2
+def geoFromIP(IPname):
+    match = geolite2.lookup(IPname)
+    match is not None
+    return match
+
+import googlemaps
+from datetime import datetime
+def addressFromCoordinates(lat, lon):
+    gmaps = googlemaps.Client(key='AIzaSyBWSSRoyms_3GTfrEr7rpw6t-Ki_sZP43o')
+    geocode_result = gmaps.reverse_geocode((lat, lon))
+    return geocode_result[0]['formatted_address']
+
+
 def printHeader():
-    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Destination,ExpectedDestination,Timeouts,ReachedDestination"
+    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Destination,ExpectedDestination,Timeouts,ReachedDestination,Continent,Country,Latitude,Longitude,Address"
 
 # Print to stdout, can be saved to a .csv file by shell redirection
 def printToCSVFormat(IPname):
     temp = parseToArrayTraceroute(readFile("../script/IP_" + IPname +".txt"))
+
+    match = geoFromIP(IPname)
+    continent = match.continent
+    country = match.country
+    latitude, longitude = match.location
+    address = addressFromCoordinates(latitude, longitude).replace(",", ";").encode('utf-8')
 
     for t in temp :
         if getDate(t) != None and "Start time" not in getSource(t):
@@ -132,7 +152,17 @@ def printToCSVFormat(IPname):
             print ",",
             print getTimeOuts(t),
             print ",",
-            print IPname == getDest(t)
+            print IPname == getDest(t),
+            print ",",
+            print continent,
+            print ",",
+            print country,
+            print ",",
+            print latitude,
+            print ",",
+            print longitude,
+            print ",",
+            print address
 
 array_of_ips = ["138.44.176.3", "112.137.142.4", "124.124.195.101", "155.232.32.14", "80.239.135.226", "84.237.50.25", "198.154.248.116", "143.107.249.34", "128.171.213.2", "188.44.50.103", "130.235.52.5", "194.199.156.25", "192.76.32.66", "132.247.70.37", "137.82.123.113", "128.227.9.98", "128.100.96.19", "132.216.177.160"]
 printHeader()
