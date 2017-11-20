@@ -1,4 +1,4 @@
-import sys, os 
+import sys, os
 import re
 
 
@@ -21,7 +21,7 @@ End time:  Wed 8 Nov 2017 16:09:27 EST
 '''
 
 def readFile(fileName):
-    try : 
+    try :
         f = open(fileName, 'r')
         text = (f.read())
         return text
@@ -33,14 +33,14 @@ def getDate(traceRoute): #returns this string "Mon 13 Nov 2017"
     try :
         twoDots = traceRoute.index(":")
         date = traceRoute[twoDots+2:twoDots+18]
-     
+
         return date
     except:
         return None
 
 def getTime(traceRoute): #returns this string "20:24:33"
     #Start time:  Mon 13 Nov 2017 <20:24:33> EST
-    try : 
+    try :
         year = traceRoute.index("2017")
         time = traceRoute[year+5:year+13]
         return time
@@ -48,13 +48,13 @@ def getTime(traceRoute): #returns this string "20:24:33"
         return None
 
 def getTimeOuts(traceRoute): #returns the number of timeouts in a single traceroute command
-    try : 
+    try :
         return traceRoute.count('*')
     except:
         return None
 
 def getDest(traceRoute): #returns the destination IP
-    try : 
+    try :
         traceRoute = ''.join([traceRoute[len(traceRoute)-i-1] for i,j in enumerate(traceRoute)])
         m = traceRoute[traceRoute.find(")")+1 : traceRoute.find("(")]
         return ''.join([m[len(m)-i-1] for i,j in enumerate(m)])
@@ -62,7 +62,7 @@ def getDest(traceRoute): #returns the destination IP
         return None
 
 def getSource(traceRoute): #returns the Source IP
-    try : 
+    try :
         m = traceRoute[traceRoute.find("(")+1 : traceRoute.find(")")]
         return m
     except:
@@ -76,7 +76,7 @@ def getHops(traceRoute): #returns the number of hops in a single traceroute comm
         except:
             pass
     try:
-        try : 
+        try :
             ls = (ls[2:-2])
             return ls[len(ls)-1]
         except:
@@ -86,13 +86,13 @@ def getHops(traceRoute): #returns the number of hops in a single traceroute comm
         return None
 
 def getTotalSucessfulPackets(traceRoute): #returns the number of successful packets in a single traceroute command
-    try : 
+    try :
         return ((getHops(traceRoute) * 3) - getTimeOuts(traceRoute))
     except:
         return None
 
 def getAvgTime(traceRoute): #returns the average time for the last tree packet to reach destination
-    try : 
+    try :
         result = [i for i in range(len(traceRoute)) if traceRoute.startswith("ms", i)]
         times = [(traceRoute[result[len(result)-1]-8:result[len(result)-1]-1]),(traceRoute[result[len(result)-2]-8:result[len(result)-2]-1]),(traceRoute[result[len(result)-3]-8:result[len(result)-3]-1])]
         return reduce(lambda x, y: float(x) + float(y), times) / len(times)
@@ -100,13 +100,13 @@ def getAvgTime(traceRoute): #returns the average time for the last tree packet t
         return None
 
 def parseToArrayTraceroute(textFile):
-    try : 
+    try :
         return textFile.split("\n\n\n\n")
     except:
         return None
 
 def printHeader():
-    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Dest,Timeouts"
+    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Destination,ExpectedDestination,Timeouts"
 
 # Print to stdout, can be saved to a .csv file by shell redirection
 def printToCSVFormat(IPname):
@@ -128,6 +128,8 @@ def printToCSVFormat(IPname):
             print ",",
             print getDest(t),
             print ",",
+            print IPname,
+            print ",",
             print getTimeOuts(t)
 
 array_of_ips = ["138.44.176.3", "112.137.142.4", "124.124.195.101", "155.232.32.14", "80.239.135.226", "84.237.50.25", "198.154.248.116", "143.107.249.34", "128.171.213.2", "188.44.50.103", "130.235.52.5", "194.199.156.25", "192.76.32.66", "132.247.70.37", "137.82.123.113", "128.227.9.98", "128.100.96.19", "132.216.177.160"]
@@ -135,4 +137,3 @@ printHeader()
 
 for IPname in array_of_ips:
     printToCSVFormat(IPname)
-
