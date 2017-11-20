@@ -120,20 +120,19 @@ def addressFromCoordinates(lat, lon):
 
 
 def printHeader():
-    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Destination,ExpectedDestination,Timeouts,ReachedDestination,Continent,Country,Latitude,Longitude,Address"
+    print "Date,Time,AvgTime,TotalSuccessfulPackets,Hops,Source,Destination,ExpectedDestination,Timeouts,ReachedDestination,Country,Latitude,Longitude,Address"
 
 # Print to stdout, can be saved to a .csv file by shell redirection
 def printToCSVFormat(IPname):
-    temp = parseToArrayTraceroute(readFile("../script/IP_" + IPname +".txt"))
+    temp = parseToArrayTraceroute(readFile("../data/IP_" + IPname +".txt"))
 
     match = geoFromIP(IPname)
-    continent = match.continent
     country = match.country
     latitude, longitude = match.location
     address = addressFromCoordinates(latitude, longitude).replace(",", ";").encode('utf-8')
 
     for t in temp :
-        if getDate(t) != None and "Start time" not in getSource(t):
+        if getDate(t) != None and "Start time" not in getSource(t) and getHops(t) > 2:
             print getDate(t),
             print ",",
             print getTime(t),
@@ -153,8 +152,6 @@ def printToCSVFormat(IPname):
             print getTimeOuts(t),
             print ",",
             print IPname == getDest(t),
-            print ",",
-            print continent,
             print ",",
             print country,
             print ",",
