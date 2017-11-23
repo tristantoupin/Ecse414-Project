@@ -1,6 +1,8 @@
 import sys, os
 import re
-
+from geoip import geolite2
+import googlemaps
+from datetime import datetime
 
 '''
 EXAMPLE =>
@@ -105,14 +107,11 @@ def parseToArrayTraceroute(textFile):
     except:
         return None
 
-from geoip import geolite2
 def geoFromIP(IPname):
     match = geolite2.lookup(IPname)
     match is not None
     return match
 
-import googlemaps
-from datetime import datetime
 def addressFromCoordinates(lat, lon):
     gmaps = googlemaps.Client(key='AIzaSyBWSSRoyms_3GTfrEr7rpw6t-Ki_sZP43o')
     geocode_result = gmaps.reverse_geocode((lat, lon))
